@@ -37,12 +37,12 @@ def analyze_article(text):
     prompt = f"""
     Analyze the following space industry news.
 
-    Return your answer ONLY in valid JSON with this format:
+    Return ONLY valid JSON with this structure:
 
     {{
-        "summary": "two sentence summary",
-        "category": "Launch | Satellite | Policy | Economy | Science",
-        "company": "main company mentioned or Unknown"
+    "summary": "two sentence summary",
+    "category": "Launch | Satellite | Policy | Economy | Science",
+    "company": "main organization or company mentioned (examples: SpaceX, NASA, ESA, Rocket Lab, Blue Origin). If none is clearly mentioned return Unknown"
     }}
 
     News:
@@ -50,7 +50,7 @@ def analyze_article(text):
     """
 
     response = ollama.chat(
-        model="phi3",
+        model="llama3",
         messages=[{"role": "user", "content": prompt}]
     )
 
@@ -67,19 +67,54 @@ def analyze_article(text):
 
     return data
 
+
+def detect_company_keywords(text):
+
+    companies = [
+        "SpaceX",
+        "NASA",
+        "ESA",
+        "Rocket Lab",
+        "Blue Origin",
+        "Northrop Grumman",
+        "Boeing",
+        "Lockheed Martin"
+    ]
+
+    for c in companies:
+        if c.lower() in text.lower():
+            return c
+
+    return None
+
 # -----------------------------
 # IMAGE EXTRACTION
 # -----------------------------
 
-def extract_image(html):
+def extract_image(entry):
 
-    soup = BeautifulSoup(html, "html.parser")
+    # 1 media_content (muchos RSS)
+    if "media_content" in entry:
+        return entry.media_content[0]["url"]
 
-    img = soup.find("img")
+    # 2 media_thumbnail
+    if "media_thumbnail" in entry:
+        return entry.media_thumbnail[0]["url"]
 
-    if img and img.get("src"):
-        return img["src"]
+    # 3 enclosure
+    if "links" in entry:
+        for link in entry.links:
+            if link.get("type","").startswith("image"):
+                return link["href"]
 
+    # 4 buscar <img> en HTML
+    if "summary" in entry:
+        soup = BeautifulSoup(entry.summary,"html.parser")
+        img = soup.find("img")
+        if img and img.get("src"):
+            return img["src"]
+
+    # 5 imagen por defecto
     return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
 
 # -----------------------------
@@ -105,20 +140,25 @@ for url in feeds:
 
     feed = feedparser.parse(url)
 
-    for entry in feed.entries[:10]:
+    for entry in feed.entries[:5]:
 
         try:
 
             html_content = entry.summary if "summary" in entry else entry.title
 
-            image = extract_image(html_content)
-            clean_text = BeautifulSoup(html_content, "html.parser").get_text()
+            image = extract_image(entry)
+            clean_text = entry.title + " " + BeautifulSoup(html_content, "html.parser").get_text()
 
             analysis = analyze_article(clean_text)
 
+            company = detect_company_keywords(clean_text)
+
+            if company is None:
+
+                company = analysis["company"]
+
             summary_ai = analysis["summary"]
             category = analysis["category"]
-            company = analysis["company"]
 
             keywords.extend(clean_text.lower().split())
 
