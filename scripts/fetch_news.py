@@ -5,6 +5,11 @@ import os
 from bs4 import BeautifulSoup
 from collections import Counter
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+NEWS_DIR = os.path.join(BASE_DIR, "..", "news")
+
+os.makedirs(NEWS_DIR, exist_ok=True)
+
 # -----------------------------
 # RSS feeds
 # -----------------------------
@@ -27,64 +32,40 @@ keywords = []
 # IA FUNCTIONS
 # -----------------------------
 
-def summarize(text):
+def analyze_article(text):
 
     prompt = f"""
-    Summarize the following space industry news in 2 concise sentences.
-    Focus on the key event and why it matters.
+    Analyze the following space industry news.
 
-    Article:
-    {text}
-    """
+    Return your answer ONLY in valid JSON with this format:
 
-    response = ollama.chat(
-        model="llama3",
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    return response["message"]["content"]
-
-def classify(text):
-
-    prompt = f"""
-    Classify this space news into ONE category:
-    Launch
-    Satellite
-    Policy
-    Economy
-    Science
+    {{
+        "summary": "two sentence summary",
+        "category": "Launch | Satellite | Policy | Economy | Science",
+        "company": "main company mentioned or Unknown"
+    }}
 
     News:
     {text}
-
-    Return only the category name.
     """
 
     response = ollama.chat(
-        model="llama3",
+        model="phi3",
         messages=[{"role": "user", "content": prompt}]
     )
 
-    return response["message"]["content"].strip()
+    content = response["message"]["content"]
 
-def detect_company(text):
+    try:
+        data = json.loads(content)
+    except:
+        data = {
+            "summary": text[:150],
+            "category": "Unknown",
+            "company": "Unknown"
+        }
 
-    prompt = f"""
-    Identify the space company mentioned in this news.
-    If none is mentioned return 'Unknown'.
-
-    News:
-    {text}
-
-    Return only the company name.
-    """
-
-    response = ollama.chat(
-        model="llama3",
-        messages=[{"role":"user","content":prompt}]
-    )
-
-    return response["message"]["content"].strip()
+    return data
 
 # -----------------------------
 # IMAGE EXTRACTION
@@ -104,10 +85,11 @@ def extract_image(html):
 # -----------------------------
 # LOAD OLD ARTICLES
 # -----------------------------
+posts_path = os.path.join(NEWS_DIR, "posts.json")
 
-if os.path.exists("../news/posts.json"):
+if os.path.exists(posts_path):
 
-    with open("../news/posts.json", "r", encoding="utf-8") as f:
+    with open(posts_path, "r", encoding="utf-8") as f:
         old_articles = json.load(f)
 
 else:
@@ -125,25 +107,35 @@ for url in feeds:
 
     for entry in feed.entries[:3]:
 
-        image = extract_image(entry.summary)
-        clean_text = BeautifulSoup(entry.summary, "html.parser").get_text()
+        try:
 
-        summary_ai = summarize(clean_text)
-        category = classify(clean_text)
-        company = detect_company(clean_text)
-        keywords.extend(clean_text.lower().split())
+            html_content = entry.summary if "summary" in entry else entry.title
 
-        article = {
-            "title": entry.title,
-            "summary": summary_ai,
-            "link": entry.link,
-            "date": entry.get("published", "Unknown"),
-            "category": category,
-            "company": company,
-            "image": image
-        }
+            image = extract_image(html_content)
+            clean_text = BeautifulSoup(html_content, "html.parser").get_text()
 
-        articles.append(article)
+            analysis = analyze_article(clean_text)
+
+            summary_ai = analysis["summary"]
+            category = analysis["category"]
+            company = analysis["company"]
+
+            keywords.extend(clean_text.lower().split())
+
+            article = {
+                "title": entry.title,
+                "summary": summary_ai,
+                "link": entry.link,
+                "date": entry.get("published", "Unknown"),
+                "category": category,
+                "company": company,
+                "image": image
+            }
+
+            articles.append(article)
+
+        except Exception as e:
+            print("Error processing article:", e)
 
 # -----------------------------
 # MERGE OLD + NEW
@@ -203,13 +195,13 @@ for name, count in ranking:
 # SAVE FILES
 # -----------------------------
 
-with open("../news/posts.json", "w", encoding="utf-8") as f:
-    json.dump(unique_articles, f, indent=2, ensure_ascii=False)
+with open(os.path.join(NEWS_DIR, "companies.json"), "w", encoding="utf-8") as f:
+    json.dump(company_rank,f,indent=2)
 
-with open("../news/trends.json", "w", encoding="utf-8") as f:
+with open(os.path.join(NEWS_DIR, "trends.json"), "w", encoding="utf-8") as f:
     json.dump(trends, f, indent=2)
 
-with open("../news/companies.json", "w", encoding="utf-8") as f:
-    json.dump(company_rank, f, indent=2)
+with open(os.path.join(NEWS_DIR, "posts.json"), "w", encoding="utf-8") as f:
+    json.dump(articles, f, indent=2, ensure_ascii=False)
 
 print("Noticias actualizadas con IA")
