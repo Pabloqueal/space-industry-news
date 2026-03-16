@@ -1,22 +1,22 @@
 [
   {
-    "company": "Starcloud",
+    "company": "Melagen Labs",
     "mentions": 1
   },
   {
-    "company": "NASA",
+    "company": "Blue Origin",
     "mentions": 1
   },
   {
-    "company": "Since there is no mention of a specific space company in the text, I would return:\n\n'Unknown'",
+    "company": "SpaceX",
     "mentions": 1
   },
   {
-    "company": "ESA",
+    "company": "European Space Agency",
     "mentions": 1
   },
   {
-    "company": "Arianespace",
+    "company": "Astroscale",
     "mentions": 1
   }
 ]
