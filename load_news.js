@@ -6,7 +6,6 @@ fetch("news/posts.json")
 .then(data => {
 
     allArticles = data;
-
     displayNews(data);
 
 });
