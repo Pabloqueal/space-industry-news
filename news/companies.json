@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Starcloud",
+    "mentions": 1
+  },
+  {
+    "company": "NASA",
+    "mentions": 1
+  },
+  {
+    "company": "Since there is no mention of a specific space company in the text, I would return:\n\n'Unknown'",
+    "mentions": 1
+  },
+  {
+    "company": "ESA",
+    "mentions": 1
+  },
+  {
+    "company": "Arianespace",
+    "mentions": 1
+  }
+]

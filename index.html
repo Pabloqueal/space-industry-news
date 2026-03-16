@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Space Industry News</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+
+<header>
+<h1>Space Industry News</h1>
+<p>AI-powered insights from the global space sector</p>
+</header>
+
+</body>
+
+<div class="container">
+
+<h2>Latest News</h2>
+<div id="news-container"></div>
+
+<h2>Top Space Companies</h2>
+<div id="companies"></div>
+
+<h2>Recent Launch Sites</h2>
+<div id="map" style="height:400px;"></div>
+
+</div>
+
+<script src="load_news.js"></script>
+<script src="load_trends.js"></script>
+<script src="load_companies.js"></script>
+<script src="launch_map.js"></script>
+
+</body>
+
+</html>
