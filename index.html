@@ -16,13 +16,35 @@
 
 </body>
 
+<div class="filters">
+
+<button onclick="filterCategory('All')">All</button>
+<button onclick="filterCategory('Launch')">Launch</button>
+<button onclick="filterCategory('Satellite')">Satellite</button>
+<button onclick="filterCategory('Policy')">Policy</button>
+<button onclick="filterCategory('Economy')">Economy</button>
+<button onclick="filterCategory('Science')">Science</button>
+
+</div>
+
+<div class="search-box">
+<input 
+type="text" 
+id="searchInput" 
+placeholder="Search space news..."
+onkeyup="searchNews()"
+/>
+</div>
+
 <div class="container">
 
 <h2>Latest News</h2>
 <div id="news-container"></div>
 
+<section class="companies-section">
 <h2>Top Space Companies</h2>
-<div id="companies"></div>
+<div id="companies-ranking"></div>
+</section>
 
 <h2>Recent Launch Sites</h2>
 <div id="map" style="height:400px;"></div>
