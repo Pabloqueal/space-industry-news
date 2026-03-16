@@ -1,16 +1,31 @@
 import feedparser
 import json
 import ollama
+import os
 from bs4 import BeautifulSoup
 from collections import Counter
 
+# -----------------------------
+# RSS feeds
+# -----------------------------
+
 feeds = [
     "https://spacenews.com/feed",
+    "https://www.space.com/feeds/all",
     "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-    "https://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology"
+    "https://www.nasaspaceflight.com/feed/",
+    "https://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology",
+    "https://feeds.arstechnica.com/arstechnica/space",
+    "https://payloadspace.com/feed/",
+    "https://www.satellitetoday.com/feed/"
 ]
 
 articles = []
+keywords = []
+
+# -----------------------------
+# IA FUNCTIONS
+# -----------------------------
 
 def summarize(text):
 
@@ -71,6 +86,10 @@ def detect_company(text):
 
     return response["message"]["content"].strip()
 
+# -----------------------------
+# IMAGE EXTRACTION
+# -----------------------------
+
 def extract_image(html):
 
     soup = BeautifulSoup(html, "html.parser")
@@ -82,9 +101,25 @@ def extract_image(html):
 
     return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
 
-keywords = []
+# -----------------------------
+# LOAD OLD ARTICLES
+# -----------------------------
+
+if os.path.exists("../news/posts.json"):
+
+    with open("../news/posts.json", "r", encoding="utf-8") as f:
+        old_articles = json.load(f)
+
+else:
+    old_articles = []
+
+# -----------------------------
+# FETCH NEWS
+# -----------------------------
 
 for url in feeds:
+
+    print("Reading feed:", url)
 
     feed = feedparser.parse(url)
 
@@ -92,6 +127,7 @@ for url in feeds:
 
         image = extract_image(entry.summary)
         clean_text = BeautifulSoup(entry.summary, "html.parser").get_text()
+
         summary_ai = summarize(clean_text)
         category = classify(clean_text)
         company = detect_company(clean_text)
@@ -101,7 +137,7 @@ for url in feeds:
             "title": entry.title,
             "summary": summary_ai,
             "link": entry.link,
-            "date": entry.published,
+            "date": entry.get("published", "Unknown"),
             "category": category,
             "company": company,
             "image": image
@@ -109,32 +145,71 @@ for url in feeds:
 
         articles.append(article)
 
+# -----------------------------
+# MERGE OLD + NEW
+# -----------------------------
+
+all_articles = old_articles + articles
+
+# -----------------------------
+# REMOVE DUPLICATES
+# -----------------------------
+
+unique_articles = []
+links_seen = set()
+
+for article in all_articles:
+
+    if article["link"] not in links_seen:
+
+        unique_articles.append(article)
+        links_seen.add(article["link"])
+
+# -----------------------------
+# LIMIT STORAGE
+# -----------------------------
+
+unique_articles = unique_articles[:50]
+
+# -----------------------------
+# TRENDS ANALYSIS
+# -----------------------------
+
 common_words = Counter(keywords).most_common(10)
-companies = [a["company"] for a in articles if a["company"] != "Unknown"]
-ranking = Counter(companies).most_common(5)
 
 trends = []
+
 for word, count in common_words:
     trends.append({
         "keyword": word,
         "count": count
     })
 
+# -----------------------------
+# COMPANY RANKING
+# -----------------------------
+
+companies = [a["company"] for a in articles if a["company"] != "Unknown"]
+ranking = Counter(companies).most_common(5)
 company_rank = []
+
 for name, count in ranking:
     company_rank.append({
         "company": name,
         "mentions": count
     })
 
-with open("../news/companies.json","w") as f:
-    json.dump(company_rank,f,indent=2)
+# -----------------------------
+# SAVE FILES
+# -----------------------------
+
+with open("../news/posts.json", "w", encoding="utf-8") as f:
+    json.dump(unique_articles, f, indent=2, ensure_ascii=False)
 
 with open("../news/trends.json", "w", encoding="utf-8") as f:
     json.dump(trends, f, indent=2)
 
-with open("../news/posts.json", "w", encoding="utf-8") as f:
-    json.dump(articles, f, indent=2, ensure_ascii=False)
+with open("../news/companies.json", "w", encoding="utf-8") as f:
+    json.dump(company_rank, f, indent=2)
 
-
-print("Noticias resumidas con IA y actualizadas")
+print("Noticias actualizadas con IA")
