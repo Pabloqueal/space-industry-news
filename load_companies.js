@@ -1,14 +1,33 @@
 fetch("news/companies.json")
-.then(res=>res.json())
-.then(data=>{
+.then(response => response.json())
+.then(data => {
 
-const container=document.getElementById("companies");
+const container = document.getElementById("companies-ranking");
 
-data.forEach(c=>{
+data.forEach((company,index)=>{
 
-const div=document.createElement("div");
+let medal = "";
 
-div.innerHTML=`${c.company} (${c.mentions})`;
+if(index === 0) medal = "🥇";
+else if(index === 1) medal = "🥈";
+else if(index === 2) medal = "🥉";
+else medal = "#" + (index+1);
+
+const div = document.createElement("div");
+
+div.className = "company-card";
+
+div.innerHTML = `
+
+<div class="company-rank">${medal}</div>
+
+<div class="company-name">${company.company}</div>
+
+<div class="company-mentions">
+${company.mentions} news mentions
+</div>
+
+`;
 
 container.appendChild(div);
 
