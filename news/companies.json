@@ -1,7 +1,7 @@
 [
   {
     "company": "NASA",
-    "mentions": 7
+    "mentions": 8
   },
   {
     "company": "SpaceX",
@@ -10,5 +10,13 @@
   {
     "company": "ESA",
     "mentions": 3
+  },
+  {
+    "company": "Payload",
+    "mentions": 3
+  },
+  {
+    "company": "Satlyt",
+    "mentions": 1
   }
 ]
