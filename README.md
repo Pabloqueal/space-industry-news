@@ -6,4 +6,3 @@ Features:
 - AI summarized articles
 - Space company rankings
 - Launch site map
-- Industry trend analysis
