@@ -20,7 +20,6 @@ feeds = [
     "https://www.nasa.gov/rss/dyn/breaking_news.rss",
     "https://www.nasaspaceflight.com/feed/",
     "https://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology",
-    "https://feeds.arstechnica.com/arstechnica/space",
     "https://payloadspace.com/feed/",
     "https://www.satellitetoday.com/feed/"
 ]
@@ -115,7 +114,7 @@ def extract_image(entry):
             return img["src"]
 
     # 5 imagen por defecto
-    return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+    return "https://upload.wikimedia.org/wikipedia/commons/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg"
 
 # -----------------------------
 # LOAD OLD ARTICLES
