@@ -105,7 +105,7 @@ for url in feeds:
 
     feed = feedparser.parse(url)
 
-    for entry in feed.entries[:3]:
+    for entry in feed.entries[:10]:
 
         try:
 
