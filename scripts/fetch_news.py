@@ -40,7 +40,7 @@ def analyze_article(text):
 
     {{
     "summary": "two sentence summary",
-    "category": "Launch | Satellite | Policy | Economy | Science",
+    "category": "Launch | Satellite | Policy | Economy | Science | Mission | History",
     "company": "main organization or company mentioned (examples: SpaceX, NASA, ESA, Rocket Lab, Blue Origin). If none is clearly mentioned return Unknown"
     }}
 
@@ -53,7 +53,12 @@ def analyze_article(text):
         messages=[{"role": "user", "content": prompt}]
     )
 
-    content = response["message"]["content"]
+    content = response["message"]["content"].strip()
+
+    start = content.find("{")
+    end = content.rfind("}") + 1
+
+    content = content[start:end]
 
     try:
         data = json.loads(content)
