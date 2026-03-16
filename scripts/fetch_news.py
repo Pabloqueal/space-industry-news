@@ -13,7 +13,7 @@ os.makedirs(NEWS_DIR, exist_ok=True)
 # -----------------------------
 # RSS feeds
 # -----------------------------
-
+  
 feeds = [
     "https://spacenews.com/feed",
     "https://www.space.com/feeds/all",
