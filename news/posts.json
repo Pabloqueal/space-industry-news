@@ -1,83 +1,191 @@
 [
   {
-    "title": "China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites",
-    "summary": "Here is a concise summary of the space industry news:\n\nChina conducted two successful launches on Sunday, including the deployment of a second Yaogan-50 satellite into a highly retrograde orbit. This matters because the Yaogan-50 satellite's unique orbit and mission requirements demonstrate China's growing capabilities in developing complex spacecraft and expanding its presence in Earth observation and surveillance missions.",
-    "link": "https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/",
-    "date": "Mon, 16 Mar 2026 10:59:46 +0000",
-    "category": "Launch",
-    "company": "Unknown",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Yaogan50-02-CZ6A-TSLC-15march2026-CASC.jpg?fit=1024%2C603&ssl=1"
-  },
-  {
-    "title": "Starcloud files plans for 88,000-satellite constellation",
-    "summary": "Here is a summary of the space industry news in 2 concise sentences:\n\nStarcloud, an orbital data center startup, has filed with the Federal Communications Commission (FCC) to deploy a massive constellation of up to 88,000 satellites. This enormous project would provide unprecedented global connectivity and access to satellite-based services, potentially revolutionizing the way we communicate and use data in space.",
-    "link": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
-    "date": "Sun, 15 Mar 2026 22:32:15 +0000",
-    "category": "Launch",
-    "company": "Starcloud",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1"
-  },
-  {
-    "title": "OSTP taking on space policy coordination work in place of National Space Council",
-    "summary": "Here is a 2-sentence summary:\n\nThe White House Office of Science and Technology Policy (OSTP) has taken the lead role in coordinating national space policy, filling the gap left by the absence of the National Space Council. This shift matters because OSTP's involvement ensures continued coordination and guidance on national space efforts, despite the hiatus in the National Space Council.",
-    "link": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
-    "date": "Sun, 15 Mar 2026 16:04:52 +0000",
-    "category": "Policy",
-    "company": "Unknown",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NSC_meeting-scaled.jpg?fit=1024%2C576&ssl=1"
-  },
-  {
-    "title": "Volunteers Find Oddly High Solar Flare Rates",
-    "summary": "Here is a summary of the article in 2 concise sentences:\n\nA new study has shed light on \"long-lived active regions\" on the Sun's surface, which are areas with strong magnetic fields that can emerge and decay over days, weeks, or even months. This research matters because it helps scientists better understand these patches, which can have a significant impact on space weather and Earth's magnetic field.",
-    "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/",
-    "date": "Fri, 13 Mar 2026 22:07:28 +0000",
+    "title": "Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding",
+    "summary": "Melagen Labs and their partner, Satlyt, have announced a joint mission aboard the ISS to test new technologies aimed at protecting computers from radiation in space using AEGIS MISSE platform.",
+    "link": "https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/",
+    "date": "Mon, 16 Mar 2026 16:00:00 +0000",
     "category": "Science",
+    "company": "Melagen Labs",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ml-logo-square.png?fit=1024%2C1024&ssl=1"
+  },
+  {
+    "title": "Kepler Communications: Call for Live-Stream Payload Concepts",
+    "summary": "\nKepler is issuing a call for payloads seeking persistent, real-time data streaming in Low Earth Orbit. Integration starts soon for the limited number",
+    "link": "https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/",
+    "date": "Mon, 16 Mar 2026 15:00:00 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/0203/03/KepNet-Banner-2026-879x680-1.jpg?fit=879%2C680&ssl=1"
+  },
+  {
+    "title": "Investing in student programs is essential for America’s lead in space",
+    "summary": "University of Illinois' successful quantum communication test aboard the International Space Station marks progress towards advanced space networks.",
+    "link": "https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/",
+    "date": "Mon, 16 Mar 2026 13:00:00 +0000",
+    "category": "Science",
+    "company": "Unknown",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/ISS-in-2021-as-seen-from-Dragon_NASA.jpeg?fit=1000%2C666&ssl=1"
+  },
+  {
+    "title": "Astronomers discover a new type of planet that probably smells like rotten eggs",
+    "summary": "Using the James Webb Space Telescope, astronomers have discovered an example of a new class of exoplanet, and it smells like rotten eggs.",
+    "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs",
+    "date": "Mon, 16 Mar 2026 18:00:00 +0000",
+    "category": "Unknown",
     "company": "Unknown",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
   },
   {
-    "title": "Extra Extra! Extra Data Stream Added to the Daily Minor Planet!",
-    "summary": "Here is a summary of the space industry news:\n\nThe Daily Minor Planet citizen science project is expanding its scope, incorporating data from the Bok 2.3-meter telescope at Kitt Peak National Observatory in addition to its existing nightly feed from the Catalina Sky Survey's Mt. Lemmon telescope in Arizona. This expansion matters because it will enable scientists and citizens alike to contribute to a broader understanding of minor planets and potentially discover new ones, advancing our knowledge of the solar system.",
-    "link": "https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/",
-    "date": "Fri, 13 Mar 2026 21:42:20 +0000",
-    "category": "Science",
+    "title": "'Villains are the heroes of their own movie': We chat to 'Star Trek: Starfleet Academy' showrunners about building an iconic Trek villain",
+    "summary": "'It promises that this is just the beginning of the story for these characters. There's so much more to tell.'",
+    "link": "https://www.space.com/entertainment/space-movies-shows/we-chat-to-star-trek-starfleet-academy-showrunners-about-building-an-iconic-trek-villain",
+    "date": "Mon, 16 Mar 2026 16:00:00 +0000",
+    "category": "Unknown",
     "company": "Unknown",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
   },
   {
-    "title": "NASA Selects Finalists in Student Aircraft Maintenance Competition",
-    "summary": "Here is a summary of the space industry news in 2 concise sentences:\n\nNASA has selected eight student teams as finalists in the 2026 Gateways to Blue Skies Competition, aiming to address the critical challenge of maintenance in the commercial aviation industry. This initiative matters because it taps into student innovation to solve pressing issues like the shortage of qualified maintenance workers and increasing demands to keep complex aircraft running for longer.",
-    "link": "https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/",
-    "date": "Fri, 13 Mar 2026 19:17:49 +0000",
+    "title": "Timboy Chaco in the Mars borderlands | Space photo of the day for March 16, 2026",
+    "summary": "Scientists are searching for evidence of microbial life left behind in these mineral deposits.",
+    "link": "https://www.space.com/space-exploration/mars-rovers/timboy-chaco-in-the-mars-borderlands-space-photo-of-the-day-for-march-16-2026",
+    "date": "Mon, 16 Mar 2026 14:30:49 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry",
+    "summary": "From the voyages of spacecraft to the Moon and beyond, to the launches of satellites that help us navigate, communicate, and understand our planet and",
+    "link": "https://www.nasa.gov/image-article/celebrating-100-years-since-goddards-breakthrough-moment-in-modern-rocketry/",
+    "date": "Mon, 16 Mar 2026 13:58:05 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "A Combination of Techniques Leads to Improved Friction Stir Welding",
+    "summary": "Download PDF: A Combination of Techniques Leads to Improved Friction Stir Welding The NESC developed several innovative tools and techniques during an",
+    "link": "https://www.nasa.gov/centers-and-facilities/nesc/a-combination-of-techniques-leads-to-improved-friction-stir-welding/",
+    "date": "Mon, 16 Mar 2026 13:52:01 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "NESC Develops Method for Estimating Risk When Reducing NDE",
+    "summary": "Download PDF: NESC Develops Method for Estimating Risk When Reducing NDE  Performing nondestructive evaluation (NDE) can have both cost and schedule i",
+    "link": "https://www.nasa.gov/general/nesc-develops-method-for-estimating-risk-when-reducing-nde/",
+    "date": "Mon, 16 Mar 2026 13:03:57 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
+    "summary": "Blue Origin introduces the NEO Hunter mission concept for planetary defense against Near-Earth Objects (NEOs).",
+    "link": "https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/",
+    "date": "Sat, 14 Mar 2026 21:15:26 +0000",
     "category": "Science",
-    "company": "NASA",
+    "company": "Blue Origin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "From Steel Rolls to Starship at the Starfactory",
+    "summary": "As SpaceX accelerates its ambitious goal of sending humans to the Moon and Mars, the…\nThe post From Steel Rolls to Starship at the Starfactory appeare",
+    "link": "https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/",
+    "date": "Fri, 13 Mar 2026 20:53:11 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "New crew arrivals and science highlight February aboard the ISS",
+    "summary": "Crew Dragon's Crew-11 faced an early departure due to medical reasons, while new astronaut crews arrive with a focus on science projects.",
+    "link": "https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/",
+    "date": "Wed, 11 Mar 2026 22:38:16 +0000",
+    "category": "Launch | Science",
+    "company": "SpaceX",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
   },
   {
     "title": "TEC Business to Business website",
-    "summary": "I apologize, but you didn't provide an article for me to summarize. If you could share the article with me, I'd be happy to help you summarize the space industry news in 2 concise sentences!",
+    "summary": "\nTEC Business to Business website\n",
     "link": "https://technology.esa.int",
     "date": "Tue, 14 Dec 2021 08:52:00 +0100",
-    "category": "Launch",
-    "company": "Since there is no mention of a specific space company in the text, I would return:\n\n'Unknown'",
+    "category": "Unknown",
+    "company": "Unknown",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/12/tec_b2b_website_lead_image/23851091-1-eng-GB/TEC_B2B_website_lead_image_card_full.png"
   },
   {
     "title": "ESA Delivers: 50 years booklet",
-    "summary": "Here is a summary of the ESA's \"Delivers\" booklet in 2 concise sentences:\n\nThe European Space Agency (ESA) has released a commemorative booklet celebrating its 50-year history, highlighting 50 hallmark achievements that showcase its notable contributions to space exploration. This milestone publication matters because it provides a comprehensive look at the agency's significant accomplishments and highlights its enduring impact on advancing our understanding of space and the universe.",
+    "summary": "\nESA Delivers: 50 years booklet\n50 hallmark achievements across 50 years",
     "link": "https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet",
     "date": "Fri, 20 Jun 2025 09:45:00 +0200",
-    "category": "Science",
-    "company": "ESA",
+    "category": "Unknown",
+    "company": "Unknown",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/06/esa_50_years/26743459-1-eng-GB/ESA_50_years_card_full.jpg"
   },
   {
     "title": "Plato readies for space-like tests",
-    "summary": "Here is a summary of the article in 2 concise sentences:\n\nThe European Space Agency's (ESA) mission to discover Earth-like exoplanets, Plato, has been placed in ESA's Test Centre's Large Space Simulator (LSS) chamber for vital tests under space-like conditions. This simulated environment allows the spacecraft to be tested for functionality and performance before its planned launch by the end of 2027, ensuring that it is ready to successfully detect terrestrial planets orbiting Sun-like stars.",
+    "summary": "The European Space Agency's Plato mission to discover exoplanets is undergoing crucial tests at the Large Space Simulator. Engineers have subjected it to extreme temperatures and vacuum conditions similar to space, with special attention on its cameras.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests",
     "date": "Fri, 13 Mar 2026 11:00:00 +0100",
-    "category": "Launch",
-    "company": "Arianespace",
+    "category": "Science",
+    "company": "European Space Agency",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/plato_readies_for_space-like_tests/27151050-1-eng-GB/Plato_readies_for_space-like_tests_card_full.jpg"
+  },
+  {
+    "title": "Leonardo’s Missile-Defense Demo in Ukraine Aims To Be a Blueprint for Other Nations",
+    "summary": "Leonardo is positioning itself to become a mass distributor of space-enabled missile defense shields.\nThe post Leonardo’s Missile-Defense Demo in Ukra",
+    "link": "https://payloadspace.com/leonardos-missile-defense-demo-in-ukraine-aims-to-be-blueprint-for-other-nations/",
+    "date": "Mon, 16 Mar 2026 12:43:09 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://payloadspace.com/wp-content/uploads/2026/03/5M20180-200x200.jpg"
+  },
+  {
+    "title": "Isaacman Plans Monthly Uncrewed Lunar Landings In 2027",
+    "summary": "“We are going to plus up for Moon base construction in a huge way,” said during an interview with Spaceflight Now that was released late Friday night.",
+    "link": "https://payloadspace.com/isaacman-plans-monthly-uncrewed-lunar-landings-in-2027/",
+    "date": "Mon, 16 Mar 2026 12:32:46 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://payloadspace.com/wp-content/uploads/2025/03/Jared-Isaacman-Polaris-Dawn-copy-200x200.jpg"
+  },
+  {
+    "title": "Viasat’s HaloNet: The Innovation of Reprogrammable Space Crypto",
+    "summary": "Spacecraft today operate in an environment defined by two accelerating forces: the explosive growth of satellites in orbit, and the rapid evolution of",
+    "link": "https://payloadspace.com/viasats-halonet-the-innovation-of-reprogrammable-space-crypto/",
+    "date": "Sat, 14 Mar 2026 03:30:00 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://payloadspace.com/wp-content/uploads/2026/03/HaloNet-PR-image-encryption-9357504996-001-1920x1080-1-200x200.jpg"
+  },
+  {
+    "title": "Isar Aerospace Wins New Astroscale Contract",
+    "summary": "Isar Aerospace to launch 'ELSA-M' IOD mission with Astroscale Ltd, UK subsidiary of Japan-based Astroscale Holdings Inc.",
+    "link": "https://www.satellitetoday.com/launch/2026/03/16/isar-aerospace-wins-new-astroscale-contract/",
+    "date": "Mon, 16 Mar 2026 18:04:02 +0000",
+    "category": "Launch",
+    "company": "Astroscale",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "EDA Commits to New VLEO Military Research Project",
+    "summary": "The European Defence Agency (EDA) is going to explore the Very Low Earth Orbit (VLEO) region in space in a major new research project. The project, ca",
+    "link": "https://www.satellitetoday.com/government-military/2026/03/16/eda-commits-to-new-vleo-military-research-project/",
+    "date": "Mon, 16 Mar 2026 18:03:06 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
+  },
+  {
+    "title": "SSC Space Inks New Launch Deal",
+    "summary": "Sweden has moved one step closer to being and to control and launch satellites into orbit from its own territory from a national security perspective.",
+    "link": "https://www.satellitetoday.com/government-military/2026/03/16/ssc-space-inks-new-launch-deal/",
+    "date": "Mon, 16 Mar 2026 18:01:58 +0000",
+    "category": "Unknown",
+    "company": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FullMoon2010.jpg/640px-FullMoon2010.jpg"
   }
 ]
