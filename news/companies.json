@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 8
-  },
-  {
-    "company": "SpaceX",
-    "mentions": 3
+    "mentions": 9
   },
   {
     "company": "ESA",
     "mentions": 3
   },
   {
-    "company": "Payload",
-    "mentions": 3
+    "company": "SpaceX",
+    "mentions": 2
   },
   {
-    "company": "Satlyt",
+    "company": "JAXA (Japanese space agency)",
+    "mentions": 1
+  },
+  {
+    "company": "Payload",
     "mentions": 1
   }
 ]
