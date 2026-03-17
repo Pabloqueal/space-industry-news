@@ -5,6 +5,8 @@ import os
 from bs4 import BeautifulSoup
 from collections import Counter
 
+USE_OLLAMA = os.getenv("USE_OLLAMA", "false") == "true"
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 NEWS_DIR = os.path.join(BASE_DIR, "..", "news")
 
@@ -13,7 +15,7 @@ os.makedirs(NEWS_DIR, exist_ok=True)
 # -----------------------------
 # RSS feeds
 # -----------------------------
-  
+
 feeds = [
     "https://spacenews.com/feed",
     "https://www.space.com/feeds/all",
@@ -32,6 +34,9 @@ keywords = []
 # -----------------------------
 
 def analyze_article(text):
+
+    if not USE_OLLAMA:
+        return text[:150] + "..."
 
     prompt = f"""
     Analyze the following space industry news.
