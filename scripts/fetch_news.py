@@ -1,10 +1,14 @@
 import feedparser
 import json
-import ollama
 import os
 from bs4 import BeautifulSoup
 from collections import Counter
 
+try:
+    import ollama
+except:
+    ollama = None
+    
 USE_OLLAMA = os.getenv("USE_OLLAMA", "false") == "true"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -34,9 +38,6 @@ keywords = []
 # -----------------------------
 
 def analyze_article(text):
-
-    if not USE_OLLAMA:
-        return text[:150] + "..."
 
     prompt = f"""
     Analyze the following space industry news.
@@ -124,7 +125,7 @@ def extract_image(entry):
             return img["src"]
 
     # 5 imagen por defecto
-    return "https://upload.wikimedia.org/wikipedia/commons/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg"
+    return "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
 
 # -----------------------------
 # LOAD OLD ARTICLES
