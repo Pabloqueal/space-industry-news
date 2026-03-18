@@ -1,22 +1,14 @@
 [
   {
     "company": "NASA",
-    "mentions": 8
+    "mentions": 11
   },
   {
     "company": "ESA",
-    "mentions": 4
+    "mentions": 5
   },
   {
     "company": "SpaceX",
-    "mentions": 2
-  },
-  {
-    "company": "Nvidia",
-    "mentions": 2
-  },
-  {
-    "company": "SpaceNews",
     "mentions": 1
   }
 ]
