@@ -39,6 +39,14 @@ keywords = []
 
 def analyze_article(text):
 
+    # Si NO usamos Ollama → fallback simple
+    if not USE_OLLAMA or ollama is None:
+        return {
+            "summary": text[:150] + "...",
+            "category": "Unknown",
+            "company": "Unknown"
+        }
+
     prompt = f"""
     Analyze the following space industry news.
 
@@ -47,30 +55,32 @@ def analyze_article(text):
     {{
     "summary": "two sentence summary",
     "category": "Launch | Satellite | Policy | Economy | Science | Mission | History",
-    "company": "main organization or company mentioned (examples: SpaceX, NASA, ESA, Rocket Lab, Blue Origin). If none is clearly mentioned return Unknown"
+    "company": "main organization or company mentioned"
     }}
 
     News:
     {text}
     """
 
-    response = ollama.chat(
-        model="llama3",
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    content = response["message"]["content"].strip()
-
-    start = content.find("{")
-    end = content.rfind("}") + 1
-
-    content = content[start:end]
-
     try:
+        response = ollama.chat(
+            model="llama3",
+            messages=[{"role": "user", "content": prompt}]
+        )
+
+        content = response["message"]["content"].strip()
+
+        start = content.find("{")
+        end = content.rfind("}") + 1
+
+        content = content[start:end]
+
         data = json.loads(content)
-    except:
+
+    except Exception as e:
+        print("Ollama error:", e)
         data = {
-            "summary": text[:150],
+            "summary": text[:150] + "...",
             "category": "Unknown",
             "company": "Unknown"
         }
@@ -104,8 +114,8 @@ def detect_company_keywords(text):
 def extract_image(entry):
 
     # 1 media_content (muchos RSS)
-    if "media_content" in entry:
-        return entry.media_content[0]["url"]
+    if "media_content" in entry and len(entry.media_content) > 0:
+        return entry.media_content[0].get("url", "")
 
     # 2 media_thumbnail
     if "media_thumbnail" in entry:
@@ -170,7 +180,12 @@ for url in feeds:
             summary_ai = analysis["summary"]
             category = analysis["category"]
 
-            keywords.extend(clean_text.lower().split())
+            stopwords = {"the","and","to","of","in","a","for","on","with"}
+
+            keywords.extend([
+                w for w in clean_text.lower().split()
+                if w not in stopwords and len(w) > 3
+            ])
 
             article = {
                 "title": entry.title,
