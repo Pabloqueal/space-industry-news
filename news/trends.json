@@ -1,7 +1,7 @@
 [
   {
     "keyword": "space",
-    "count": 30
+    "count": 32
   },
   {
     "keyword": "first",
@@ -24,7 +24,11 @@
     "count": 9
   },
   {
-    "keyword": "launches",
+    "keyword": "2026",
+    "count": 8
+  },
+  {
+    "keyword": "week",
     "count": 8
   },
   {
@@ -33,10 +37,6 @@
   },
   {
     "keyword": "from",
-    "count": 7
-  },
-  {
-    "keyword": "this",
     "count": 7
   }
 ]
