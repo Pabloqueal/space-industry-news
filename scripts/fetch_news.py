@@ -1,14 +1,10 @@
 import feedparser
 import json
+import ollama
 import os
 from bs4 import BeautifulSoup
 from collections import Counter
 
-try:
-    import ollama
-except:
-    ollama = None
-    
 USE_OLLAMA = os.getenv("USE_OLLAMA", "false") == "true"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
