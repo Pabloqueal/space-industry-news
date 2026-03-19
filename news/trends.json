@@ -4,10 +4,6 @@
     "count": 22
   },
   {
-    "keyword": "space",
-    "count": 20
-  },
-  {
     "keyword": "post",
     "count": 20
   },
@@ -16,8 +12,12 @@
     "count": 20
   },
   {
+    "keyword": "space",
+    "count": 16
+  },
+  {
     "keyword": "launch",
-    "count": 14
+    "count": 16
   },
   {
     "keyword": "satellite",
@@ -25,18 +25,18 @@
   },
   {
     "keyword": "will",
-    "count": 11
+    "count": 12
   },
   {
     "keyword": "that",
-    "count": 10
+    "count": 11
   },
   {
-    "keyword": "nasa",
+    "keyword": "mission",
     "count": 9
   },
   {
-    "keyword": "from",
-    "count": 9
+    "keyword": "japanese",
+    "count": 8
   }
 ]
