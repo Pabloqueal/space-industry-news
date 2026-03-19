@@ -11,6 +11,7 @@ let medal = "";
 if(index === 0) medal = "🥇";
 else if(index === 1) medal = "🥈";
 else if(index === 2) medal = "🥉";
+else medal = "#" + (index+1);
 
 const div = document.createElement("div");
 
