@@ -3,7 +3,10 @@ import json
 import os
 from bs4 import BeautifulSoup
 from collections import Counter
-from mistralai import Mistral
+from mistralai.client import MistralClient
+from mistralai.models.chat_completion import ChatMessage
+
+client = MistralClient(api_key=os.getenv("MISTRAL_API_KEY"))
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 NEWS_DIR = os.path.join(BASE_DIR, "..", "news")
@@ -31,8 +34,6 @@ keywords = []
 # IA FUNCTIONS
 # -----------------------------
 
-client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
-
 def analyze_article(text):
 
     prompt = f"""
@@ -51,15 +52,18 @@ def analyze_article(text):
     """
 
     try:
-        response = client.chat.complete(
+        response = client.chat(
             model="mistral-small-latest",
-            messages=[{"role": "user", "content": prompt}]
+            messages=[ChatMessage(role="user", content=prompt)]
         )
 
         content = response.choices[0].message.content
 
         start = content.find("{")
         end = content.rfind("}") + 1
+
+        if start == -1 or end == -1:
+            raise ValueError("No JSON found")
 
         return json.loads(content[start:end])
 
