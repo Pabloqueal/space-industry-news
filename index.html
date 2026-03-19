@@ -1,63 +1,78 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
     <title>Space Industry News</title>
+
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 
+<body>
+
+<!-- HERO -->
 <header class="hero">
-  <h1>Space Industry News</h1>
+  <h1>🚀 Space Industry News</h1>
   <p>AI-powered insights from the global space sector</p>
 </header>
 
-</body>
-
+<!-- FILTERS -->
 <div class="filters">
-
-<button onclick="filterCategory('All')">All</button>
-<button onclick="filterCategory('Launch')">Launch</button>
-<button onclick="filterCategory('Satellite')">Satellite</button>
-<button onclick="filterCategory('Policy')">Policy</button>
-<button onclick="filterCategory('Economy')">Economy</button>
-<button onclick="filterCategory('Science')">Science</button>
-<button onclick="filterCategory('Mission')">Mission</button>
-<button onclick="filterCategory('History')">History</button>
-
+  <button onclick="filterCategory('All')">All</button>
+  <button onclick="filterCategory('Launch')">Launch</button>
+  <button onclick="filterCategory('Satellite')">Satellite</button>
+  <button onclick="filterCategory('Policy')">Policy</button>
+  <button onclick="filterCategory('Economy')">Economy</button>
+  <button onclick="filterCategory('Science')">Science</button>
+  <button onclick="filterCategory('Mission')">Mission</button>
+  <button onclick="filterCategory('History')">History</button>
 </div>
 
+<!-- SEARCH -->
 <div class="search-box">
-<input 
-type="text" 
-id="searchInput" 
-placeholder="Search space news..."
-onkeyup="searchNews()"
-/>
+  <input 
+    type="text" 
+    id="searchInput" 
+    placeholder="🔍 Search space news..."
+    onkeyup="searchNews()"
+  />
 </div>
 
+<!-- MAIN CONTENT -->
 <div class="container">
 
-<section class="companies-section">
-<h2>Top Space Companies</h2>
-<div id="companies-ranking"></div>
-</section>
+  <!-- COMPANIES -->
+  <section class="companies-section">
+    <h2>🏆 Top Space Companies</h2>
+    <div id="companies-ranking"></div>
+  </section>
 
-<h2>Latest News</h2>
-<div class="news-container" id="news"></div>
+  <!-- NEWS -->
+  <section>
+    <h2>📰 Latest News</h2>
+    <div id="news-container"></div>
+  </section>
 
-<h2>Recent Launch Sites</h2>
-<div id="map" style="height:400px;"></div>
+  <!-- MAP -->
+  <section>
+    <h2>📍 Recent Launch Sites</h2>
+    <div id="map" style="height:400px; border-radius:12px;"></div>
+  </section>
 
 </div>
 
+<!-- SCRIPTS -->
 <script src="load_news.js"></script>
 <script src="load_trends.js"></script>
 <script src="load_companies.js"></script>
 <script src="launch_map.js"></script>
 
 </body>
-
 </html>
