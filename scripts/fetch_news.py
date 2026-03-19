@@ -3,13 +3,7 @@ import json
 import os
 from bs4 import BeautifulSoup
 from collections import Counter
-
-try: 
-    import ollama 
-except: 
-    ollama = None
-
-USE_OLLAMA = os.getenv("USE_OLLAMA", "false") == "true"
+from mistralai import Mistral
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 NEWS_DIR = os.path.join(BASE_DIR, "..", "news")
@@ -37,25 +31,19 @@ keywords = []
 # IA FUNCTIONS
 # -----------------------------
 
-def analyze_article(text):
+client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
 
-    # Si NO usamos Ollama → fallback simple
-    if not USE_OLLAMA or ollama is None:
-        return {
-            "summary": text[:150] + "...",
-            "category": "Unknown",
-            "company": "Unknown"
-        }
+def analyze_article(text):
 
     prompt = f"""
     Analyze the following space industry news.
 
-    Return ONLY valid JSON with this structure:
+    Return ONLY JSON:
 
     {{
-    "summary": "two sentence summary",
+    "summary": "two sentences",
     "category": "Launch | Satellite | Policy | Economy | Science | Mission | History",
-    "company": "main organization or company mentioned"
+    "company": "main company or organization mentioned"
     }}
 
     News:
@@ -63,29 +51,26 @@ def analyze_article(text):
     """
 
     try:
-        response = ollama.chat(
-            model="llama3",
+        response = client.chat.complete(
+            model="mistral-small-latest",
             messages=[{"role": "user", "content": prompt}]
         )
 
-        content = response["message"]["content"].strip()
+        content = response.choices[0].message.content
 
         start = content.find("{")
         end = content.rfind("}") + 1
 
-        content = content[start:end]
-
-        data = json.loads(content)
+        return json.loads(content[start:end])
 
     except Exception as e:
-        print("Ollama error:", e)
-        data = {
-            "summary": text[:150] + "...",
+        print("Mistral error:", e)
+
+        return {
+            "summary": text[:150],
             "category": "Unknown",
             "company": "Unknown"
         }
-
-    return data
 
 
 def detect_company_keywords(text):
