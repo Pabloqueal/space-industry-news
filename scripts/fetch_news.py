@@ -248,7 +248,7 @@ for word, count in common_words:
 companies = [
     a["company"] for a in articles
     if a["company"] 
-    and a["company"].lower() not in ["unknown", "null", "", "None"]
+    and a["company"].lower() not in ["unknown", "null", "", "none"]
 ]
 ranking = Counter(companies).most_common(5)
 company_rank = []
