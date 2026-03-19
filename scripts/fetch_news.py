@@ -52,7 +52,7 @@ def analyze_article(text):
 
     {{
     "summary": "two sentences",
-    "category": "Launch | Satellite | Policy | Economy | Science | Mission | History",
+    "category": "Launch | Satellite | Policy | Economy | Science | Mission | History | Event | Technology | Other",
     "company": "main company or organization mentioned"
     }}
 
