@@ -1,7 +1,7 @@
 [
   {
     "title": "NASA considering sharp increase in robotic lunar landings",
-    "summary": "NASA is considering a significant increase in the frequency of robotic lunar lander missions, which has sparked both excitement and confusion within the space community.",
+    "summary": "NASA is considering a significant increase in the frequency of robotic lunar lander missions, which has sparked both excitement and curiosity within the space community.",
     "link": "https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/",
     "date": "Thu, 19 Mar 2026 12:10:34 +0000",
     "category": "Policy",
@@ -10,16 +10,16 @@
   },
   {
     "title": "ReOrbit sells two small GEO satellites to SLI",
-    "summary": "ReOrbit has sold two small geostationary orbit communications satellites to SLI. This deal marks a significant transaction in the satellite manufacturing and asset-financing sector.",
+    "summary": "ReOrbit has sold two small geostationary orbit communications satellites to SLI, a company specializing in asset financing. This deal marks ReOrbit's expansion in the commercial satellite market.",
     "link": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
     "date": "Thu, 19 Mar 2026 12:00:00 +0000",
-    "category": "Economy",
+    "category": "Satellite",
     "company": "ReOrbit",
     "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/reorbit-silta.jpeg?fit=1024%2C572&ssl=1"
   },
   {
     "title": "Apex sells satellite for Japanese technology demonstration mission",
-    "summary": "Apex has secured a contract to supply a satellite bus for a Japanese technology demonstration mission. The deal marks Apex's expansion into international commercial satellite contracts.",
+    "summary": "Apex has secured a contract to supply a satellite bus for a Japanese technology demonstration mission. This deal marks Apex's expansion into the Japanese space market.",
     "link": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
     "date": "Thu, 19 Mar 2026 07:00:00 +0000",
     "category": "Satellite",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
-    "summary": "Rocket Lab secured a $190 million contract with the Pentagon to conduct 20 hypersonic flight missions over four years. This deal highlights Rocket Lab's expanding role in supporting U.S. defense and hypersonic technology development.",
+    "summary": "Rocket Lab secured a $190 million contract with the Pentagon to conduct 20 hypersonic test flights over four years. This deal highlights Rocket Lab's growing role in supporting U.S. defense and hypersonic technology development.",
     "link": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
     "date": "Wed, 18 Mar 2026 21:56:59 +0000",
     "category": "Economy",
@@ -37,7 +37,7 @@
   },
   {
     "title": "Space Command classified wargame to include 25 commercial players",
-    "summary": "Space Command is conducting a classified wargame involving 25 commercial players to improve collaboration and understand commercial challenges. The exercise aims to enhance joint operations and integration between military and commercial space sectors.",
+    "summary": "Space Command is hosting a classified wargame involving 25 commercial players to improve collaboration and understand commercial challenges. The exercise aims to enhance joint operations between Space Command and the commercial sector.",
     "link": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
     "date": "Wed, 18 Mar 2026 21:14:13 +0000",
     "category": "Policy",
@@ -45,8 +45,17 @@
     "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250428-X-VE588-1022-scaled.jpg?fit=1024%2C683&ssl=1"
   },
   {
+    "title": "An AI cyberattack could trigger a satellite apocalypse in the next 2 years. Are we prepared?",
+    "summary": "AI could enable cyberattacks to hijack satellites, potentially causing collisions and a cascade of debris that makes Earth orbit unsafe within two years. The industry faces urgent questions about preparedness for such threats.",
+    "link": "https://www.space.com/space-exploration/satellites/an-ai-cyberattack-could-trigger-a-satellite-apocalypse-in-the-next-2-years",
+    "date": "Thu, 19 Mar 2026 13:00:00 +0000",
+    "category": "Science",
+    "company": "N/A",
+    "image": "https://cdn.mos.cms.futurecdn.net/fzAGRLFWNjoaFkkuUP5tVN-1280-80.jpg"
+  },
+  {
     "title": "Watch Rocket Lab launch private Japanese 'Strix' satellite to orbit today",
-    "summary": "Rocket Lab is set to launch a private Japanese Earth-observing radar satellite named 'Strix' today. The launch can be watched live.",
+    "summary": "Rocket Lab is set to launch a private Japanese Earth-observing radar satellite named 'Strix' today, March 19. The launch can be watched live.",
     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-synspective-eight-days-a-week",
     "date": "Thu, 19 Mar 2026 12:00:00 +0000",
     "category": "Launch",
@@ -55,7 +64,7 @@
   },
   {
     "title": "You can stream the two 'missing' Doctor Who episodes when travelling, save 73% and claim a free $50 voucher when you sign up for two years of NordVPN",
-    "summary": "Two 'missing' Doctor Who episodes will be available on BBC iPlayer in the UK. NordVPN is offering a 73% discount and a $50 voucher for a two-year subscription.",
+    "summary": "NordVPN is offering a 73% discount and a free $50 voucher for a two-year subscription, coinciding with the release of two previously 'missing' Doctor Who episodes on BBC iPlayer.",
     "link": "https://www.space.com/technology/stream-two-missing-doctor-who-episodes-save-74-percent-claim-free-50-dollar-amazon-voucher-nordvpn-deal",
     "date": "Thu, 19 Mar 2026 11:15:03 +0000",
     "category": "Economy",
@@ -64,7 +73,7 @@
   },
   {
     "title": "Watch NASA roll out Artemis 2 moon rocket tonight ahead of April 1 launch",
-    "summary": "NASA is set to roll out the Artemis 2 moon rocket to the launch pad on March 19 ahead of its planned April 1 launch. The event will be broadcast live.",
+    "summary": "NASA is set to roll out the Artemis 2 moon rocket to the launch pad on March 19 ahead of its planned April 1 launch. The event will be broadcast live for public viewing.",
     "link": "https://www.space.com/space-exploration/artemis/watch-nasa-roll-out-artemis-2-moon-rocket-tonight-ahead-of-april-1-launch",
     "date": "Thu, 19 Mar 2026 10:00:00 +0000",
     "category": "Launch",
@@ -73,34 +82,25 @@
   },
   {
     "title": "'At the edge of what we thought possible': Astronomers find extremely rare star from ancient universe",
-    "summary": "Astronomers discovered an extremely rare, iron-deficient second-generation star from the ancient universe, offering insights into how early stars enriched subsequent generations.",
+    "summary": "Astronomers discovered an extremely rare, iron-deficient second-generation star from the ancient universe, offering insights into how early stars enriched subsequent stellar generations.",
     "link": "https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe",
     "date": "Wed, 18 Mar 2026 21:00:00 +0000",
     "category": "Science",
-    "company": null,
+    "company": "None",
     "image": "https://cdn.mos.cms.futurecdn.net/ByQu7tUFuSMpYdXfnazjcH-1280-80.png"
   },
   {
-    "title": "Astronauts complete prep for new ISS solar array on 1st NASA spacewalk in 10 months",
-    "summary": "NASA astronauts Jessica Meir and Chris Williams conducted a spacewalk to prepare for the installation of a new solar array on the International Space Station. This was the first NASA spacewalk in 10 months.",
-    "link": "https://www.space.com/space-exploration/international-space-station/astronauts-complete-prep-for-new-iss-solar-array-on-1st-nasa-spacewalk-in-10-months",
-    "date": "Wed, 18 Mar 2026 20:31:16 +0000",
-    "category": "Mission",
-    "company": "NASA",
-    "image": "https://cdn.mos.cms.futurecdn.net/6jebdigAhyTTwDVdMGx5GF-1280-80.jpg"
-  },
-  {
     "title": "Australia’s “Red Centre” Turns Green",
-    "summary": "Australia's Central Australia experienced significant rainfall in early 2026, turning the desert landscape green. This unusual weather event transformed the region's typically arid environment.",
+    "summary": "Australia's Central Australia experienced significant rainfall in early 2026, turning its desert landscape green. This unusual weather event marked a stark contrast to the region's typically arid conditions.",
     "link": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
     "date": "Thu, 19 Mar 2026 04:00:00 +0000",
     "category": "Science",
-    "company": null,
+    "company": "None",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!",
-    "summary": "NASA's Curiosity rover is in the final phase of its boxwork campaign, studying the contacts between the boxwork unit and the layered sulfate unit on Mars. The mission involves detailed geological analysis led by Catherine O'Connell-Cooper from the University of New Brunswick.",
+    "summary": "The Curiosity rover is in the final phase of its boxwork campaign, studying the contacts between the boxwork unit and the layered sulfate unit on Mars. The mission is led by the University of New Brunswick, Canada, with planning and operations conducted by the APXS team.",
     "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/",
     "date": "Wed, 18 Mar 2026 19:16:35 +0000",
     "category": "Science",
@@ -109,16 +109,16 @@
   },
   {
     "title": "Lava Flows Down Mayon",
-    "summary": "Landsat 8 captured a rare clear image of Mayon volcano in the Philippines on Feb. 26, 2026, highlighting lava flows using infrared observations. PHIVOLCS reported volcanic earthquakes, rockfalls, and ash clouds during the event.",
+    "summary": "Landsat 8 captured a rare clear image of Mayon, the Philippines' most active volcano, on Feb. 26, 2026, highlighting lava flows with infrared data. PHIVOLCS reported volcanic earthquakes, rockfalls, and ash clouds during this period.",
     "link": "https://www.nasa.gov/image-article/lava-flows-down-mayon/",
     "date": "Wed, 18 Mar 2026 15:19:59 +0000",
     "category": "Science",
-    "company": "PHIVOLCS",
+    "company": "Philippine Institute of Volcanology and Seismology (PHIVOLCS)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "From Service to Space Systems: A Pathways Journey to NASA",
-    "summary": "Corey Elmore transitioned from service to a NASA Pathways engineering internship at Kennedy Space Center, gaining hands-on experience in technical processes and tools through the program.",
+    "summary": "Corey Elmore transitioned from military service to a NASA Pathways engineering internship at Kennedy Space Center, gaining hands-on experience in engineering environments through the program.",
     "link": "https://www.nasa.gov/general/from-service-to-space-systems-a-pathways-journey-to-nasa/",
     "date": "Wed, 18 Mar 2026 15:06:08 +0000",
     "category": "History",
@@ -127,7 +127,7 @@
   },
   {
     "title": "Widely Attended Gatherings (WAGs) Determinations",
-    "summary": "The news lists various upcoming space industry events in 2026, including gatherings organized by organizations like MSBR, SIA, and NASA, as well as conferences focused on Artemis suppliers and space policy.",
+    "summary": "The news lists various upcoming space industry events in 2026, including gatherings organized by organizations like MSBR, SIA, Ansys, and NASA, as well as policy-focused conferences and leadership luncheons.",
     "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
     "date": "Wed, 18 Mar 2026 14:08:31 +0000",
     "category": "Policy",
@@ -136,7 +136,7 @@
   },
   {
     "title": "Booster 19 concludes initial test campaign on Pad 2",
-    "summary": "Booster 19 has completed its initial test campaign on Pad 2, marking another milestone for SpaceX's Starship program ahead of Flight 12.",
+    "summary": "Booster 19 has completed its initial test campaign on Pad 2, marking another milestone for SpaceX's Starship program ahead of Flight 12. This brings the next Starship launch one step closer to readiness.",
     "link": "https://www.nasaspaceflight.com/2026/03/booster-19-initial-test-pad-2/",
     "date": "Wed, 18 Mar 2026 19:09:46 +0000",
     "category": "Launch",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches",
-    "summary": "A busy week of space launches is scheduled with nine launches planned, including missions by Falcon 9, Spectrum, and Electron rockets. The launches are expected to take place from various locations worldwide.",
+    "summary": "A busy week of launches is scheduled with nine missions planned, including flights by SpaceX's Falcon 9, Rocket Lab's Electron, and Isar Aerospace's Spectrum. The launches are expected to take place from various global spaceports.",
     "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-031626/",
     "date": "Mon, 16 Mar 2026 23:24:31 +0000",
     "category": "Launch",
@@ -154,7 +154,7 @@
   },
   {
     "title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
-    "summary": "Blue Origin introduced NEO Hunter, a hybrid planetary defense concept aimed at protecting Earth from near-Earth objects. The mission concept highlights Blue Origin's expanding role in space safety and exploration.",
+    "summary": "Blue Origin has introduced a new mission concept called NEO Hunter, aimed at planetary defense. The hybrid system is designed to detect and potentially deflect near-Earth objects (NEOs).",
     "link": "https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/",
     "date": "Sat, 14 Mar 2026 21:15:26 +0000",
     "category": "Mission",
@@ -163,16 +163,16 @@
   },
   {
     "title": "From Steel Rolls to Starship at the Starfactory",
-    "summary": "SpaceX is accelerating its plans for Moon and Mars missions at its Starfactory facility, transitioning from steel production to Starship development. The company's ambitious goals are highlighted in a recent update from NASASpaceFlight.com.",
+    "summary": "SpaceX is accelerating its goals of sending humans to the Moon and Mars at its Starfactory facility, transitioning from steel production to Starship development.",
     "link": "https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/",
     "date": "Fri, 13 Mar 2026 20:53:11 +0000",
-    "category": "Mission",
+    "category": "Company",
     "company": "SpaceX",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "New crew arrivals and science highlight February aboard the ISS",
-    "summary": "Following the early departure of Crew-11 due to a medical concern, new crew arrivals and scientific activities highlighted February aboard the International Space Station (ISS).",
+    "summary": "A new crew arrived at the International Space Station (ISS) in February following the early departure of Crew-11 in January. The month was marked by new crew arrivals and scientific activities aboard the ISS.",
     "link": "https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/",
     "date": "Wed, 11 Mar 2026 22:38:16 +0000",
     "category": "Mission",
@@ -181,7 +181,7 @@
   },
   {
     "title": "TEC Business to Business website",
-    "summary": "TEC Business to Business website reported on a space industry news item, but no specific details were provided in the given text.",
+    "summary": "TEC Business to Business website reported on space industry news, but no specific details were provided in the given text.",
     "link": "https://technology.esa.int",
     "date": "Tue, 14 Dec 2021 08:52:00 +0100",
     "category": "History",
@@ -190,7 +190,7 @@
   },
   {
     "title": "ESA Delivers: 50 years booklet",
-    "summary": "The European Space Agency (ESA) released a booklet celebrating 50 years of achievements in the space industry. The publication highlights 50 significant milestones from the agency's history.",
+    "summary": "The European Space Agency (ESA) released a booklet celebrating 50 years of its hallmark achievements in space exploration and technology. The publication highlights key milestones and contributions over the past five decades.",
     "link": "https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet",
     "date": "Fri, 20 Jun 2025 09:45:00 +0200",
     "category": "History",
@@ -199,16 +199,16 @@
   },
   {
     "title": "Plato readies for space-like tests",
-    "summary": "ESA's Plato mission is undergoing space-like tests in the Large Space Simulator to prepare for its exoplanet-hunting mission. The satellite, equipped with 26 ultrasensitive cameras, is set for a January 2027 launch aboard an Ariane 6 rocket.",
+    "summary": "ESA's Plato mission, designed to discover Earth-like exoplanets, is undergoing critical space-like tests in the Large Space Simulator chamber. The spacecraft, equipped with 26 ultrasensitive cameras, is expected to launch on an Ariane 6 rocket in January 2027.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests",
     "date": "Fri, 13 Mar 2026 11:00:00 +0100",
-    "category": "Science",
+    "category": "Mission",
     "company": "ESA",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/plato_readies_for_space-like_tests/27151050-1-eng-GB/Plato_readies_for_space-like_tests_card_full.jpg"
   },
   {
     "title": "Former NASA astronaut Jeanette Epps visits ESTEC",
-    "summary": "Former NASA astronaut Jeanette Epps visited ESTEC, the European Space Agency's technical center. This visit highlights international collaboration in space exploration.",
+    "summary": "Former NASA astronaut Jeanette Epps visited ESTEC, the European Space Agency's technical heart. This visit highlights international collaboration in space exploration.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC",
     "date": "Thu, 12 Mar 2026 09:30:00 +0100",
     "category": "History",
@@ -217,7 +217,7 @@
   },
   {
     "title": "ESA rolls out new costing software for its suppliers",
-    "summary": "ESA is set to release ECOS version 6 on March 30, 2026, mandating its use by all suppliers for financial proposals in ESA tender actions.",
+    "summary": "ESA will release ECOS version 6 on 30 March 2026, mandating its suppliers to use the new costing software for financial proposals in ESA Tender Actions.",
     "link": "https://www.esa.int/About_Us/Business_with_ESA/ESA_rolls_out_new_costing_software_for_its_suppliers",
     "date": "Wed, 11 Mar 2026 16:50:00 +0100",
     "category": "Policy",
@@ -235,16 +235,16 @@
   },
   {
     "title": "Apex Signs First Japanese Bus Contract With NEC",
-    "summary": "Apex has signed its first contract in Japan with NEC Corporation to purchase an Aries satellite bus for a communications demonstration mission next year. This deal marks a significant milestone for Apex in expanding its presence in the Japanese space market.",
+    "summary": "Apex has signed its first contract in Japan with NEC Corporation to purchase an Aries satellite bus for a communications demonstration mission next year. This deal marks Apex's entry into the Japanese space market.",
     "link": "https://payloadspace.com/apex-signs-first-japanese-bus-contract-with-nec/",
     "date": "Thu, 19 Mar 2026 07:00:00 +0000",
-    "category": "Satellite",
+    "category": "Business",
     "company": "Apex",
     "image": "https://payloadspace.com/wp-content/uploads/2026/03/Apex-Aries-Satellites-In-Production-1-200x200.png"
   },
   {
     "title": "Modified Vulcan Expected to Launch This Summer",
-    "summary": "United Launch Alliance is accelerating modifications to the Vulcan rocket to improve its nozzle and solid rocket booster, aiming for a launch this summer after addressing a previous anomaly.",
+    "summary": "United Launch Alliance is accelerating modifications to the Vulcan rocket, including improvements to the nozzle and solid rocket booster, to prepare for a summer launch. The changes were planned before a recent anomaly, but are now being prioritized.",
     "link": "https://payloadspace.com/modified-vulcan-expected-to-launch-this-summer/",
     "date": "Wed, 18 Mar 2026 21:38:44 +0000",
     "category": "Launch",
@@ -253,7 +253,7 @@
   },
   {
     "title": "Advanced Navigation Raises $110M Series C",
-    "summary": "Advanced Navigation, an Australia-based company, raised $110 million in a Series C funding round to reduce reliance on satellite infrastructure. The investment highlights the growing interest in alternatives to traditional satellite-dependent systems.",
+    "summary": "Advanced Navigation, an Australia-based company, raised $110 million in a Series C funding round. The company aims to reduce global reliance on satellite infrastructure.",
     "link": "https://payloadspace.com/advanced-navigation-raises-110m-series-c/",
     "date": "Wed, 18 Mar 2026 12:46:43 +0000",
     "category": "Economy",
@@ -262,7 +262,7 @@
   },
   {
     "title": "NanoAvionics Lands Korean National Security Deal",
-    "summary": "NanoAvionics has secured a deal with South Korea's national security sector, marking another success in its global expansion strategy. The agreement highlights the growing collaboration between NanoAvionics and South Korea's space industry.",
+    "summary": "NanoAvionics has secured a national security deal with South Korea, marking another step in its global expansion strategy. The agreement highlights the growing collaboration between NanoAvionics and the South Korean space industry.",
     "link": "https://payloadspace.com/nanoavionics-lands-korean-national-security-deal/",
     "date": "Wed, 18 Mar 2026 12:43:46 +0000",
     "category": "Economy",
@@ -271,7 +271,7 @@
   },
   {
     "title": "Ligado Tells FCC That SkyTerra Next Proposal Won’t Cause Interference",
-    "summary": "Ligado has submitted a new filing to the FCC asserting that its SkyTerra Next proposal, which involves hosting an L-band payload on AST SpaceMobile satellites, will not cause interference. The proposal is designed to operate within Ligado's existing L-band coordination framework.",
+    "summary": "Ligado has filed a new proposal with the FCC stating that its SkyTerra Next plan will not cause interference. The proposal involves hosting an L-band payload on AST SpaceMobile satellites within Ligado's existing L-band coordination.",
     "link": "https://www.satellitetoday.com/connectivity/2026/03/18/ligado-tells-fcc-that-skyterra-next-proposal-wont-cause-interference/",
     "date": "Wed, 18 Mar 2026 20:18:14 +0000",
     "category": "Policy",
@@ -280,7 +280,7 @@
   },
   {
     "title": "Flexell Space and Kongsberg NanoAvionics to Build Solar Arrays for K-LEO",
-    "summary": "Flexell Space and Kongsberg NanoAvionics will jointly supply solar arrays for K-LEO, South Korea's sovereign Low-Earth Orbit (LEO) national security constellation. The collaboration marks a significant step in enhancing South Korea's space capabilities.",
+    "summary": "Flexell Space and Kongsberg NanoAvionics will jointly supply solar arrays for K-LEO, South Korea's sovereign Low-Earth Orbit (LEO) national security constellation. Hanwha Systems is also involved in the project.",
     "link": "https://www.satellitetoday.com/manufacturing/2026/03/18/flexell-space-and-kongsberg-nanoavionics-to-build-solar-arrays-for-k-leo/",
     "date": "Wed, 18 Mar 2026 20:15:26 +0000",
     "category": "Satellite",
@@ -289,16 +289,16 @@
   },
   {
     "title": "Connectivity Under Fire: The Critical Need for Satcom Terminal Survivability",
-    "summary": "The article discusses the critical importance of satellite communication (Satcom) terminal survivability in contested environments for U.S. military operations. It highlights the need for beyond-line-of-sight connectivity for command and control, mission execution, and safety-of-life communications.",
+    "summary": "The article highlights the critical importance of satellite communication (Satcom) terminal survivability in contested environments for maintaining command and control, mission execution, and safety-of-life communications. It emphasizes the reliance of U.S. military platforms on beyond-line-of-sight connectivity in denied areas.",
     "link": "https://www.satellitetoday.com/opinion/2026/03/18/connectivity-under-fire-the-critical-need-for-satcom-terminal-survivability/",
     "date": "Wed, 18 Mar 2026 20:13:26 +0000",
-    "category": "Policy",
+    "category": "Science",
     "company": "U.S. military",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "Satellogic Plans Next-Gen Merlin EO Constellation",
-    "summary": "Satellogic unveiled plans for its next-generation 'Merlin' satellites, which will offer one-meter resolution and daily mapping capabilities. The new constellation aims to enhance Earth observation services.",
+    "summary": "Satellogic announced plans for its next-generation 'Merlin' Earth observation satellites, which will offer one-meter resolution and daily mapping capabilities. The company aims to enhance its Earth observation services with this new constellation.",
     "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/03/18/satellogic-plans-next-gen-merlin-eo-constellation/",
     "date": "Wed, 18 Mar 2026 20:03:20 +0000",
     "category": "Satellite",
@@ -307,7 +307,7 @@
   },
   {
     "title": "9 New Faces for SATShow Week 2026",
-    "summary": "SATShow Week 2026 introduces nine new speakers, expanding its program with a focus on military space (GovMilSpace) for its second year. The event aims to gather key satellite industry leaders and military stakeholders.",
+    "summary": "SATShow Week 2026 introduces nine new speakers, expanding its focus on military space with the inclusion of GovMilSpace for its second year. The event gathers key figures in the satellite industry.",
     "link": "https://www.satellitetoday.com/satshow-2026/2026/03/18/9-new-faces-for-satshow-week-2026/",
     "date": "Wed, 18 Mar 2026 16:33:20 +0000",
     "category": "Event",
