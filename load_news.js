@@ -6,6 +6,7 @@ fetch("news/posts.json")
 .then(data => {
 
     allArticles = data;
+
     displayNews(data);
 
 });
@@ -87,4 +88,29 @@ article.company.toLowerCase().includes(query)
 
 displayNews(filtered);
 
+}
+
+function renderNews(articles) {
+  const container = document.getElementById("news");
+  container.innerHTML = "";
+
+  articles.forEach(article => {
+    const card = document.createElement("div");
+    card.className = "news-card";
+
+    card.innerHTML = `
+      <img src="${article.image}" class="news-image"/>
+      <div class="news-content">
+        <h3>${article.title}</h3>
+        <p>${article.summary}</p>
+        <div class="meta">
+          <span>${article.category}</span>
+          <span>${article.company}</span>
+        </div>
+        <a href="${article.link}" target="_blank">Read more →</a>
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
 }
