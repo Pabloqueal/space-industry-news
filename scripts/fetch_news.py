@@ -1,6 +1,7 @@
 import feedparser
 import json
 import os
+import random
 from bs4 import BeautifulSoup
 from collections import Counter
 from mistralai.client import MistralClient
@@ -12,6 +13,14 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 NEWS_DIR = os.path.join(BASE_DIR, "..", "news")
 
 os.makedirs(NEWS_DIR, exist_ok=True)
+
+default_images = [
+    "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg",
+    "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg",
+    "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w=",
+    "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+]
 
 # -----------------------------
 # RSS feeds
@@ -123,8 +132,8 @@ def extract_image(entry):
         if img and img.get("src"):
             return img["src"]
 
-    # 5 imagen por defecto
-    return "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    # 5 imagen por defecto aleatoria
+    return random.choice(default_images)
 
 # -----------------------------
 # LOAD OLD ARTICLES
@@ -165,6 +174,7 @@ for url in feeds:
             if company is None:
 
                 company = analysis["company"]
+                company = company.strip()
 
             summary_ai = analysis["summary"]
             category = analysis["category"]
@@ -235,7 +245,11 @@ for word, count in common_words:
 # COMPANY RANKING
 # -----------------------------
 
-companies = [a["company"] for a in articles if a["company"] != "Unknown"]
+companies = [
+    a["company"] for a in articles
+    if a["company"] 
+    and a["company"].lower() not in ["unknown", "null", ""]
+]
 ranking = Counter(companies).most_common(5)
 company_rank = []
 
