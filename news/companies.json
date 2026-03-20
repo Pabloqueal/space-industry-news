@@ -1,15 +1,11 @@
 [
   {
     "company": "NASA",
-    "mentions": 22
+    "mentions": 20
   },
   {
     "company": "ESA",
-    "mentions": 5
-  },
-  {
-    "company": "ReOrbit",
-    "mentions": 2
+    "mentions": 6
   },
   {
     "company": "Apex",
@@ -17,6 +13,10 @@
   },
   {
     "company": "Rocket Lab",
+    "mentions": 2
+  },
+  {
+    "company": "ESA (European Space Agency)",
     "mentions": 2
   }
 ]
