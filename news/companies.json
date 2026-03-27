@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 29
+    "mentions": 27
   },
   {
     "company": "ESA",
-    "mentions": 6
+    "mentions": 5
   },
   {
     "company": "Not specified",
-    "mentions": 3
-  },
-  {
-    "company": "SpaceX",
     "mentions": 2
   },
   {
-    "company": "Space Development Agency (SDA)",
-    "mentions": 2
+    "company": "U.S. Space Force",
+    "mentions": 1
+  },
+  {
+    "company": "U.S. Space Command",
+    "mentions": 1
   }
 ]
