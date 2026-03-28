@@ -1,11 +1,7 @@
 [
   {
     "company": "NASA",
-    "mentions": 28
-  },
-  {
-    "company": "Not specified",
-    "mentions": 6
+    "mentions": 29
   },
   {
     "company": "ESA",
@@ -13,10 +9,14 @@
   },
   {
     "company": "SpaceX",
+    "mentions": 3
+  },
+  {
+    "company": "Not specified",
     "mentions": 2
   },
   {
-    "company": "Apple TV+",
+    "company": "SATShow",
     "mentions": 2
   }
 ]
