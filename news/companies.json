@@ -1,7 +1,7 @@
 [
   {
     "company": "NASA",
-    "mentions": 26
+    "mentions": 25
   },
   {
     "company": "ESA",
@@ -9,14 +9,14 @@
   },
   {
     "company": "SpaceX",
+    "mentions": 4
+  },
+  {
+    "company": "N/A",
     "mentions": 3
   },
   {
-    "company": "Not specified",
-    "mentions": 3
-  },
-  {
-    "company": "NISAR (NASA-ISRO)",
+    "company": "Not explicitly mentioned",
     "mentions": 2
   }
 ]
