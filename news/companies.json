@@ -1,7 +1,7 @@
 [
   {
     "company": "NASA",
-    "mentions": 29
+    "mentions": 30
   },
   {
     "company": "ESA",
@@ -12,11 +12,11 @@
     "mentions": 4
   },
   {
-    "company": "Not specified",
-    "mentions": 3
+    "company": "Not explicitly mentioned",
+    "mentions": 2
   },
   {
-    "company": "SATShow",
+    "company": "ESA (European Space Agency)",
     "mentions": 2
   }
 ]
