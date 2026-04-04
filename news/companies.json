@@ -1,7 +1,7 @@
 [
   {
     "company": "NASA",
-    "mentions": 28
+    "mentions": 27
   },
   {
     "company": "ESA",
@@ -12,11 +12,11 @@
     "mentions": 4
   },
   {
-    "company": "N/A",
-    "mentions": 3
+    "company": "Not specified",
+    "mentions": 4
   },
   {
-    "company": "Not specified",
+    "company": "N/A",
     "mentions": 3
   }
 ]
