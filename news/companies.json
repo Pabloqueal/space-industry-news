@@ -1,11 +1,11 @@
 [
   {
     "company": "NASA",
-    "mentions": 38
+    "mentions": 33
   },
   {
     "company": "ESA",
-    "mentions": 5
+    "mentions": 6
   },
   {
     "company": "SpaceX",
@@ -13,10 +13,10 @@
   },
   {
     "company": "Not specified",
-    "mentions": 3
+    "mentions": 4
   },
   {
-    "company": "Proba-3",
+    "company": "Starfish Space",
     "mentions": 2
   }
 ]
