@@ -1,16 +1,43 @@
 [
   {
+    "title": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
+    "summary": "A new study suggests that enhancing space situational awareness (SSA) accuracy and tightening conjunction thresholds can significantly reduce satellite collision risks in low Earth orbit (LEO). The findings highlight the importance of improved data precision in mitigating orbital hazards.",
+    "link": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
+    "date": "Wed, 08 Apr 2026 20:15:46 +0000",
+    "category": "Science",
+    "company": "Not specified",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1"
+  },
+  {
+    "title": "Space Sovereignty Is No Longer Optional",
+    "summary": "Space is now a critical infrastructure supporting modern life, including financial transactions and military operations. The article emphasizes the growing importance of space sovereignty as a necessity.",
+    "link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
+    "date": "Wed, 08 Apr 2026 17:50:50 +0000",
+    "category": "Policy",
+    "company": "Not specified",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/header-Image-option-3.jpg?fit=1024%2C565&ssl=1"
+  },
+  {
+    "title": "April 30: Opportunities for On-Orbit Computing",
+    "summary": "An event titled 'Opportunities for On-Orbit Computing' is scheduled for April 30 in Washington, D.C., focusing on orbital data centers. The event is part of a series discussed in SpaceNews.",
+    "link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
+    "date": "Wed, 08 Apr 2026 14:31:45 +0000",
+    "category": "Event",
+    "company": "SpaceNews",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/orbital-data-centers-spacenews-april-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1"
+  },
+  {
     "title": "Tracking the next SDA challenge",
-    "summary": "The U.S. government is facing challenges in monitoring the crowded and contested space environment due to rapid commercial innovation in sensors and AI-driven insights. The Space Development Agency (SDA) is tasked with addressing these monitoring challenges.",
+    "summary": "The U.S. government faces challenges in monitoring the crowded and contested space environment due to rapid commercial innovation in sensors and AI-driven insights. The Space Development Agency (SDA) is tasked with addressing these monitoring challenges.",
     "link": "https://spacenews.com/tracking-the-next-sda-challenge/",
     "date": "Wed, 08 Apr 2026 14:00:00 +0000",
-    "category": "Technology",
+    "category": "Policy",
     "company": "Space Development Agency (SDA)",
     "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/leidos.jpg?fit=752%2C423&ssl=1"
   },
   {
     "title": "Preparing for the next NASA budget battle",
-    "summary": "Congress passed a fiscal year 2026 appropriations bill in January, rejecting proposed steep cuts to NASA's budget, including a 25% overall reduction and nearly 50% cut to science. The space community welcomed the decision, avoiding significant funding reductions.",
+    "summary": "Congress passed a fiscal year 2026 appropriations bill in January, rejecting proposed steep cuts to NASA's budget, including a 25% overall reduction and nearly 50% cut to science funding. The space community welcomed the decision, but future budget battles are expected.",
     "link": "https://spacenews.com/preparing-for-the-next-nasa-budget-battle/",
     "date": "Wed, 08 Apr 2026 14:00:00 +0000",
     "category": "Policy",
@@ -19,7 +46,7 @@
   },
   {
     "title": "A lunar base or a lunar economy?",
-    "summary": "NASA Administrator Jared Isaacman's vision for a lunar base lacks a long-term economic development plan, risking a missed opportunity for sustainable lunar economy growth.",
+    "summary": "NASA Administrator Jared Isaacman's vision for a lunar base is praised, but the lack of a long-term economic development plan for the moon is criticized as a missed opportunity.",
     "link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
     "date": "Wed, 08 Apr 2026 13:00:00 +0000",
     "category": "Policy",
@@ -28,7 +55,7 @@
   },
   {
     "title": "LeoLabs debuts space monitoring tool for military users",
-    "summary": "LeoLabs has introduced a new space monitoring tool called 'Delta' that goes beyond collision warnings to detect potential adversarial activities. This tool is specifically designed for military users.",
+    "summary": "LeoLabs has launched a new space monitoring tool called 'Delta' that goes beyond collision warnings to detect potential adversarial activities. This tool is specifically designed for military users.",
     "link": "https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/",
     "date": "Wed, 08 Apr 2026 13:00:00 +0000",
     "category": "Technology",
@@ -37,7 +64,7 @@
   },
   {
     "title": "Industry navigates NASA’s start-and-stop approach to commercial space stations",
-    "summary": "NASA's plans to accelerate the replacement of the International Space Station have slowed down despite initial signals of acceleration. The industry is adapting to NASA's inconsistent approach to the Commercial Low Earth Orbit (CLD) program.",
+    "summary": "NASA's plans to accelerate the replacement of the International Space Station with commercial alternatives have slowed down despite initial signals of acceleration. The industry is adapting to NASA's inconsistent approach to the Commercial Low Earth Orbit Destinations (CLD) program.",
     "link": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
     "date": "Wed, 08 Apr 2026 11:00:00 +0000",
     "category": "Policy",
@@ -46,7 +73,7 @@
   },
   {
     "title": "Artemis 2 science gets underway as Orion begins its return trip",
-    "summary": "Scientists are reviewing images and observations from the Artemis 2 mission as the Orion spacecraft begins its return to Earth. The mission marks a significant step in lunar exploration and scientific research.",
+    "summary": "Scientists have started analyzing the data and images collected by the Artemis 2 crew during their lunar flyby. The Orion spacecraft has begun its journey back to Earth.",
     "link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
     "date": "Wed, 08 Apr 2026 10:23:16 +0000",
     "category": "Mission",
@@ -55,7 +82,7 @@
   },
   {
     "title": "Capella Space wins $49 million contract for military communications satellite demo",
-    "summary": "Capella Space secured a $49 million contract from the Space Development Agency to demonstrate a military communications satellite by 2027. The award highlights Capella's role in advancing space-based communications for defense applications.",
+    "summary": "Capella Space secured a $49 million contract from the Space Development Agency to demonstrate a military communications satellite by 2027. This deal highlights Capella's role in advancing space-based military communications technology.",
     "link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
     "date": "Wed, 08 Apr 2026 10:21:52 +0000",
     "category": "Contract",
@@ -63,26 +90,26 @@
     "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-6.14.58-AM.png?fit=1024%2C779&ssl=1"
   },
   {
-    "title": "Space security moves to forefront as threats to satellites spread",
-    "summary": "Space security has become a critical issue as threats to satellites increase, highlighted by a Secure World Foundation report. The report emphasizes the growing reliance on orbital systems and the spread of interference technologies.",
-    "link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
-    "date": "Wed, 08 Apr 2026 10:00:00 +0000",
-    "category": "Policy",
-    "company": "Secure World Foundation",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/moore-law-banner-1.jpg?fit=1024%2C593&ssl=1"
+    "title": "Large Hadron Collider gives scientists their best look yet at conditions right after the Big Bang",
+    "summary": "The ALICE experiment at CERN's Large Hadron Collider has provided scientists with unprecedented insights into quark-gluon plasma, the primordial matter present moments after the Big Bang. This breakthrough offers a deeper understanding of the early universe's conditions.",
+    "link": "https://www.space.com/science/particle-physics/large-hadron-collider-gives-scientists-their-best-look-yet-at-conditions-right-after-the-big-bang",
+    "date": "Wed, 08 Apr 2026 19:00:00 +0000",
+    "category": "Science",
+    "company": "CERN",
+    "image": "https://cdn.mos.cms.futurecdn.net/AjUFjdApWJvdj5tHY9gh3j-1280-80.png"
   },
   {
-    "title": "Inspection cubesat demo planned as first step toward orbital defense mothership",
-    "summary": "Bulgarian satellite manufacturer EnduroSat and British defense tech startup Shield Space plan to launch a maneuverable inspection cubesat next year. This demo is a precursor to developing a larger mothership satellite capable of deploying dozens of inspection cubesats for orbital defense missions.",
-    "link": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
-    "date": "Wed, 08 Apr 2026 08:00:00 +0000",
-    "category": "Technology",
-    "company": "ESA",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/SpaceNews_EnduroSat-Shield-Space-_-Project-Nexus-MotherShip-2-scaled.jpg?fit=1024%2C568&ssl=1"
+    "title": "'The Expanse: Osiris Reborn' has lots of 'Mass Effect' DNA, but its developers are teasing a far more grounded sci-fi RPG",
+    "summary": "'The Expanse: Osiris Reborn' draws heavily from 'Mass Effect' while developing its own hard sci-fi identity. Owlcat Games is teasing a more grounded sci-fi RPG experience.",
+    "link": "https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-has-lots-of-mass-effect-dna-but-its-developers-are-teasing-a-far-more-grounded-sci-fi-rpg",
+    "date": "Wed, 08 Apr 2026 18:00:00 +0000",
+    "category": "Other",
+    "company": "Owlcat Games",
+    "image": "https://cdn.mos.cms.futurecdn.net/eRUq3uKShwZn9u5jScqW4n-1280-80.jpg"
   },
   {
     "title": "'Audible screams of delight' from NASA scientists over micrometeorite impacts on the moon witnessed by Artemis 2 astronauts",
-    "summary": "NASA scientists are delighted by the Artemis 2 astronauts' observation of micrometeorite impacts on the moon during their flyby. The micrometeor impact flashes witnessed by the crew have generated excitement among the scientific community.",
+    "summary": "NASA scientists are excited about micrometeorite impacts on the moon observed by Artemis 2 astronauts during their flyby. These observations provide valuable data for future lunar missions.",
     "link": "https://www.space.com/space-exploration/artemis/audible-screams-of-delight-from-nasa-scientists-over-micrometeorite-impacts-on-the-moon-witnessed-by-artemis-2-astronauts",
     "date": "Wed, 08 Apr 2026 16:00:00 +0000",
     "category": "Science",
@@ -91,7 +118,7 @@
   },
   {
     "title": "Artemis 2 astronauts spy the Milky Way | Space photo of the day for April 8, 2026",
-    "summary": "The Artemis 2 astronauts captured a stunning space photo of the Milky Way's galactic plane. The image highlights the dense concentration of stars in our galaxy.",
+    "summary": "The Artemis 2 astronauts captured a stunning space photo of the Milky Way's galactic plane on April 8, 2026. The image highlights the dense concentration of stars in our galaxy.",
     "link": "https://www.space.com/stargazing/astrophotography/artemis-2-astronauts-spy-the-milky-way-space-photo-of-the-day-for-april-8-2026",
     "date": "Wed, 08 Apr 2026 14:00:00 +0000",
     "category": "Science",
@@ -100,7 +127,7 @@
   },
   {
     "title": "Artemis 2 moon astronauts capture space history — on their iPhones",
-    "summary": "The Artemis 2 astronauts are using iPhones to capture high-quality photos of the moon and Earth during their mission. This marks a historic moment in space exploration by integrating consumer technology.",
+    "summary": "The Artemis 2 astronauts are using iPhones to capture high-quality photos of the moon and Earth during their mission. This highlights the integration of consumer technology in space exploration.",
     "link": "https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-capture-space-history-on-their-iphones",
     "date": "Wed, 08 Apr 2026 13:00:00 +0000",
     "category": "Mission",
@@ -109,7 +136,7 @@
   },
   {
     "title": "Galaxy starves its supermassive black hole, loses 95% of its brightness",
-    "summary": "A galaxy has experienced a dramatic 95% drop in brightness due to its supermassive black hole starving. This sudden dimming is a rare and significant event in astrophysical observations.",
+    "summary": "A galaxy has experienced a dramatic 95% drop in brightness due to its supermassive black hole starving. This sudden change highlights the volatile nature of active galactic nuclei.",
     "link": "https://www.space.com/astronomy/black-holes/galaxy-starves-its-supermassive-black-hole-loses-95-percent-of-its-brightness",
     "date": "Wed, 08 Apr 2026 12:00:00 +0000",
     "category": "Science",
@@ -118,16 +145,16 @@
   },
   {
     "title": "'It just made it even more special': Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says",
-    "summary": "Artemis 2 astronaut Christina Koch highlights the profound 'overview effect' of seeing Earth from beyond the moon, emphasizing how distance deepens appreciation for the planet. Koch reflects on how space travel transforms perspective, making Earth's beauty and fragility more apparent.",
+    "summary": "Artemis 2 astronaut Christina Koch highlights the profound impact of seeing Earth from beyond the moon, emphasizing the 'overview effect' and a deeper appreciation for our planet. The astronaut reflects on how this perspective changes one's view of Earth.",
     "link": "https://www.space.com/space-exploration/artemis/it-just-made-it-even-more-special-being-so-far-from-earth-makes-you-appreciate-our-planet-even-more-artemis-2-astronaut-says",
     "date": "Wed, 08 Apr 2026 10:00:00 +0000",
-    "category": "Science",
+    "category": "Mission",
     "company": "NASA",
     "image": "https://cdn.mos.cms.futurecdn.net/2eAWBTpAwvdPYkr3XhBqxD-1280-80.jpg"
   },
   {
     "title": "The Artemis 2 space toilet is actually working fine. But there is another problem",
-    "summary": "The Artemis 2 space toilet is functioning properly, but engineers are addressing an issue with evacuating the tank.",
+    "summary": "The space toilet for Artemis 2 is functioning properly, but engineers are addressing an issue with emptying the waste tank.",
     "link": "https://www.space.com/space-exploration/artemis/the-artemis-2-space-toilet-is-actually-working-fine-but-there-is-another-problem",
     "date": "Tue, 07 Apr 2026 22:31:46 +0000",
     "category": "Technology",
@@ -136,16 +163,16 @@
   },
   {
     "title": "'Project Hail Mary' sound designers used surprising animal sounds to create Rocky's musical alien voice (interview)",
-    "summary": "The sound designers for 'Project Hail Mary' used unique animal sounds to craft Rocky's alien voice, aiming to convey his 'sonic soul'.",
+    "summary": "The sound designers for 'Project Hail Mary' used unique animal sounds to create the musical alien voice of Rocky. They aimed to capture Rocky's 'sonic soul' through these unconventional sounds.",
     "link": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-sound-designers-used-surprising-animal-sounds-to-create-rockys-musical-alien-voice-interview",
     "date": "Tue, 07 Apr 2026 20:00:00 +0000",
     "category": "Technology",
-    "company": "None",
+    "company": "Project Hail Mary",
     "image": "https://cdn.mos.cms.futurecdn.net/iseuDnDBvjmokwEoRLKPSP-1280-80.jpg"
   },
   {
     "title": "Relive Artemis 2's epic moon flyby with these amazing photos",
-    "summary": "NASA released stunning images from the Artemis 2 mission's historic moon flyby. The astronauts documented their journey around the moon in great detail.",
+    "summary": "NASA's Artemis 2 astronauts shared detailed images from their historic moon flyby mission. The photos provide a stunning visual record of their journey around the moon.",
     "link": "https://www.space.com/space-exploration/artemis/relive-artemis-2s-epic-moon-flyby-with-these-amazing-photos",
     "date": "Tue, 07 Apr 2026 18:00:59 +0000",
     "category": "Mission",
@@ -153,44 +180,53 @@
     "image": "https://cdn.mos.cms.futurecdn.net/3AHo6PCz3x3pRsLVnES9JD-1280-80.jpg"
   },
   {
-    "title": "A satellite just captured images of a tsunami being born. Here's why that's a big deal",
-    "summary": "Scientists captured images of a tsunami forming using the SWOT satellite, providing unprecedented insights into tsunamigenesis. The 2025 Kamchatka tsunami observation marks a significant advancement in tsunami detection and study.",
-    "link": "https://www.space.com/space-exploration/satellites/a-satellite-just-captured-images-of-a-tsunami-being-born-heres-why-thats-a-big-deal",
-    "date": "Tue, 07 Apr 2026 17:00:00 +0000",
-    "category": "Science",
-    "company": "SWOT (Surface Water and Ocean Topography mission)",
-    "image": "https://cdn.mos.cms.futurecdn.net/MTs2nWq3tHivQF38wpbUiW-1280-80.png"
-  },
-  {
-    "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
-    "summary": "NASA's Artemis II astronauts captured the first flyby images of the Moon, revealing unseen regions and a rare in-space solar eclipse. The photos were taken during a seven-hour flyby of the lunar far side on April 6.",
-    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
-    "date": "Tue, 07 Apr 2026 20:44:05 +0000",
+    "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
+    "summary": "NASA's Marshall Space Flight Center operates two control rooms supporting the Artemis II mission in lunar orbit, ensuring astronaut safety and mission success ahead of the crew's return to Earth on April 10.",
+    "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
+    "date": "Wed, 08 Apr 2026 18:13:42 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
   },
   {
-    "title": "Earthset",
-    "summary": "The Artemis II crew captured a view of Earth setting from the far side of the Moon on April 6, 2026, documenting lunar terrain features like impact craters and lava flows.",
-    "link": "https://www.nasa.gov/image-article/earthset/",
-    "date": "Tue, 07 Apr 2026 18:54:50 +0000",
-    "category": "Mission",
+    "title": "Solar Eclipse of the Heart",
+    "summary": "Artemis II astronauts aboard the Orion spacecraft captured a unique solar eclipse of the Moon during a lunar flyby on April 6, 2026. This rare observation was only possible due to their specific position in space.",
+    "link": "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/",
+    "date": "Wed, 08 Apr 2026 17:12:50 +0000",
+    "category": "Science",
     "company": "NASA",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
-    "title": "Experience the Rollout of SLS Hardware for Artemis III",
-    "summary": "NASA invites digital creators and social media users to attend the rollout of the SLS core stage for Artemis III from Michoud Assembly Facility to Kennedy Space Center.",
-    "link": "https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/",
-    "date": "Tue, 07 Apr 2026 17:52:09 +0000",
-    "category": "Event",
+    "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
+    "summary": "NASA's Artemis II crew shared the first flyby images of the Moon, revealing previously unseen regions and a rare in-space solar eclipse. The photos, released on Tuesday, were updated on April 8, 2026, to reflect ongoing scientific observations.",
+    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
+    "date": "Tue, 07 Apr 2026 20:44:05 +0000",
+    "category": "Mission",
+    "company": "NASA",
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+  },
+  {
+    "title": "Earthset",
+    "summary": "The Artemis II crew captured images of Earth setting from lunar orbit on April 6, 2026, documenting the Moon's surface features such as craters, lava flows, and geological formations.",
+    "link": "https://www.nasa.gov/image-article/earthset/",
+    "date": "Tue, 07 Apr 2026 18:54:50 +0000",
+    "category": "Mission",
     "company": "NASA",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
   },
   {
+    "title": "Experience the Rollout of SLS Hardware for Artemis III",
+    "summary": "NASA invites digital creators and social media users to witness the rollout of the SLS core stage for Artemis III from Michoud Assembly Facility to Kennedy Space Center. This event highlights NASA's ongoing preparations for the Artemis III mission.",
+    "link": "https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/",
+    "date": "Tue, 07 Apr 2026 17:52:09 +0000",
+    "category": "Event",
+    "company": "NASA",
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
+  },
+  {
     "title": "NASA to Host Media Call with Artemis II Crew on Way Home from Moon",
-    "summary": "NASA will host a media call with the Artemis II crew on April 8 at 9:45 p.m. EDT to discuss their historic mission around the Moon. The 20-minute virtual news conference will feature astronauts Reid Wiseman, Victor Glover, Christina Koch, and a CSA representative.",
+    "summary": "NASA will host a media call with the Artemis II crew on April 8, 2026, at 10:45 p.m. EDT as they return from their historic mission around the Moon. The 20-minute event will allow journalists to speak with the crew during their journey back to Earth.",
     "link": "https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/",
     "date": "Tue, 07 Apr 2026 16:38:04 +0000",
     "category": "Mission",
@@ -198,35 +234,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
-    "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
-    "summary": "NASA's Artemis II mission crew set a new record for the farthest human spaceflight. The Orion spacecraft's closest lunar approach was adjusted to about 4,067 miles.",
-    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
-    "date": "Mon, 06 Apr 2026 19:46:20 +0000",
-    "category": "Mission",
-    "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
-  },
-  {
-    "title": "NASA’s Northrop Grumman CRS-24 Mission Overview",
-    "summary": "NASA's Northrop Grumman CRS-24 mission will deliver around 11,000 pounds of science and supplies to the International Space Station using the Cygnus XL spacecraft. This is the second flight of the upgraded, more cargo-capable Cygnus XL version.",
-    "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/",
-    "date": "Mon, 06 Apr 2026 19:29:22 +0000",
-    "category": "Mission",
-    "company": "NASA",
-    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
-  },
-  {
-    "title": "Night Sky Network Celebrates Artemis II",
-    "summary": "The Night Sky Network celebrated the Artemis II mission's milestone on April 6, 2026, when the crew traveled farther than any humans in history by orbiting the far side of the Moon. The event can be rewatched on NASA’s YouTube channel or NASA+.",
-    "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/",
-    "date": "Mon, 06 Apr 2026 15:29:14 +0000",
-    "category": "Event",
-    "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
-  },
-  {
     "title": "SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return",
-    "summary": "SpaceX is making final preparations at its Starbase Pad 2 for the upcoming return of Booster 19. The refinements are part of ongoing operations at the company's South Texas launch site.",
+    "summary": "SpaceX is making final preparations at Starbase Pad 2 for the return of Booster 19. The refinements are part of ongoing operations at the facility.",
     "link": "https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/",
     "date": "Wed, 08 Apr 2026 12:25:32 +0000",
     "category": "Technology",
@@ -235,34 +244,34 @@
   },
   {
     "title": "Artemis II breaks record, conducts lunar flyby",
-    "summary": "Artemis II set a record by conducting a successful lunar flyby with the Orion spacecraft, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen. This marks a significant milestone in NASA's Artemis program.",
+    "summary": "Artemis II achieved a record-breaking lunar flyby with the Orion spacecraft, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen. This mission marks a significant milestone in NASA's Artemis program.",
     "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/",
     "date": "Tue, 07 Apr 2026 03:35:08 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California",
-    "summary": "A Falcon 9 rocket is set to launch a Cygnus spacecraft to the International Space Station, while a Minotaur IV rocket is scheduled to launch from California. This comes as NASA's Artemis II mission approaches its midpoint.",
+    "summary": "A Falcon 9 rocket is set to launch a Cygnus spacecraft to the International Space Station, while a Minotaur IV rocket is scheduled to launch from California. This follows the halfway point of NASA's Artemis II mission.",
     "link": "https://www.nasaspaceflight.com/2026/04/launch-preview-040626/",
     "date": "Mon, 06 Apr 2026 22:06:24 +0000",
     "category": "Launch",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
   },
   {
     "title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
-    "summary": "NASA's Artemis II mission is in its mid-flight phase as the Orion spacecraft approaches a historic lunar flyby. This marks a key milestone for the mission carrying the first crewed lunar flyby since Apollo 17.",
+    "summary": "NASA's Artemis II mission is in its critical mid-flight phase as the Orion spacecraft approaches a historic lunar flyby. This marks a significant milestone for the mission, which aims to test key systems ahead of future lunar landings.",
     "link": "https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/",
     "date": "Sat, 04 Apr 2026 21:57:48 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "Artemis II Orion performs TLI Burn — Now headed to the Moon",
-    "summary": "NASA's Orion spacecraft successfully performed the Trans-Lunar Injection (TLI) burn, marking a historic milestone as it heads toward the Moon. This event is part of the Artemis II mission, the first crewed lunar mission in over 50 years.",
+    "summary": "NASA's Orion spacecraft successfully performed the Trans-Lunar Injection (TLI) burn, marking a historic milestone as it heads toward the Moon. This achievement is part of the Artemis II mission, the first crewed lunar mission in over 50 years.",
     "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
     "date": "Fri, 03 Apr 2026 03:46:22 +0000",
     "category": "Mission",
@@ -271,7 +280,7 @@
   },
   {
     "title": "Artemis II returns humanity to the Moon with launch on Wednesday evening",
-    "summary": "The Artemis II mission aims to return humanity to the Moon with a launch scheduled for Wednesday evening. This marks a significant milestone in space exploration following the Apollo 17 mission in 1972.",
+    "summary": "The Artemis II mission is set to return humanity to the Moon with a launch scheduled for Wednesday evening. This follows the historic Apollo 17 mission, which concluded on Dec. 16, 1972.",
     "link": "https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/",
     "date": "Tue, 31 Mar 2026 20:36:05 +0000",
     "category": "Mission",
@@ -285,29 +294,29 @@
     "date": "Mon, 30 Mar 2026 21:07:43 +0000",
     "category": "Launch",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "America’s Rocket Factory comes Full Circle with Artemis",
-    "summary": "America's Rocket Factory is involved in NASA's Artemis program, marking a significant milestone in the return of crewed launches beyond low Earth orbit. The collaboration highlights the progress in space exploration and the role of private industry in supporting NASA's missions.",
+    "summary": "America's Rocket Factory is highlighted for its role in NASA's Artemis program, marking a significant milestone in the return of crewed launches beyond low Earth orbit. The news underscores the company's contribution to the mission's preparations.",
     "link": "https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/",
     "date": "Sun, 29 Mar 2026 21:28:30 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "SpaceX delivers 119 payloads to Sun-synchronous orbit on Transporter 16",
-    "summary": "SpaceX successfully launched 119 payloads to Sun-synchronous orbit on the Transporter 16 mission from California. This marks another milestone in SpaceX's rideshare program, expanding access to space for multiple customers.",
+    "summary": "SpaceX successfully launched 119 payloads to a Sun-synchronous orbit as part of the Transporter 16 mission from California. This marks another milestone in SpaceX's rideshare program.",
     "link": "https://www.nasaspaceflight.com/2026/03/transporter-16/",
     "date": "Sat, 28 Mar 2026 23:48:46 +0000",
     "category": "Launch",
     "company": "SpaceX",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "NASA outlines Moon Base plans, pivots on Gateway",
-    "summary": "NASA announced detailed plans for a Moon base during its 'Ignition' event, shifting focus away from the Lunar Gateway. This marks a significant pivot in the agency's lunar exploration strategy.",
+    "summary": "NASA revealed detailed plans for a Moon base during its 'Ignition' event, marking a significant shift in its lunar exploration strategy. The agency is pivoting away from its previous Gateway-focused approach.",
     "link": "https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/",
     "date": "Wed, 25 Mar 2026 23:16:13 +0000",
     "category": "Policy",
@@ -315,17 +324,8 @@
     "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
-    "title": "TEC Business to Business website",
-    "summary": "TEC Business to Business website is mentioned twice in the provided news snippet without additional context or details.",
-    "link": "https://technology.esa.int",
-    "date": "Tue, 14 Dec 2021 08:52:00 +0100",
-    "category": "Other",
-    "company": "TEC Business to Business",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/12/tec_b2b_website_lead_image/23851091-1-eng-GB/TEC_B2B_website_lead_image_card_full.png"
-  },
-  {
     "title": "ESA Delivers: 50 years booklet",
-    "summary": "ESA celebrates its 50th anniversary with a booklet highlighting 50 key achievements over the past five decades. The publication showcases milestones in European space exploration and innovation.",
+    "summary": "ESA celebrates 50 years of achievements with a commemorative booklet highlighting 50 hallmark accomplishments. The publication marks five decades of contributions by the European Space Agency.",
     "link": "https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet",
     "date": "Fri, 20 Jun 2025 09:45:00 +0200",
     "category": "History",
@@ -334,7 +334,7 @@
   },
   {
     "title": "Graphene and lasers for space propulsion",
-    "summary": "An international research team used ESA's parabolic flight campaign to test graphene aerogels under microgravity, observing that lasers propelled the samples forward with controllable thrust. The findings, published in Advanced Science, suggest potential for light-based propulsion in space applications like solar sails.",
+    "summary": "An international research team demonstrated light propulsion using graphene aerogels in microgravity during ESA's parabolic flight campaign in May 2025. The study, published in Advanced Science, showed that lasers could efficiently propel these ultralight materials, offering potential for future satellite and solar sail applications.",
     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Graphene_and_lasers_for_space_propulsion",
     "date": "Tue, 07 Apr 2026 12:00:00 +0200",
     "category": "Science",
@@ -343,7 +343,7 @@
   },
   {
     "title": "Graphene and lasers for space propulsion",
-    "summary": "Graphene and lasers could revolutionize space propulsion by steering solar sails and adjusting satellite positions. An experiment on a gravity rollercoaster demonstrated the potential of this innovative material.",
+    "summary": "Lasers and graphene could revolutionize space propulsion by steering solar sails and adjusting satellite positions. An experiment on a gravity rollercoaster demonstrated the potential of this innovative material.",
     "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion",
     "date": "Tue, 07 Apr 2026 10:55:00 +0200",
     "category": "Technology",
@@ -352,7 +352,7 @@
   },
   {
     "title": "A silicon chip that can do it all",
-    "summary": "A new silicon chip has been developed with versatile capabilities, potentially revolutionizing multiple applications in the space industry. The chip's multifunctional design could enhance efficiency and performance in satellite and spacecraft systems.",
+    "summary": "A breakthrough silicon chip has been developed that integrates multiple functions typically handled by separate components. This innovation could revolutionize space electronics by reducing size, weight, and power consumption for spacecraft.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all",
     "date": "Thu, 02 Apr 2026 15:00:00 +0200",
     "category": "Technology",
@@ -361,7 +361,7 @@
   },
   {
     "title": "Proba-3’s Coronagraph is alive!",
-    "summary": "The Proba-3 mission's Coronagraph spacecraft has re-established contact with ground control after a month-long communication loss due to an anomaly. The mission team confirmed the spacecraft is operational and has 'phoned home'.",
+    "summary": "The Proba-3 mission's Coronagraph spacecraft has re-established contact with ground control after a month-long communication loss due to an anomaly. The mission team reports that the spacecraft is now operational.",
     "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_s_Coronagraph_is_alive",
     "date": "Thu, 19 Mar 2026 15:00:00 +0100",
     "category": "Mission",
@@ -370,16 +370,16 @@
   },
   {
     "title": "Upcoming ESA–Industry events on CM25 implementation",
-    "summary": "ESA is hosting events to discuss the implementation of decisions from the CM25 ministerial meeting, focusing on industrial opportunities and program priorities. The events aim to facilitate direct dialogue between ESA and industry stakeholders.",
+    "summary": "The European Space Agency (ESA) is hosting events to present the follow-up to the Council Meeting at Ministerial Level 2025 (CM25), detailing planned activities and industrial opportunities. These events aim to facilitate direct exchange between ESA and the industrial community.",
     "link": "https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_on_CM25_implementation",
     "date": "Thu, 19 Mar 2026 11:30:00 +0100",
-    "category": "Policy",
+    "category": "Event",
     "company": "ESA",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/esa_s_ministerial_council_2025/27051396-2-eng-GB/ESA_s_Ministerial_Council_2025_card_full.jpg"
   },
   {
     "title": "Plato readies for space-like tests",
-    "summary": "ESA's Plato mission, designed to hunt for Earth-like exoplanets, is undergoing critical space-like tests in the Large Space Simulator. The spacecraft, equipped with 26 ultrasensitive cameras, is set for a January 2027 launch on an Ariane 6 rocket.",
+    "summary": "ESA's Plato mission, designed to discover Earth-like exoplanets, is undergoing critical space-like tests in the Large Space Simulator chamber. The spacecraft, equipped with 26 ultrasensitive cameras, is expected to launch on an Ariane 6 rocket in January 2027.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests",
     "date": "Fri, 13 Mar 2026 11:00:00 +0100",
     "category": "Mission",
@@ -397,7 +397,7 @@
   },
   {
     "title": "ESA rolls out new costing software for its suppliers",
-    "summary": "ESA will release ECOS version 6 on March 30, 2026, mandating its use by all suppliers for financial proposals in ESA tender actions.",
+    "summary": "ESA will release ECOS version 6 on March 30, 2026, mandating its use for financial proposals in ESA Tender Actions by all supplier companies.",
     "link": "https://www.esa.int/About_Us/Business_with_ESA/ESA_rolls_out_new_costing_software_for_its_suppliers",
     "date": "Wed, 11 Mar 2026 16:50:00 +0100",
     "category": "Technology",
@@ -406,7 +406,7 @@
   },
   {
     "title": "The State of ISAM 2026",
-    "summary": "The article discusses the growing complexity of In-Space Assembly and Manufacturing (ISAM) by 2026, highlighting that it can no longer be treated as a single concept. The post is from Payload, a space industry news outlet.",
+    "summary": "The article discusses the growing complexity of In-Space Servicing, Assembly, and Manufacturing (ISAM) by 2026, noting that it can no longer be treated as a single concept. The post is published by Payload.",
     "link": "https://payloadspace.com/the-state-of-isam-2026/",
     "date": "Wed, 08 Apr 2026 12:45:00 +0000",
     "category": "Technology",
@@ -415,16 +415,16 @@
   },
   {
     "title": "Czech Radiation Chips on Artemis II Bring ISS Experience",
-    "summary": "Czech-developed radiation chips will be part of the Artemis II mission, leveraging ISS experience to monitor solar flares during solar maximum. HERA will act as an early warning system for potential solar flare events.",
+    "summary": "Czech-developed radiation chips will be part of the Artemis II mission, leveraging ISS experience to monitor solar flares during solar maximum. HERA will act as an early warning system for potential solar events.",
     "link": "https://payloadspace.com/czech-radiation-chips-on-artemis-ii-bring-iss-experience/",
     "date": "Wed, 08 Apr 2026 12:30:00 +0000",
     "category": "Technology",
-    "company": "HERA",
+    "company": "Czech Space Office",
     "image": "https://payloadspace.com/wp-content/uploads/2026/04/art002e009288orig-200x200.jpg"
   },
   {
     "title": "Advocates Ready For NASA Science Funding Fight, Part II",
-    "summary": "Advocates and lawmakers are preparing to oppose the Trump administration's proposed $18.8 billion NASA budget, which includes significant cuts to science and STEM missions. This marks a recurring conflict over NASA funding priorities.",
+    "summary": "The Trump administration proposed an $18.8 billion NASA budget with significant cuts to science and STEM missions. Advocates and lawmakers are opposing these reductions, vowing to fight against the proposed cuts.",
     "link": "https://payloadspace.com/advocates-ready-for-nasa-science-funding-fight-part-ii/",
     "date": "Tue, 07 Apr 2026 17:30:00 +0000",
     "category": "Policy",
@@ -433,25 +433,25 @@
   },
   {
     "title": "Starfish Closes $100M+ Series B",
-    "summary": "Starfish has secured over $100 million in a Series B funding round led by Point72 Ventures, with co-leads from Activate Capital and Shield Capital.",
+    "summary": "Starfish Space has secured over $100 million in a Series B funding round led by Point72 Ventures, with Activate Capital and Shield Capital co-leading the investment.",
     "link": "https://payloadspace.com/starfish-closes-100m-series-b/",
     "date": "Tue, 07 Apr 2026 13:00:00 +0000",
     "category": "Economy",
-    "company": "Starfish",
+    "company": "Starfish Space",
     "image": "https://payloadspace.com/wp-content/uploads/2026/04/Starfish_Otter_Docking_GEO-1-200x200.png"
   },
   {
     "title": "The State of EO 2026",
-    "summary": "The Earth Observation (EO) industry is experiencing growth as more entities seek their own satellite capabilities. The article 'The State of EO 2026' highlights this trend and its benefits.",
+    "summary": "The Earth Observation (EO) industry is experiencing growth as more organizations seek to deploy their own satellite capabilities. The State of EO 2026 report highlights this trend and its benefits.",
     "link": "https://payloadspace.com/the-state-of-eo-2026/",
     "date": "Tue, 07 Apr 2026 12:20:25 +0000",
-    "category": "Economy",
-    "company": "Payload",
+    "category": "Industry",
+    "company": "N/A",
     "image": "https://payloadspace.com/wp-content/uploads/2026/04/The-State-of-EO-200x200.jpg"
   },
   {
     "title": "How Earthlings Got Views of the Lunar Fly By",
-    "summary": "Redwire provided 11 cameras for the Orion capsule, enabling live views of its lunar flyby. These cameras were installed both inside and outside the spacecraft.",
+    "summary": "Redwire developed 11 cameras installed inside and outside the Orion capsule, enabling live views of the lunar flyby for Earth viewers. The cameras were part of the Artemis I mission's payload.",
     "link": "https://payloadspace.com/how-earthlings-got-views-of-the-lunar-fly-by/",
     "date": "Tue, 07 Apr 2026 12:17:49 +0000",
     "category": "Technology",
@@ -460,7 +460,7 @@
   },
   {
     "title": "The State of Satcom 2026",
-    "summary": "SpaceX and Amazon are disrupting the satcom market, forcing traditional players and startups to pivot and find innovative ways to compete in an increasingly crowded industry.",
+    "summary": "SpaceX and Amazon are disrupting the satcom market, forcing traditional players and startups to pivot and find innovative ways to compete.",
     "link": "https://payloadspace.com/the-state-of-satcom-2026/",
     "date": "Mon, 06 Apr 2026 12:45:00 +0000",
     "category": "Economy",
@@ -469,16 +469,16 @@
   },
   {
     "title": "Artemis II Supplier Series: Orion’s Windows",
-    "summary": "The article discusses the significance of Orion's windows for astronauts on the Artemis II mission, highlighting the emotional and professional payoff of seeing space firsthand. It is part of a series covering suppliers for the Artemis II mission.",
+    "summary": "The article discusses the importance of Orion's windows for astronauts on the Artemis II mission, highlighting the significance of seeing space firsthand after years of training. It is part of a series covering suppliers for the Artemis II mission.",
     "link": "https://payloadspace.com/artemis-ii-supplier-series-orions-windows/",
     "date": "Mon, 06 Apr 2026 12:30:00 +0000",
-    "category": "Mission",
+    "category": "Technology",
     "company": "NASA",
     "image": "https://payloadspace.com/wp-content/uploads/2026/04/HE-_hJkWgAApuRC-200x200.jpeg"
   },
   {
     "title": "White House Requests $18.8B FY27 Budget for NASA",
-    "summary": "The White House has requested an $18.8 billion budget for NASA in fiscal year 2027, maintaining the same funding level as the previous year's proposal. The budget includes cuts to NASA's science and STEM missions, similar to the fiscal 2026 request.",
+    "summary": "The White House has proposed a $18.8 billion budget for NASA in fiscal year 2027, maintaining the same funding level as the 2026 request. The proposal includes cuts to NASA's science and STEM missions, similar to the previous year's budget.",
     "link": "https://payloadspace.com/white-house-requests-18-8b-fy27-budget-for-nasa/",
     "date": "Fri, 03 Apr 2026 15:42:19 +0000",
     "category": "Policy",
@@ -487,7 +487,7 @@
   },
   {
     "title": "Insurance is Commercial Space Nuclear’s Biggest Headache",
-    "summary": "Insurance is identified as the biggest challenge for commercial space nuclear missions, with experts calling it a 'show stopper' during an industry seminar. The post highlights the critical issue of securing insurance for these high-risk ventures.",
+    "summary": "Insurance is identified as the biggest challenge for commercial space nuclear missions, with experts calling it a 'show stopper' during an industry seminar. The article highlights the significant hurdles faced by this emerging sector.",
     "link": "https://payloadspace.com/insurance-is-commercial-space-nuclears-biggest-headache/",
     "date": "Fri, 03 Apr 2026 12:14:37 +0000",
     "category": "Economy",
@@ -495,93 +495,93 @@
     "image": "https://payloadspace.com/wp-content/uploads/2026/04/Space-nuclear-insurance-1-200x200.jpg"
   },
   {
+    "title": "Live in the Booth: Sky Perfect JSAT President & CEO Eiichi Yonekura",
+    "summary": "Sky Perfect JSAT, a major global satellite operator, is focusing on a multi-faceted strategy to expand its business in the coming years. Eiichi Yonekura, the company's President & CEO, discussed these plans in a recent interview.",
+    "link": "https://www.satellitetoday.com/technology/2026/04/08/live-in-the-booth-sky-perfect-jsat-president-ceo-eiichi-yonekura/",
+    "date": "Wed, 08 Apr 2026 20:39:40 +0000",
+    "category": "Company",
+    "company": "Sky Perfect JSAT",
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+  },
+  {
+    "title": "FCC to Vote on Order to Update EPFD Framework",
+    "summary": "The FCC is set to vote on an order to update satellite spectrum-sharing rules between GEO and NGSO systems. The proposed changes aim to replace the existing EPFD framework.",
+    "link": "https://www.satellitetoday.com/government-military/2026/04/08/fcc-to-vote-on-order-to-update-epfd-framework/",
+    "date": "Wed, 08 Apr 2026 20:27:57 +0000",
+    "category": "Policy",
+    "company": "FCC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+  },
+  {
+    "title": "Italy and Argentina to Enhance Space Collaboration With Telespazio and VENG Deal",
+    "summary": "Italy and Argentina are strengthening their space collaboration through a new multi-year deal between e-GEOS (a joint venture of the Italian Space Agency and Telespazio) and VENG. The agreement focuses on enhancing space data cooperation.",
+    "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/04/08/italy-and-argentina-to-enhance-space-collaboration-with-telespazio-and-veng-deal/",
+    "date": "Wed, 08 Apr 2026 20:26:33 +0000",
+    "category": "Policy",
+    "company": "Telespazio",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+  },
+  {
+    "title": "Northrop Grumman to Build HUGEO Satellite for Hungary’s 4iG",
+    "summary": "Northrop Grumman has signed a deal with Hungary's 4iG Space and Defense Technologies to build the nation's first communications satellite, named HUGEO. The agreement was announced on Tuesday.",
+    "link": "https://www.satellitetoday.com/manufacturing/2026/04/08/northrop-grumman-to-build-hugeo-satellite-for-hungarys-4ig/",
+    "date": "Wed, 08 Apr 2026 20:14:28 +0000",
+    "category": "Satellite",
+    "company": "Northrop Grumman",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+  },
+  {
+    "title": "April/May Magazine: Space as Critical Infrastructure",
+    "summary": "Via Satellite's April/May magazine focuses on space as critical infrastructure and cybersecurity challenges for lunar activities. It also covers Europe's increased investment in space defense.",
+    "link": "https://www.satellitetoday.com/magazine/2026/04/08/april-may-magazine-space-as-critical-infrastructure/",
+    "date": "Wed, 08 Apr 2026 16:24:51 +0000",
+    "category": "Policy",
+    "company": "Via Satellite",
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+  },
+  {
     "title": "It’s Unanimous: Space Already Functions as Critical Infrastructure",
-    "summary": "Experts agree that space functions as critical infrastructure in the U.S., even though it is not officially designated as the 17th sector. The sector is deeply embedded in government, academia, and industry practices.",
+    "summary": "Experts agree that space functions as critical infrastructure in the U.S., even though it is not officially designated as the 17th sector. The sector is deeply integrated into government, academia, and industry operations.",
     "link": "https://www.satellitetoday.com/government-military/2026/04/07/its-unanimous-space-already-functions-as-critical-infrastructure/",
     "date": "Tue, 07 Apr 2026 21:51:35 +0000",
     "category": "Policy",
     "company": "N/A",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "Cybersecurity in Space is Hard; In Cislunar Space, it’s Really Hard",
-    "summary": "Cybersecurity in space is challenging due to the lack of centralized anomaly detection and regular patching capabilities. The difficulties are amplified in cislunar space, where traditional terrestrial cybersecurity strategies are less effective.",
+    "summary": "The article discusses the challenges of cybersecurity in space, particularly in cislunar space, highlighting the difficulties of applying terrestrial cybersecurity strategies like anomaly detection and software patching in space environments.",
     "link": "https://www.satellitetoday.com/cybersecurity/2026/04/07/cybersecurity-in-space-is-hard-in-cislunar-space-its-really-hard/",
     "date": "Tue, 07 Apr 2026 21:49:28 +0000",
     "category": "Technology",
-    "company": "Not specified",
+    "company": "Via Satellite",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
   },
   {
     "title": "In-Space Mobility, Maturing From Last Miles to Superhighways",
-    "summary": "NASA studied reusable 'space tug' systems in the late 1960s as part of the Space Transportation System (STS), marking an early effort in in-space mobility. The concept is now evolving into more advanced systems akin to 'superhighways' in space.",
+    "summary": "NASA studied a reusable 'space tug' system as part of the Space Transportation System (STS) in the late 1960s. The concept is evolving into modern in-space mobility solutions, transitioning from short-range missions to broader applications.",
     "link": "https://www.satellitetoday.com/technology/2026/04/07/in-space-mobility-maturing-from-last-miles-to-superhighways/",
     "date": "Tue, 07 Apr 2026 21:45:43 +0000",
     "category": "History",
     "company": "NASA",
-    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
   },
   {
     "title": "Is Europe Moving Fast Enough to Close its Space Defense Gaps?",
-    "summary": "Europe is accelerating efforts to address its space defense gaps amid concerns about Russia's military buildup and potential threats to NATO within four years. The urgency stems from the need to enhance space-based capabilities to counter emerging security challenges.",
+    "summary": "Europe is accelerating efforts to address space defense gaps amid concerns over Russia's military buildup and potential threats to NATO within four years. The continent is racing to enhance its space capabilities to counter emerging security challenges.",
     "link": "https://www.satellitetoday.com/government-military/2026/04/07/is-europe-moving-fast-enough-to-close-its-space-defense-gaps/",
     "date": "Tue, 07 Apr 2026 21:42:21 +0000",
     "category": "Policy",
     "company": "NATO",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "Space Is the Best Offset Strategy",
-    "summary": "The article discusses space as a key national security offset strategy, leveraging technological advantages to counter adversarial strengths. It emphasizes the strategic importance of space in modern defense.",
+    "summary": "The article discusses space as a key offset strategy in national security, leveraging technological advantages to counter adversaries' numerical or geographic strengths. It highlights the role of space in modern defense and deterrence.",
     "link": "https://www.satellitetoday.com/opinion/2026/04/07/space-is-the-best-offset-strategy/",
     "date": "Tue, 07 Apr 2026 21:40:28 +0000",
     "category": "Policy",
-    "company": "None",
+    "company": "Not explicitly mentioned",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
-  },
-  {
-    "title": "The Seismic Shifts in the Satellite Communications Landscape are Far From Over",
-    "summary": "The satellite communications market has undergone rapid changes in the past four years, with SpaceX's Starlink leading the deployment of thousands of Low Earth Orbit (LEO) satellites. The industry continues to experience significant shifts.",
-    "link": "https://www.satellitetoday.com/opinion/2026/04/07/the-seismic-shifts-in-the-satellite-communications-landscape-are-far-from-over/",
-    "date": "Tue, 07 Apr 2026 21:30:43 +0000",
-    "category": "Economy",
-    "company": "SpaceX",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
-  },
-  {
-    "title": "Automation and Agility: How SSC Space Go Is Designed for the New Age of Ground",
-    "summary": "SSC Space Go is designed to enhance automation and agility for accessing space, offering spacecraft operations, engineering, and ground network services. The company operates the Esrange launch center in Sweden as part of its mission to support customers in space access.",
-    "link": "https://www.satellitetoday.com/partner-content/2026/04/07/automation-and-agility-how-ssc-space-go-is-designed-for-the-new-age-of-ground/",
-    "date": "Tue, 07 Apr 2026 20:44:53 +0000",
-    "category": "Technology",
-    "company": "SSC Space Go",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
-  },
-  {
-    "title": "On-Orbit Services Startup Starfish Space Raises $110M to Execute Missions, Boost Production",
-    "summary": "Starfish Space raised $110 million in a Series B funding round to execute orbital servicing missions and increase production. The funds will support contracted missions and boost manufacturing capabilities.",
-    "link": "https://www.satellitetoday.com/finance/2026/04/07/on-orbit-services-startup-starfish-space-raises-110m-to-execute-missions-boost-production/",
-    "date": "Tue, 07 Apr 2026 19:56:39 +0000",
-    "category": "Economy",
-    "company": "Starfish Space",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
-  },
-  {
-    "title": "Canadian Navy to Trial All.Space Hydra 4 Terminal",
-    "summary": "The Royal Canadian Navy will test the All.Space Hydra 4 multi-band, multi-orbit mobility terminal to inform short-term satcom architecture decisions. The Hydra 4 terminal is designed to enhance satellite communications capabilities.",
-    "link": "https://www.satellitetoday.com/technology/2026/04/07/canadian-navy-to-trial-all-space-hydra-4-terminal/",
-    "date": "Tue, 07 Apr 2026 19:49:35 +0000",
-    "category": "Technology",
-    "company": "All.Space",
-    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
-  },
-  {
-    "title": "Planet Details AI-Driven Object Detection Onboard Pelican-4 Satellite",
-    "summary": "Planet Labs achieved a milestone by performing AI-driven object detection directly onboard its Pelican-4 satellite using an Nvidia Jetson Orin module. The company announced this technological advancement on Tuesday.",
-    "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/04/07/planet-details-ai-driven-object-detection-onboard-pelican-4-satellite/",
-    "date": "Tue, 07 Apr 2026 19:46:29 +0000",
-    "category": "Technology",
-    "company": "Planet Labs",
-    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   }
 ]
