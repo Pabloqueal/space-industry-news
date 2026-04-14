@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 24
+    "mentions": 25
   },
   {
     "company": "ESA",
-    "mentions": 7
-  },
-  {
-    "company": "N/A",
-    "mentions": 5
+    "mentions": 6
   },
   {
     "company": "Not specified",
-    "mentions": 3
+    "mentions": 2
   },
   {
-    "company": "Space Foundation",
+    "company": "Xoople",
+    "mentions": 1
+  },
+  {
+    "company": "Archangel Lightworks",
     "mentions": 1
   }
 ]
