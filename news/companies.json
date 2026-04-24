@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 26
+    "mentions": 16
   },
   {
     "company": "ESA",
     "mentions": 4
   },
   {
+    "company": "Not specified",
+    "mentions": 2
+  },
+  {
     "company": "European Space Agency",
     "mentions": 2
   },
   {
-    "company": "Eutelsat",
+    "company": "Payload",
     "mentions": 2
-  },
-  {
-    "company": "JAXA",
-    "mentions": 1
   }
 ]
