@@ -1,35 +1,31 @@
 [
   {
     "keyword": "first",
-    "count": 44
+    "count": 42
   },
   {
     "keyword": "space",
-    "count": 33
+    "count": 36
   },
   {
     "keyword": "post",
-    "count": 32
+    "count": 31
   },
   {
     "keyword": "appeared",
-    "count": 32
+    "count": 31
   },
   {
     "keyword": "launch",
-    "count": 21
+    "count": 20
   },
   {
     "keyword": "this",
     "count": 12
   },
   {
-    "keyword": "data",
-    "count": 11
-  },
-  {
     "keyword": "from",
-    "count": 10
+    "count": 11
   },
   {
     "keyword": "nasaspaceflight.com.",
@@ -37,6 +33,10 @@
   },
   {
     "keyword": "payload.",
+    "count": 10
+  },
+  {
+    "keyword": "satellite.",
     "count": 10
   }
 ]
