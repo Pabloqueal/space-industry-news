@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 18
+    "mentions": 20
   },
   {
     "company": "SpaceX",
-    "mentions": 5
+    "mentions": 6
   },
   {
     "company": "ESA",
     "mentions": 5
   },
   {
-    "company": "European Space Agency",
-    "mentions": 2
+    "company": "Not specified",
+    "mentions": 3
   },
   {
-    "company": "True Anomaly",
+    "company": "European Space Agency",
     "mentions": 2
   }
 ]
