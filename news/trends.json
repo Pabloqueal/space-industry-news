@@ -1,7 +1,7 @@
 [
   {
     "keyword": "space",
-    "count": 46
+    "count": 44
   },
   {
     "keyword": "first",
@@ -16,19 +16,11 @@
     "count": 31
   },
   {
-    "keyword": "this",
-    "count": 20
-  },
-  {
     "keyword": "launch",
     "count": 20
   },
   {
     "keyword": "nasa",
-    "count": 19
-  },
-  {
-    "keyword": "mission",
     "count": 17
   },
   {
@@ -36,7 +28,15 @@
     "count": 16
   },
   {
-    "keyword": "center",
+    "keyword": "this",
+    "count": 16
+  },
+  {
+    "keyword": "mission",
+    "count": 16
+  },
+  {
+    "keyword": "spacex",
     "count": 12
   }
 ]
