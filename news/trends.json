@@ -1,11 +1,11 @@
 [
   {
-    "keyword": "first",
-    "count": 37
+    "keyword": "space",
+    "count": 39
   },
   {
-    "keyword": "space",
-    "count": 36
+    "keyword": "first",
+    "count": 37
   },
   {
     "keyword": "post",
@@ -17,15 +17,11 @@
   },
   {
     "keyword": "launch",
-    "count": 26
+    "count": 23
   },
   {
     "keyword": "will",
-    "count": 16
-  },
-  {
-    "keyword": "nasa\u2019s",
-    "count": 16
+    "count": 14
   },
   {
     "keyword": "mission",
@@ -36,7 +32,11 @@
     "count": 13
   },
   {
-    "keyword": "this",
+    "keyword": "nasa\u2019s",
+    "count": 13
+  },
+  {
+    "keyword": "spacex",
     "count": 12
   }
 ]
