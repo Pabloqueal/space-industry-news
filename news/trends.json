@@ -1,11 +1,11 @@
 [
   {
     "keyword": "space",
-    "count": 43
+    "count": 42
   },
   {
     "keyword": "first",
-    "count": 36
+    "count": 35
   },
   {
     "keyword": "post",
@@ -17,15 +17,19 @@
   },
   {
     "keyword": "launch",
-    "count": 21
+    "count": 19
   },
   {
     "keyword": "will",
     "count": 18
   },
   {
+    "keyword": "from",
+    "count": 13
+  },
+  {
     "keyword": "mission",
-    "count": 16
+    "count": 13
   },
   {
     "keyword": "that",
@@ -34,9 +38,5 @@
   {
     "keyword": "nasa",
     "count": 11
-  },
-  {
-    "keyword": "this",
-    "count": 10
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 16
-  },
-  {
-    "company": "SpaceX",
-    "mentions": 7
+    "mentions": 17
   },
   {
     "company": "ESA",
-    "mentions": 5
+    "mentions": 6
   },
   {
-    "company": "Not specified",
+    "company": "SpaceX",
+    "mentions": 6
+  },
+  {
+    "company": "N/A",
     "mentions": 2
   },
   {
-    "company": "Intuitive Machines",
+    "company": "Not specified",
     "mentions": 2
   }
 ]
