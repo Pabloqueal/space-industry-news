@@ -1,11 +1,7 @@
 [
   {
     "keyword": "first",
-    "count": 47
-  },
-  {
-    "keyword": "space",
-    "count": 44
+    "count": 49
   },
   {
     "keyword": "post",
@@ -16,27 +12,31 @@
     "count": 40
   },
   {
+    "keyword": "space",
+    "count": 34
+  },
+  {
     "keyword": "launch",
-    "count": 24
+    "count": 23
   },
   {
     "keyword": "satellite",
-    "count": 20
-  },
-  {
-    "keyword": "mission",
-    "count": 20
+    "count": 16
   },
   {
     "keyword": "from",
-    "count": 18
+    "count": 16
   },
   {
-    "keyword": "nasa\u2019s",
-    "count": 15
+    "keyword": "mission",
+    "count": 14
   },
   {
-    "keyword": "that",
+    "keyword": "will",
+    "count": 14
+  },
+  {
+    "keyword": "spacex",
     "count": 14
   }
 ]

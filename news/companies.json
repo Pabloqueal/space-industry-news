@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 20
+    "mentions": 10
   },
   {
     "company": "SpaceX",
-    "mentions": 8
+    "mentions": 9
   },
   {
     "company": "ESA",
     "mentions": 5
   },
   {
-    "company": "Vast",
-    "mentions": 4
+    "company": "Not specified",
+    "mentions": 3
   },
   {
-    "company": "Lynk Global",
+    "company": "Redwire",
     "mentions": 2
   }
 ]
