@@ -1,42 +1,42 @@
 [
   {
     "keyword": "first",
-    "count": 58
+    "count": 60
   },
   {
     "keyword": "space",
-    "count": 48
-  },
-  {
-    "keyword": "appeared",
-    "count": 41
+    "count": 53
   },
   {
     "keyword": "post",
     "count": 40
   },
   {
+    "keyword": "appeared",
+    "count": 40
+  },
+  {
     "keyword": "launch",
-    "count": 30
+    "count": 31
   },
   {
     "keyword": "nasa",
-    "count": 27
+    "count": 24
   },
   {
     "keyword": "mission",
-    "count": 18
-  },
-  {
-    "keyword": "spacex",
-    "count": 17
+    "count": 20
   },
   {
     "keyword": "starship",
-    "count": 17
+    "count": 18
   },
   {
     "keyword": "will",
-    "count": 17
+    "count": 18
+  },
+  {
+    "keyword": "flight",
+    "count": 16
   }
 ]
