@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 20
+    "mentions": 22
   },
   {
     "company": "SpaceX",
-    "mentions": 8
+    "mentions": 7
   },
   {
     "company": "ESA",
     "mentions": 7
   },
   {
-    "company": "Not specified",
-    "mentions": 3
+    "company": "Blue Origin",
+    "mentions": 2
   },
   {
-    "company": "China National Space Administration (CNSA)",
+    "company": "Rocket Lab",
     "mentions": 2
   }
 ]
