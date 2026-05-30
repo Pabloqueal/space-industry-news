@@ -1,16 +1,34 @@
 [
   {
+    "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
+    "summary": "The U.S. Space Force has awarded SpaceX a $4.16 billion contract to develop a low-orbit satellite constellation for tracking airborne threats such as aircraft and cruise missiles. The network aims to enhance military surveillance and defense capabilities.",
+    "link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
+    "date": "Fri, 29 May 2026 16:52:57 +0000",
+    "category": "Contract",
+    "company": "SpaceX",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-12.37.49-PM.png?fit=1024%2C542&ssl=1"
+  },
+  {
+    "title": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
+    "summary": "Space Force's commercial gatekeeper emphasizes transparency, patience, and a clear military value proposition for startups seeking defense contracts. The guidance highlights that these factors are as important as technical innovation.",
+    "link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/",
+    "date": "Fri, 29 May 2026 14:53:49 +0000",
+    "category": "Policy",
+    "company": "Space Force",
+    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/9676735-scaled-e1780065989126.jpg?fit=1024%2C655&ssl=1"
+  },
+  {
     "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-    "summary": "TelePIX and Bellatrix Aerospace are collaborating on a 2028 demonstration mission to test air-breathing propulsion for very low Earth orbit (VLEO) imaging. The mission aims to showcase geospatial capabilities using innovative propulsion technology.",
+    "summary": "TelePIX and Bellatrix Aerospace will collaborate on a 2028 demonstration mission to test air-breathing propulsion for very low Earth orbit (VLEO) geospatial imaging. The mission aims to validate advanced imaging capabilities in VLEO using innovative propulsion technology.",
     "link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
     "date": "Fri, 29 May 2026 13:36:35 +0000",
-    "category": "Technology",
+    "category": "Mission",
     "company": "TelePIX and Bellatrix Aerospace",
     "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Bellatrix-ceremony-scaled.jpg?fit=1024%2C931&ssl=1"
   },
   {
     "title": "Spatial data has become a weapon of war in the US-Iran war",
-    "summary": "Spatial data derived from satellites has become a critical weapon in the US-Iran conflict, marking a shift toward geospatial warfare. The distinction between civilian and military satellite data is increasingly blurred.",
+    "summary": "Spatial data derived from satellites has become a critical weapon in the US-Iran conflict, marking a shift toward geospatial warfare. The distinction between civilian and military use of such data is increasingly blurred.",
     "link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
     "date": "Fri, 29 May 2026 12:00:00 +0000",
     "category": "Warfare",
@@ -19,7 +37,7 @@
   },
   {
     "title": "China’s latest batch of new and reusable rockets are close to launch",
-    "summary": "China is preparing to launch several new and reusable rockets in the coming weeks and months, including both state-led and commercial efforts. These debuts and first-stage recovery attempts mark significant advancements in the country's space program.",
+    "summary": "China is preparing to launch a new batch of rockets, including reusable models, with both state-led and commercial efforts aiming for debuts and first-stage recovery attempts in the near future.",
     "link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
     "date": "Fri, 29 May 2026 09:38:40 +0000",
     "category": "Launch",
@@ -28,7 +46,7 @@
   },
   {
     "title": "New Glenn rocket explodes on Cape Canaveral pad",
-    "summary": "A Blue Origin New Glenn rocket exploded during a hotfire test at Cape Canaveral on May 28, destroying the rocket and causing significant pad damage.",
+    "summary": "A Blue Origin New Glenn rocket exploded during a hotfire test at Cape Canaveral on May 28, destroying the rocket and damaging the launch pad. The incident marks a significant setback for Blue Origin's orbital launch ambitions.",
     "link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
     "date": "Fri, 29 May 2026 06:00:15 +0000",
     "category": "Launch",
@@ -37,7 +55,7 @@
   },
   {
     "title": "Space Force plans nationwide network of ‘resilient operations centers’",
-    "summary": "The U.S. Space Force is planning to establish a nationwide network of resilient operations centers to ensure military space missions can continue during wartime attacks. These facilities aim to enhance the resilience and survivability of critical space operations.",
+    "summary": "The U.S. Space Force is planning to establish a nationwide network of resilient operations centers to ensure military space missions can continue during wartime, even if installations are attacked. These facilities aim to enhance the resilience and survivability of critical space operations.",
     "link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
     "date": "Thu, 28 May 2026 22:55:11 +0000",
     "category": "Policy",
@@ -55,7 +73,7 @@
   },
   {
     "title": "Setting up a permanent lunar presence needs investment in biology",
-    "summary": "Establishing a permanent human presence on the Moon requires significant investment in biological research. The Apollo 17 mission in 1972 marked the last time humans walked on the lunar surface.",
+    "summary": "Establishing a permanent human presence on the Moon requires significant investment in biological research and life support systems. The Apollo 17 mission in 1972 marked the last time humans walked on the lunar surface.",
     "link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
     "date": "Thu, 28 May 2026 17:12:36 +0000",
     "category": "Science",
@@ -72,35 +90,62 @@
     "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/1-Revolv-Space-scaled.jpg?fit=1024%2C708&ssl=1"
   },
   {
-    "title": "Germany pushes European military space command initiative",
-    "summary": "Germany advocates for a unified European approach to military space operations by proposing a European Space Component Command hosted by Germany. This initiative aims to enhance coordination among European nations in space defense.",
-    "link": "https://spacenews.com/germany-pushes-european-military-space-command-initiative/",
-    "date": "Thu, 28 May 2026 15:02:40 +0000",
-    "category": "Policy",
-    "company": "Germany (German military)",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/ohl.jpg?fit=1024%2C656&ssl=1"
+    "title": "'Star City': Release date & how to watch Apple TV's superb Soviet space series",
+    "summary": "'Star City' is a new Apple TV spinoff series set in the Soviet space program, offering a behind-the-scenes look at the Cold War-era space race. The series is a spin-off of the popular show 'For All Mankind' and explores the history of Soviet cosmonautics.",
+    "link": "https://www.space.com/entertainment/space-movies-shows/star-city-release-date-and-how-to-watch-apple-tvs-superb-soviet-set-space-series",
+    "date": "Fri, 29 May 2026 19:00:00 +0000",
+    "category": "Event",
+    "company": "Apple TV",
+    "image": "https://cdn.mos.cms.futurecdn.net/PXx2LMSY7Wo2dzWGgsXLtH-1280-80.jpg"
   },
   {
-    "title": "CEO Series: Lux Aeterna’s Brian Taylor on what’s next for on-orbit servicing",
-    "summary": "Lux Aeterna's CEO Brian Taylor discusses the challenges of disposable satellites and the potential of on-orbit servicing in a Space Minds interview. The conversation highlights future advancements in satellite maintenance and sustainability.",
-    "link": "https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/",
-    "date": "Thu, 28 May 2026 14:41:22 +0000",
-    "category": "Technology",
-    "company": "Lux Aeterna",
-    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/space-minds-podcast-lux-aeterna-2000-1500.jpg?fit=1024%2C768&ssl=1"
+    "title": "China's Shenzhou 21 astronauts return to Earth after being briefly 'stranded', wrapping up record-breaking mission (video)",
+    "summary": "China's Shenzhou 21 astronauts safely returned to Earth after a record-breaking mission, which included a brief 'stranding' incident. The mission marked a significant milestone for the country's space program.",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video",
+    "date": "Fri, 29 May 2026 18:29:54 +0000",
+    "category": "Mission",
+    "company": "China National Space Administration (CNSA)",
+    "image": "https://cdn.mos.cms.futurecdn.net/Mph77DJiA8YyPKRgpUWoVM-1280-80.jpg"
+  },
+  {
+    "title": "Rare Blue Moon hides the red light of an ancient star on May 31: Will you be able to see it?",
+    "summary": "A rare Blue Moon will align with the red star Antares on May 31, creating a unique celestial event. Stargazers may witness this rare conjunction in the night sky.",
+    "link": "https://www.space.com/stargazing/rare-blue-moon-hides-the-red-light-of-an-ancient-star-on-may-31-will-you-be-able-to-see-it",
+    "date": "Fri, 29 May 2026 18:00:00 +0000",
+    "category": "Science",
+    "company": "None",
+    "image": "https://cdn.mos.cms.futurecdn.net/pYmJMRfjqkFVvSu3oddGQD-1280-80.jpg"
+  },
+  {
+    "title": "'For All Mankind' spin-off 'Star City' will make you want to know more about the Soviet space program",
+    "summary": "The upcoming Apple TV+ spin-off 'Star City' explores the Soviet space program, offering a counterpart to NASA's Apollo narratives. The series aims to shed light on lesser-known stories from the Soviet era.",
+    "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-spin-off-star-city-will-make-you-want-to-know-more-about-the-soviet-space-program",
+    "date": "Fri, 29 May 2026 17:00:00 +0000",
+    "category": "Event",
+    "company": "NASA",
+    "image": "https://cdn.mos.cms.futurecdn.net/9Bq63K3BxFoWeYomaJpRUE-1280-80.jpg"
+  },
+  {
+    "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida",
+    "summary": "A United Launch Alliance Atlas V rocket launched 29 Amazon Leo internet satellites into orbit from Florida on May 28. This mission supports Amazon's growing satellite internet constellation.",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+    "date": "Fri, 29 May 2026 16:00:00 +0000",
+    "category": "Launch",
+    "company": "United Launch Alliance",
+    "image": "https://cdn.mos.cms.futurecdn.net/3hJRRYE8kdzy7c5kWKuJyL-1280-80.jpg"
   },
   {
     "title": "Incredible videos show Blue Origin rocket explosion could be seen from hundreds of miles away",
-    "summary": "Blue Origin's New Glenn rocket exploded during testing on May 28, creating a visible display of flames and debris across wide areas of Florida. The incident occurred during a nighttime test, with the explosion visible from hundreds of miles away.",
+    "summary": "Blue Origin's New Glenn rocket exploded during testing on May 28, creating a visible display of flames and debris across parts of Florida. The incident was witnessed from hundreds of miles away.",
     "link": "https://www.space.com/space-exploration/launches-spacecraft/incredible-videos-show-blue-origin-rocket-explosion-could-be-seen-from-hundreds-of-miles-away",
     "date": "Fri, 29 May 2026 14:33:41 +0000",
     "category": "Launch",
     "company": "Blue Origin",
-    "image": "https://cdn.mos.cms.futurecdn.net/WTKWznfDTyDws3NrBTWvX4-1280-80.png"
+    "image": "https://cdn.mos.cms.futurecdn.net/hwu4zbe5DktGbeggPo2Ne5-1280-80.jpg"
   },
   {
-    "title": "SpaceX sends 29 Starlink satellites into orbit on Falcon 9 rocket launch from Florida",
-    "summary": "SpaceX launched 29 Starlink satellites into orbit using a Falcon 9 rocket from Florida. The mission took place on May 29, 2026, from Cape Canaveral Space Force Station.",
+    "title": "SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion (video)",
+    "summary": "SpaceX successfully launched 29 Starlink satellites from Florida, just hours after Blue Origin's New Glenn rocket exploded during testing at the same spaceport. The close timing of the events highlighted contrasting fortunes for the two companies.",
     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-53-1085-ccsfs-asog",
     "date": "Fri, 29 May 2026 14:22:23 +0000",
     "category": "Launch",
@@ -108,17 +153,17 @@
     "image": "https://cdn.mos.cms.futurecdn.net/7DW9Pfm5kbT4dbAoiC8HZ6-1280-80.jpg"
   },
   {
-    "title": "It's so hot across Europe, you can see the heat wave from space | Space photo of the day for May 29, 2026",
-    "summary": "A heat wave across Europe is visible from space, as captured in a satellite image from May 29, 2026. The extreme temperatures are highlighted by red hues in the satellite data.",
+    "title": "Record-breaking Europe heat wave from space | Space photo of the day for May 29, 2026",
+    "summary": "A record-breaking heat wave in Europe is being observed from space, with satellite imagery showing extreme temperatures. The phenomenon is highlighted as the 'Space photo of the day' for May 29, 2026.",
     "link": "https://www.space.com/astronomy/earth/its-so-hot-across-europe-you-can-see-the-heat-wave-from-space-space-photo-of-the-day-for-may-29-2026",
     "date": "Fri, 29 May 2026 14:00:00 +0000",
     "category": "Science",
-    "company": "N/A",
+    "company": "None",
     "image": "https://cdn.mos.cms.futurecdn.net/SLYzXVuTiWxmQDF7E8GLxG-1280-80.jpg"
   },
   {
     "title": "'The Man Who Fell To Earth' at 50: Was David Bowie’s strange stranded alien his best role ever?",
-    "summary": "The article reflects on David Bowie's iconic role as an alien stranded on Earth in the 1976 film 'The Man Who Fell To Earth', directed by Nicolas Roeg. It discusses whether this performance remains Bowie's best role and its lasting impact.",
+    "summary": "The article reflects on David Bowie's iconic role as an alien in the 1976 film 'The Man Who Fell to Earth,' directed by Nicolas Roeg. It questions whether this performance remains his best role decades later.",
     "link": "https://www.space.com/entertainment/space-movies-shows/the-man-who-fell-to-earth-at-50-was-david-bowies-strange-stranded-alien-his-best-role-ever",
     "date": "Fri, 29 May 2026 13:00:00 +0000",
     "category": "History",
@@ -127,7 +172,7 @@
   },
   {
     "title": "Red dwarf stars are cosmic killers that eat their own planets",
-    "summary": "Astronomers found evidence that red dwarf stars may consume their own planets. This discovery highlights the destructive potential of these common cosmic objects.",
+    "summary": "Astronomers have found the first evidence that red dwarf stars can consume their own planets. This discovery highlights the destructive potential of these common but volatile stars.",
     "link": "https://www.space.com/astronomy/stars/red-dwarf-stars-are-cosmic-killers-that-eat-their-own-planets",
     "date": "Fri, 29 May 2026 12:00:00 +0000",
     "category": "Science",
@@ -135,62 +180,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/Koq2z4nWjEQkTUWGeb6LER-1280-80.png"
   },
   {
-    "title": "Blue Origin's New Glenn rocket explodes in massive fireball during prelaunch test",
-    "summary": "Blue Origin's New Glenn rocket exploded during a prelaunch engine test, potentially delaying the company's progress and NASA's moon missions. The incident marks a significant setback for the aerospace firm.",
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test",
-    "date": "Fri, 29 May 2026 03:41:25 +0000",
-    "category": "Launch",
+    "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+    "summary": "NASA has awarded a contract to seven companies for construction and infrastructure improvements at Johnson Space Center in Houston, with a budget of up to $300 million. The upgrades will support mission facilities, utilities, and equipment, with all funds to be obligated by September 30, 2026.",
+    "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+    "date": "Fri, 29 May 2026 21:24:11 +0000",
+    "category": "Policy",
     "company": "NASA",
-    "image": "https://cdn.mos.cms.futurecdn.net/evaymVKbJdrNf9sHaQkVXm-1280-80.png"
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
   },
   {
-    "title": "Companies like SpaceX want electromagnetic catapults on the moon. Could they be used as weapons?",
-    "summary": "Companies like SpaceX are exploring the use of electromagnetic catapults on the Moon, but a new report warns these could be repurposed as first-strike weapons. The report highlights the strategic and security risks of deploying such technology.",
-    "link": "https://www.space.com/space-exploration/satellites/companies-like-spacex-want-electromagnetic-catapults-on-the-moon-could-they-be-used-as-weapons",
-    "date": "Thu, 28 May 2026 22:00:00 +0000",
-    "category": "Technology",
+    "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
+    "summary": "NASA will host a public event featuring three astronauts from the SpaceX Crew-11 mission at its headquarters in Washington, D.C. The event is part of the crew's postflight visit and will be held in the Webb Auditorium.",
+    "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+    "date": "Fri, 29 May 2026 20:49:43 +0000",
+    "category": "Event",
     "company": "SpaceX",
-    "image": "https://cdn.mos.cms.futurecdn.net/XNwvSrEftRirmPLypnYqDQ-1280-80.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
-    "title": "Andy Weir's 'The Martian' just got a deluxe edition to celebrate the book's 15-year anniversary, and it's a stunner",
-    "summary": "Andy Weir's 'The Martian' receives a deluxe edition to celebrate its 15-year anniversary, featuring significant enhancements. The book, which predates 'Project Hail Mary,' is being re-released as a visually impressive edition.",
-    "link": "https://www.space.com/entertainment/space-books/andy-weirs-the-martian-just-got-a-deluxe-edition-to-celebrate-the-books-15-year-anniversary-and-its-a-stunner",
-    "date": "Thu, 28 May 2026 21:00:00 +0000",
-    "category": "History",
-    "company": "None",
-    "image": "https://cdn.mos.cms.futurecdn.net/9dW6RRQPKPKDQE7iZZz2gh-1280-80.jpg"
-  },
-  {
-    "title": "NASA is hatching a 'fast-paced plan' to boost this space telescope. But first, they'll have to find it",
-    "summary": "NASA is planning to boost the orbit of its Swift space telescope using a private spacecraft, requiring precise predictions of its location this fall. The mission aims to extend the telescope's operational lifespan by increasing its altitude.",
-    "link": "https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it",
-    "date": "Thu, 28 May 2026 20:00:00 +0000",
-    "category": "Mission",
+    "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+    "summary": "NASA engineers completed the final inspection of the primary mirror for the Nancy Grace Roman Space Telescope. The 7.9-foot mirror will help capture detailed panoramas of cosmic objects.",
+    "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
+    "date": "Fri, 29 May 2026 16:33:00 +0000",
+    "category": "Technology",
     "company": "NASA",
-    "image": "https://cdn.mos.cms.futurecdn.net/nqSn3Y5w4Nfuj7pfjQgaSa-1280-80.jpg"
+    "image": "https://www.youtube.com/embed/fAgrztFvWyk"
   },
   {
-    "title": "Hubble Captures M88 on Journey to Center of Virgo Cluster",
-    "summary": "The NASA Hubble Space Telescope captured an image of the active spiral galaxy Messier 88 (M88), which is located approximately 63 million light-years away. This galaxy is part of the Virgo Cluster and is moving toward its center.",
-    "link": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
-    "date": "Fri, 29 May 2026 11:29:09 +0000",
+    "title": "Hubble Spies Faint Irregular Galaxy",
+    "summary": "The NASA Hubble Space Telescope captured an image of the dwarf irregular galaxy ESO 490-017, located 23 million light-years away in the constellation Canis Major. The galaxy's low surface brightness and faint appearance are highlighted against brighter foreground stars.",
+    "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
+    "date": "Fri, 29 May 2026 16:14:26 +0000",
     "category": "Science",
     "company": "NASA",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
+    "title": "Hubble Captures M88 on Journey to Center of Virgo Cluster",
+    "summary": "The NASA Hubble Space Telescope captured an image of the active spiral galaxy Messier 88 (M88), which is located approximately 63 million light-years away. The galaxy is part of the Virgo Cluster and is moving toward its center.",
+    "link": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
+    "date": "Fri, 29 May 2026 11:29:09 +0000",
+    "category": "Science",
+    "company": "NASA",
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+  },
+  {
     "title": "Painting the Growing Season in the Maize Triangle",
-    "summary": "Radar data from an agricultural area in South Africa reveals crop types and seasonal changes using a vivid color palette. The imagery highlights variations in the Southern Hemisphere's growing season.",
+    "summary": "Radar data from an agricultural area in South Africa reveals crop types and their changes during the Southern Hemisphere's growing season, visualized with a vivid color palette.",
     "link": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
     "date": "Fri, 29 May 2026 04:00:00 +0000",
     "category": "Science",
-    "company": "None",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "company": "Not specified",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "NASA’s X-59 Prepares for First Supersonic Flight",
-    "summary": "NASA's X-59 quiet supersonic research aircraft is set to begin a new phase of test flights, including its first supersonic flight. The milestone flights will test mission-critical objectives for the unique aircraft.",
+    "summary": "NASA's X-59 quiet supersonic research aircraft is gearing up for its first supersonic flight as part of critical test flights. The mission aims to advance supersonic travel technology while addressing noise reduction.",
     "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/",
     "date": "Thu, 28 May 2026 22:29:20 +0000",
     "category": "Technology",
@@ -199,30 +244,21 @@
   },
   {
     "title": "I Am Artemis: Daniel Stubbs",
-    "summary": "NASA aerospace engineer Daniel Stubbs discusses potential challenges for Artemis human landing systems due to lunar dust clouds during Moon landings. The issue is compared to driving through dust and dirt that obscures visibility.",
+    "summary": "NASA's Artemis human landing systems may face visibility issues during lunar landings due to dust clouds, as explained by aerospace engineer Daniel Stubbs. This problem is compared to driving through dust on Earth.",
     "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/",
     "date": "Thu, 28 May 2026 21:58:20 +0000",
     "category": "Technology",
     "company": "NASA",
-    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
-  },
-  {
-    "title": "New Landsat Science Team Holds First In-Person Meeting",
-    "summary": "The new Landsat Science Team held its first in-person meeting from May 5 to 7 at the EROS Center in Sioux Falls, SD. The event introduced the 2026–2030 Science Team members.",
-    "link": "https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/",
-    "date": "Thu, 28 May 2026 21:03:52 +0000",
-    "category": "Science",
-    "company": "Landsat Science Team",
-    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
   },
   {
     "title": "Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!",
-    "summary": "NASA's Curiosity rover successfully drilled a sample at 'Campo Marte' on Mars. The achievement was confirmed through downlink data analyzed by the Jet Propulsion Laboratory team.",
+    "summary": "NASA's Curiosity rover successfully drilled a sample at 'Campo Marte' on Mars, as confirmed by downlink data. The rover's recent drilling attempt follows a previous operation at 'Atacama'.",
     "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/",
     "date": "Thu, 28 May 2026 19:37:24 +0000",
     "category": "Science",
-    "company": "Jet Propulsion Laboratory (NASA)",
-    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+    "company": "Jet Propulsion Laboratory",
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "NASA Uses Mineralogical Marker to Understand Ancient Martian Climate",
@@ -234,53 +270,26 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
-    "title": "Nancy Grace Roman Space Telescope Poster",
-    "summary": "NASA released high-resolution posters and images of the Nancy Grace Roman Space Telescope. The materials are available for download in various formats.",
-    "link": "https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/",
-    "date": "Thu, 28 May 2026 17:26:43 +0000",
-    "category": "Science",
-    "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
-  },
-  {
-    "title": "Contractor to Civil Servant: NASA Welcomes Kenny Heckle",
-    "summary": "NASA welcomes Kenny Heckle, who grew up near Kennedy Space Center and has a background in union pipefitting and fabrication. The article highlights his personal connection to NASA and his family's history in the trade.",
-    "link": "https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/",
-    "date": "Thu, 28 May 2026 16:58:55 +0000",
-    "category": "History",
-    "company": "NASA",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
-  },
-  {
-    "title": "NASA Astronaut Andrew Morgan Retires",
-    "summary": "NASA astronaut Andrew Morgan retired from the agency on May 28, 2026, after a 12-year career, including 272 days in space aboard the ISS. He joined NASA's 21st astronaut class in 2013 and transitioned to continue his military service.",
-    "link": "https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/",
-    "date": "Thu, 28 May 2026 16:47:10 +0000",
-    "category": "History",
-    "company": "NASA",
-    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
-  },
-  {
     "title": "Blue Origin’s New Glenn explodes during Static Fire test at LC-36",
-    "summary": "Blue Origin's New Glenn rocket suffered a catastrophic explosion during a static fire test at Launch Complex 36. The incident marks a significant setback for the company's orbital launch ambitions.",
+    "summary": "Blue Origin's New Glenn rocket suffered a significant anomaly during a static fire test at Launch Complex 36, resulting in an explosion. The incident marks a major setback for the company's orbital launch ambitions.",
     "link": "https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/",
     "date": "Fri, 29 May 2026 03:59:03 +0000",
-    "category": "Launch",
+    "category": "Technology",
     "company": "NASA",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "Rovers and Drones laying the foundations for NASA Moon Base",
-    "summary": "NASA has outlined initial missions for its Moon Base initiative, involving rovers and drones to lay the groundwork. The initiative rebrands existing Commercial Lunar Payload Services (CLPS) missions.",
+    "summary": "NASA has outlined initial missions for its Moon Base initiative, utilizing rovers and drones to lay groundwork. The initiative involves rebranding existing Commercial Lunar missions.",
     "link": "https://www.nasaspaceflight.com/2026/05/rovers-drones-nasa-moon-base/",
     "date": "Wed, 27 May 2026 20:02:28 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "Following Starship V3 debut, SpaceX prepares for follow up",
-    "summary": "SpaceX conducted the first flight of its Starship Version 3 this week. The company is now preparing for a follow-up mission.",
+    "summary": "SpaceX conducted the first flight of Starship Version 3 this week. The company is now preparing for follow-up missions.",
     "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
     "date": "Wed, 27 May 2026 01:10:58 +0000",
     "category": "Launch",
@@ -289,39 +298,39 @@
   },
   {
     "title": "Launch Preview: Starlink and Amazon Leo missions fill manifest",
-    "summary": "Six orbital launches are scheduled this week, with four of them being SpaceX's Starlink missions. Amazon's Leo satellite missions are also part of the manifest.",
+    "summary": "Six orbital launches are scheduled this week, with four Falcon 9 Starlink missions and Amazon's Leo mission among the highlights. The launches are expected to significantly expand satellite internet constellations.",
     "link": "https://www.nasaspaceflight.com/2026/05/launch-preview-052526/",
     "date": "Mon, 25 May 2026 22:01:32 +0000",
     "category": "Launch",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
   },
   {
     "title": "Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April",
-    "summary": "Expedition 74 crew aboard the International Space Station has been occupied with vehicle arrivals, science experiments, and maintenance tasks throughout April. The activities highlight ongoing operations and research in low Earth orbit.",
+    "summary": "Expedition 74 crew aboard the International Space Station has been busy with vehicle arrivals, science experiments, and maintenance activities throughout April. The activities highlight ongoing operations and research in low Earth orbit.",
     "link": "https://www.nasaspaceflight.com/2026/05/iss-roundup-april/",
     "date": "Sun, 24 May 2026 19:04:58 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "Shenzhou 23 launches new crew to Tiangong space station",
-    "summary": "Shenzhou 23 successfully launched a new crew to China's Tiangong space station, which has been permanently occupied since June 2022. This marks another mission to sustain and expand operations aboard the orbital outpost.",
+    "summary": "Shenzhou 23 successfully launched a new crew to China's Tiangong space station. The mission marks another step in maintaining permanent occupancy of the station since June 2022.",
     "link": "https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/",
     "date": "Sat, 23 May 2026 22:16:51 +0000",
     "category": "Launch",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "Starship Flight 12: Block 3 Impresses on First Flight",
-    "summary": "Starship Flight 12, featuring Block 3 upgrades, successfully launched on May 22, 2026, from an unspecified location. The mission marked a significant milestone for SpaceX's Starship program.",
+    "summary": "Starship Flight 12, featuring Block 3, successfully launched on May 22, 2026, at 5:30:21 pm CDT from SpaceX's facilities. The mission impressed observers with its performance during its inaugural flight.",
     "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
     "date": "Wed, 20 May 2026 23:52:00 +0000",
     "category": "Launch",
     "company": "NASA",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
   },
   {
     "title": "Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12",
@@ -330,7 +339,7 @@
     "date": "Tue, 19 May 2026 21:08:02 +0000",
     "category": "Launch",
     "company": "SpaceX",
-    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
   },
   {
     "title": "Vega C launches SMILE to study Earth’s magnetosphere",
@@ -339,20 +348,20 @@
     "date": "Mon, 18 May 2026 22:50:38 +0000",
     "category": "Mission",
     "company": "NASA",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "Super Heavy Block 3 the Booster of the Future",
-    "summary": "The article discusses the evolution of the Super Heavy Block 3 booster, the first stage of SpaceX's Starship, highlighting its ongoing improvements. It is presented as the 'booster of the future' for SpaceX's next-generation launch system.",
+    "summary": "The article discusses the evolution of the Super Heavy Block 3 booster, the first stage of SpaceX's Starship, highlighting its ongoing improvements. It is presented as a key development in SpaceX's future launch capabilities.",
     "link": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
     "date": "Mon, 18 May 2026 18:27:46 +0000",
     "category": "Technology",
     "company": "NASA",
-    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
   },
   {
     "title": "TEC Business to Business website",
-    "summary": "TEC Business to Business website is mentioned twice in the provided news snippet without additional context or details.",
+    "summary": "The TEC Business to Business website reported on an unspecified space industry topic. No specific details about the content or focus of the report were provided.",
     "link": "https://technology.esa.int",
     "date": "Tue, 14 Dec 2021 08:52:00 +0100",
     "category": "Other",
@@ -361,7 +370,7 @@
   },
   {
     "title": "ESA Delivers: 50 years booklet",
-    "summary": "ESA celebrates 50 years of achievements with a commemorative booklet highlighting 50 hallmark milestones. The publication reflects on five decades of contributions to space exploration and science.",
+    "summary": "ESA celebrates 50 years with a booklet highlighting 50 major achievements. The publication marks five decades of the European Space Agency's contributions to space exploration.",
     "link": "https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet",
     "date": "Fri, 20 Jun 2025 09:45:00 +0200",
     "category": "History",
@@ -370,16 +379,16 @@
   },
   {
     "title": "ESA’s Prodex programme brings scientific research to space",
-    "summary": "ESA's Prodex programme has enabled the successful launch of the 4DSpace-Daedalus mission in Norway. The programme supports European space science activities by involving research institutes.",
+    "summary": "ESA's Prodex programme has enabled the successful launch of the 4DSpace-Daedalus mission in Norway. The programme supports research institutes in participating in European space science activities and missions.",
     "link": "https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space",
     "date": "Fri, 22 May 2026 18:10:00 +0200",
-    "category": "Mission",
+    "category": "Science",
     "company": "ESA",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_mission/27267553-1-eng-GB/4DSpace-Daedalus_ICI-5b_mission_card_full.jpg"
   },
   {
     "title": "Stay space chemical compliant in the EU",
-    "summary": "The European Space Agency (ESA) will host a free REACH workshop on chemical compliance in the space sector on 2 June at its technical centre in the Netherlands, with an online attendance option available.",
+    "summary": "The European Space Agency (ESA) will host a free REACH workshop on chemical compliance in the space sector on 2 June at its technical centre in the Netherlands, with an online participation option.",
     "link": "https://www.esa.int/About_Us/Business_with_ESA/Stay_space_chemical_compliant_in_the_EU",
     "date": "Thu, 21 May 2026 10:10:00 +0200",
     "category": "Policy",
@@ -388,7 +397,7 @@
   },
   {
     "title": "The young minds space-proofing ESA’s missions",
-    "summary": "Young researchers are contributing to ESA's missions by testing materials to ensure they can withstand the harsh space environment. The Materials, Environments and Contamination Control Section is driving innovation with fresh ideas from these researchers.",
+    "summary": "Young researchers are contributing to ESA's missions by testing and ensuring the durability of materials in the harsh space environment. The Materials, Environments and Contamination Control Section is supported by these innovative minds.",
     "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_young_minds_space-proofing_ESA_s_missions",
     "date": "Wed, 13 May 2026 11:05:00 +0200",
     "category": "Science",
@@ -397,7 +406,7 @@
   },
   {
     "title": "Extended Reality at ESA opens new pathways for space exploration",
-    "summary": "The European Space Agency (ESA) is leveraging Extended Reality (XR) to advance training, operational efficiency, and public engagement in space exploration. This technology is being used to create immersive simulation environments and enhance mission simulations.",
+    "summary": "The European Space Agency (ESA) is leveraging Extended Reality (XR) for training, operations, simulations, and public engagement in space exploration. This initiative aims to enhance both technical and educational aspects of space missions.",
     "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration",
     "date": "Thu, 07 May 2026 10:45:00 +0200",
     "category": "Technology",
@@ -406,16 +415,16 @@
   },
   {
     "title": "The great parachute bake-out",
-    "summary": "A space industry event involving a parachute test, likely related to a spacecraft landing system, was conducted. The 'bake-out' suggests a thermal test to ensure the parachute's performance under extreme conditions.",
+    "summary": "A space industry news article titled 'The great parachute bake-out' suggests a focus on parachute testing or technology for space missions. The image title implies a thermal or baking test process for parachutes used in space exploration.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out",
     "date": "Thu, 30 Apr 2026 13:30:00 +0200",
     "category": "Technology",
-    "company": "Not explicitly mentioned",
+    "company": "Not specified",
     "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/the_great_parachute_bake-out/27249602-1-eng-GB/The_great_parachute_bake-out_card_full.jpg"
   },
   {
     "title": "Baking a parachute for Mars",
-    "summary": "The ESA is sterilizing a 35-meter parachute for the ExoMars Rosalind Franklin rover mission to ensure it is 10,000 times cleaner than a smartphone, preventing microbial contamination of Mars. The parachute, made of nylon and Kevlar, will slow the rover's descent during its 2028 landing to search for signs of life.",
+    "summary": "ESA is sterilizing a 35-meter diameter parachute for the ExoMars Rosalind Franklin rover mission to ensure it is 10,000 times cleaner than a smartphone, preventing microbial contamination of Mars. The mission, launching in 2028, aims to search for signs of life beneath the Martian surface while adhering to strict planetary protection measures.",
     "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars",
     "date": "Thu, 30 Apr 2026 11:29:00 +0200",
     "category": "Technology",
@@ -424,7 +433,7 @@
   },
   {
     "title": "A new grip on space: electrostatic capture technology",
-    "summary": "A new electrostatic capture technology has been developed to improve the handling and retrieval of space debris and satellites. This innovation could significantly enhance space operations and safety.",
+    "summary": "A new electrostatic capture technology has been developed for capturing and securing objects in space. This innovation could significantly enhance the safety and efficiency of space debris removal and satellite servicing missions.",
     "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_new_grip_on_space_electrostatic_capture_technology",
     "date": "Thu, 23 Apr 2026 14:50:00 +0200",
     "category": "Technology",
@@ -433,7 +442,7 @@
   },
   {
     "title": "Blue Origin’s New Glenn Explodes on the Pad",
-    "summary": "Blue Origin's New Glenn rocket suffered a catastrophic failure during its launch attempt, resulting in an explosion on the pad. The incident marks a significant setback for the company's ambitions in the space industry.",
+    "summary": "Blue Origin's New Glenn rocket suffered a catastrophic failure during a launch attempt, resulting in an explosion on the launch pad. The incident marks a significant setback for the company's ambitions in the heavy-lift launch market.",
     "link": "https://payloadspace.com/blue-origins-new-glenn-explodes-on-the-pad/",
     "date": "Fri, 29 May 2026 12:24:04 +0000",
     "category": "Launch",
@@ -442,7 +451,7 @@
   },
   {
     "title": "Europe Celebrates its Sovereignty Progress at SmallSat",
-    "summary": "Europe highlighted its progress in achieving orbital sovereignty at the SmallSat Europe event. The gathering emphasized the continent's advancements in independent space capabilities.",
+    "summary": "Europe showcased progress in achieving orbital sovereignty at SmallSat Europe. The event highlighted advancements in independent space capabilities.",
     "link": "https://payloadspace.com/europe-celebrates-its-sovereignty-progress-at-smallsat/",
     "date": "Fri, 29 May 2026 06:15:00 +0000",
     "category": "Event",
@@ -451,7 +460,7 @@
   },
   {
     "title": "Observable Space Raises $90M Series A",
-    "summary": "Observable Space, a space-tech startup, has raised $90 million in a Series A funding round to expand its laser and optical hardware production and international presence beyond the US.",
+    "summary": "Observable Space, a space-tech startup, has secured $90 million in Series A funding to expand its laser and optical hardware production and international presence beyond the US.",
     "link": "https://payloadspace.com/observable-space-raises-90m-series-a/",
     "date": "Thu, 28 May 2026 14:54:19 +0000",
     "category": "Economy",
@@ -460,7 +469,7 @@
   },
   {
     "title": "Space Markets Emerges From Stealth With Coinbase Ventures Investment",
-    "summary": "Space Markets has emerged from stealth mode with a new investment from Coinbase Ventures. The company aims to create futures markets for space-related commodities and resources.",
+    "summary": "Space Markets has emerged from stealth mode after receiving an investment from Coinbase Ventures. The company aims to create futures markets for space-related commodities and resources.",
     "link": "https://payloadspace.com/space-markets-emerges-from-stealth-with-coinbase-ventures-investment/",
     "date": "Thu, 28 May 2026 12:30:00 +0000",
     "category": "Economy",
@@ -469,7 +478,7 @@
   },
   {
     "title": "Exclusive: Stellar Alpina Raises $4.5M to Build Rotating Detonation Engines",
-    "summary": "Stellar Alpina, a European propulsion startup, has raised $4.5 million to develop rotating detonation engines, a novel type of propulsion technology. This funding aims to bring this advanced engine design to the commercial space market.",
+    "summary": "Stellar Alpina, a European propulsion startup, has raised $4.5 million to develop rotating detonation engines, a novel propulsion technology. This funding aims to advance a new kind of thrust mechanism for the space industry.",
     "link": "https://payloadspace.com/exclusive-stellar-alpina-raises-4-5m-to-build-rotating-detonation-engines/",
     "date": "Thu, 28 May 2026 07:30:00 +0000",
     "category": "Technology",
@@ -478,7 +487,7 @@
   },
   {
     "title": "Aitech Upgrades its Space Supercomputer",
-    "summary": "Aitech integrated NVIDIA's IGX Thor platform into its S-A2300 COTS AI Supercomputer, enhancing in-orbit data processing capabilities for customers. This upgrade significantly expands the supercomputer's performance for space-based applications.",
+    "summary": "Aitech has upgraded its S-A2300 COTS AI Supercomputer by integrating NVIDIA's IGX Thor platform, significantly enhancing in-orbit data processing capabilities for customers.",
     "link": "https://payloadspace.com/aitech-upgrades-its-space-supercomputer/",
     "date": "Wed, 27 May 2026 13:00:00 +0000",
     "category": "Technology",
@@ -487,7 +496,7 @@
   },
   {
     "title": "NASA Awards LTV, Lunar Transport Contracts",
-    "summary": "NASA has awarded contracts for Lunar Terrain Vehicles (LTV) and lunar transport services, signaling a significant step toward returning humans to the Moon. The announcement was made during a press conference led by NASA Administrator Jared Isaacman.",
+    "summary": "NASA has awarded contracts for Lunar Terrain Vehicles (LTV) and lunar transport services, signaling a significant step toward returning humans to the Moon. NASA Administrator Jared Isaacman announced the awards during a press conference, emphasizing the upcoming return to the lunar surface.",
     "link": "https://payloadspace.com/nasa-awards-ltv-lunar-transport-contracts/",
     "date": "Tue, 26 May 2026 20:50:03 +0000",
     "category": "Contract",
@@ -496,21 +505,66 @@
   },
   {
     "title": "Op-ed: Commercial Demand in LEO is Lacking. The Government Can Help.",
-    "summary": "A recent op-ed argues that the most promising market opportunity in Low Earth Orbit (LEO), in-space manufacturing, lacks sufficient commercial demand to sustain itself. It suggests that government support is necessary to drive demand and advance the industry.",
+    "summary": "A recent op-ed argues that in-space manufacturing in Low Earth Orbit (LEO) lacks sufficient commercial demand to sustain itself and calls for government support to drive growth.",
     "link": "https://payloadspace.com/op-ed-commercial-demand-in-leo-is-lacking-the-government-can-help/",
     "date": "Tue, 26 May 2026 17:45:00 +0000",
-    "category": "Policy",
-    "company": "N/A",
+    "category": "Economy",
+    "company": "None",
     "image": "https://payloadspace.com/wp-content/uploads/2025/07/varda-W-1-W2-W-3-200x200.jpeg"
   },
   {
+    "title": "Optical Links: When to Incorporate Them? When Not To?",
+    "summary": "The article discusses the cost-effectiveness of optical links for satellite applications, noting that they often cost hundreds of thousands of dollars and may not be worth the investment for many use cases.",
+    "link": "https://payloadspace.com/optical-links-when-to-incorporate-them-when-not-to/",
+    "date": "Tue, 26 May 2026 14:53:00 +0000",
+    "category": "Technology",
+    "company": "Payload",
+    "image": "https://payloadspace.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-4.57.59-PM-tcHQkX-200x200.png"
+  },
+  {
     "title": "Satellogic Lands $18M+ Defense-Monitoring Contract",
-    "summary": "Satellogic secured an $18M+ defense-monitoring contract, marking its first major agreement following a strategic shift to persistent-monitoring capabilities.",
+    "summary": "Satellogic secured a defense-monitoring contract worth over $18 million, marking its first major agreement following a strategic shift to persistent-monitoring capabilities.",
     "link": "https://payloadspace.com/satellogic-lands-18m-defense-monitoring-contract/",
     "date": "Tue, 26 May 2026 13:00:00 +0000",
     "category": "Economy",
     "company": "Satellogic",
     "image": "https://payloadspace.com/wp-content/uploads/2026/05/Antelope-Reef-Payload--200x200.png"
+  },
+  {
+    "title": "SpaceX Gets Nearly $4.2 Billion Nod From Space Force For Initial SB-AMTI",
+    "summary": "The U.S. Space Force awarded SpaceX a nearly $4.2 billion contract for the initial phase of the SB-AMTI program. This follows a $2.3 billion contract for the Space Data Network Backbone awarded two days prior.",
+    "link": "https://www.satellitetoday.com/government-military/2026/05/29/spacex-gets-nearly-4-2-billion-nod-from-space-force-for-initial-sb-amti/",
+    "date": "Fri, 29 May 2026 19:25:01 +0000",
+    "category": "Contract",
+    "company": "SpaceX",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+  },
+  {
+    "title": "Sateliot Wins New Telenor IoT Deal",
+    "summary": "Sateliot, a Spanish satellite company, has secured a new IoT partnership with Telenor IoT, a division of the Nordic telecommunications giant Telenor Group.",
+    "link": "https://www.satellitetoday.com/connectivity/2026/05/29/sateliot-wins-new-telenor-iot-deal/",
+    "date": "Fri, 29 May 2026 19:18:52 +0000",
+    "category": "Business",
+    "company": "Sateliot",
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
+  },
+  {
+    "title": "Viasat Full Year ‘26 Takeaways: Record Revenue, Equatys Moves Forward",
+    "summary": "Viasat reported record revenue and awards for the full year 2026, but missed stabilization targets in maritime and fixed broadband. The company also highlighted progress on its Equatys initiative.",
+    "link": "https://www.satellitetoday.com/finance/2026/05/29/viasat-full-year-26-takeaways-record-revenue-equatys-moves-forward/",
+    "date": "Fri, 29 May 2026 18:46:50 +0000",
+    "category": "Economy",
+    "company": "Viasat",
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
+  },
+  {
+    "title": "Blue Origin’s Launch Pad Explosion Could Impact Timelines for Commercial Customers, NASA Missions",
+    "summary": "Blue Origin's New Glenn rocket suffered a launch pad explosion at Cape Canaveral, potentially delaying commercial and NASA missions. The incident marks a significant setback for the company's spaceflight timelines.",
+    "link": "https://www.satellitetoday.com/launch/2026/05/29/blue-origins-launch-pad-explosion-could-impact-timelines-for-commercial-customers-nasa-missions/",
+    "date": "Fri, 29 May 2026 18:12:52 +0000",
+    "category": "Launch",
+    "company": "NASA",
+    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
   },
   {
     "title": "EU Targets User Terminal Tech Advancements Ahead of IRIS²",
@@ -519,11 +573,11 @@
     "date": "Fri, 29 May 2026 01:02:25 +0000",
     "category": "Technology",
     "company": "European Union",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
+    "image": "https://media.istockphoto.com/id/498697432/es/foto/sat%C3%A9lite-en-el-espacio.jpg?s=612x612&w=0&k=20&c=iJrHcII0MRP0udk2scj8Iuky78-CQtoQD7Ih3ddx80w="
   },
   {
     "title": "BlackSky Advances Non-Earth Imaging Business With 7-Figure Renewal",
-    "summary": "BlackSky Technology secured a seven-figure contract renewal for non-Earth imagery services, capturing images of objects in orbit. This highlights the growing demand for space situational awareness and orbital debris monitoring.",
+    "summary": "BlackSky Technology secured a seven-figure contract renewal for non-Earth imagery services, focusing on capturing images of objects in orbit. This contract highlights the growing demand for space-based surveillance and monitoring capabilities.",
     "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/05/28/blacksky-advances-non-earth-imaging-business-with-7-figure-renewal/",
     "date": "Thu, 28 May 2026 19:52:41 +0000",
     "category": "Economy",
@@ -532,25 +586,25 @@
   },
   {
     "title": "UK’s O2 Satellite Expands D2D Service to iPhones",
-    "summary": "Virgin Media O2's direct-to-device (D2D) service, O2 Satellite, now supports iPhones. The service uses SpaceX’s Starlink Mobile constellation.",
+    "summary": "UK’s O2 Satellite has expanded its direct-to-device (D2D) service to support iPhones. The service leverages SpaceX’s Starlink Mobile constellation, which was launched earlier this year.",
     "link": "https://www.satellitetoday.com/connectivity/2026/05/28/uks-o2-satellite-expands-d2d-service-to-iphones/",
     "date": "Thu, 28 May 2026 19:49:16 +0000",
     "category": "Technology",
     "company": "SpaceX",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "Swissto12 Adds to Leadership Team to Target Global Growth",
-    "summary": "Swissto12 is expanding its leadership team with new roles including a chief commercial officer (CCO) and executives focused on government affairs and partnerships to support global growth. The company, which specializes in satellite communications technology, is positioning itself for international expansion.",
+    "summary": "Swissto12 is expanding its leadership team with new appointments to drive global growth, including a chief commercial officer and executives focused on government affairs and partnerships.",
     "link": "https://www.satellitetoday.com/people/2026/05/28/swissto12-adds-to-leadership-team-to-target-global-growth/",
     "date": "Thu, 28 May 2026 19:41:28 +0000",
     "category": "Company",
     "company": "Swissto12",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   },
   {
     "title": "Orbital Data Centers Must Tackle Chip Lifespan, Launch Availability, and Cybersecurity Challenges",
-    "summary": "Orbital data centers face challenges like chip lifespan, launch availability, and cybersecurity, as highlighted in discussions around SpaceX's IPO documents. The future of moving compute to space is a key topic in the space industry.",
+    "summary": "Orbital data centers face challenges like chip lifespan, launch availability, and cybersecurity. The topic gained attention following SpaceX's initial IPO documents.",
     "link": "https://www.satellitetoday.com/technology/2026/05/28/orbital-data-centers-must-tackle-chip-lifespan-launch-availability-and-cybersecurity-challenges/",
     "date": "Thu, 28 May 2026 19:40:06 +0000",
     "category": "Technology",
@@ -559,47 +613,11 @@
   },
   {
     "title": "Will the European Launch Market Finally Ignite?",
-    "summary": "The European space industry is questioning when it will achieve more efficient and reliable access to space, with this issue being a major topic at a recent launch panel. The discussion highlights the urgency for advancements in Europe's launch capabilities.",
+    "summary": "The European space industry is questioning when it will achieve more efficient and reliable access to space, as discussed in a recent launch panel. The focus is on whether the European launch market will finally gain momentum.",
     "link": "https://www.satellitetoday.com/launch/2026/05/27/will-the-european-launch-market-finally-ignite/",
     "date": "Wed, 27 May 2026 21:15:08 +0000",
     "category": "Launch",
     "company": "European space industry",
-    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/08/sharp_eyes_on_earth/16092893-1-eng-GB/Sharp_eyes_on_Earth_article.jpg"
-  },
-  {
-    "title": "Archangel Lightworks Demonstrates Deployable Optical Ground Station",
-    "summary": "Archangel Lightworks has successfully tested its deployable optical ground station Terra-M, demonstrating data transfer with a Low-Earth Orbit (LEO) satellite. The field tests validate the ground station's capability to support optical communications in space.",
-    "link": "https://www.satellitetoday.com/technology/2026/05/27/archangel-lightworks-demonstrates-deployable-optical-ground-station/",
-    "date": "Wed, 27 May 2026 19:39:35 +0000",
-    "category": "Technology",
-    "company": "Archangel Lightworks",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Earth_flag_PD.jpg/960px-Earth_flag_PD.jpg"
-  },
-  {
-    "title": "Anuvu Taps Eutelsat for IFC Capacity on Eutelsat 10B",
-    "summary": "Anuvu has signed a multi-year agreement with Eutelsat to use satellite capacity on the Eutelsat 10B satellite for in-flight connectivity (IFC) services. The Eutelsat 10B satellite is positioned at 10 degrees East.",
-    "link": "https://www.satellitetoday.com/mobility/2026/05/27/anuvu-taps-eutelsat-for-ifc-capacity-on-eutelsat-10b/",
-    "date": "Wed, 27 May 2026 19:39:31 +0000",
-    "category": "Satellite",
-    "company": "Anuvu",
-    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
-  },
-  {
-    "title": "European Commission Reserves Portion of Critical MSS Spectrum for EU Operators",
-    "summary": "The European Commission has outlined a process to allocate licenses for critical mobile satellite services (MSS) spectrum in Europe. The move aims to prioritize EU operators for spectrum usage.",
-    "link": "https://www.satellitetoday.com/connectivity/2026/05/27/european-commission-reserves-portion-of-critical-mss-spectrum-for-eu-operators/",
-    "date": "Wed, 27 May 2026 19:37:53 +0000",
-    "category": "Policy",
-    "company": "European Commission",
-    "image": "https://c.files.bbci.co.uk/85C7/production/_104574243_gettyimages-182062885.jpg"
-  },
-  {
-    "title": "Space Force Awards SpaceX $2.3 Billion Contract for Space Data Network",
-    "summary": "The U.S. Space Force awarded SpaceX a $2.29 billion contract to develop the Space Data Network (SDN) Backbone, a proliferated Low-Earth Orbit (LEO) system. This contract aims to enhance secure and resilient data transmission capabilities for military and government applications.",
-    "link": "https://www.satellitetoday.com/government-military/2026/05/27/space-force-awards-spacex-2-3-billion-contract-for-space-data-network/",
-    "date": "Wed, 27 May 2026 14:26:52 +0000",
-    "category": "Contract",
-    "company": "SpaceX",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg"
   }
 ]
