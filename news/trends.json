@@ -1,7 +1,11 @@
 [
   {
+    "keyword": "space",
+    "count": 64
+  },
+  {
     "keyword": "first",
-    "count": 44
+    "count": 42
   },
   {
     "keyword": "post",
@@ -12,31 +16,27 @@
     "count": 40
   },
   {
-    "keyword": "space",
-    "count": 39
-  },
-  {
     "keyword": "will",
-    "count": 25
-  },
-  {
-    "keyword": "launch",
     "count": 24
-  },
-  {
-    "keyword": "nasa",
-    "count": 23
-  },
-  {
-    "keyword": "artemis",
-    "count": 22
   },
   {
     "keyword": "mission",
     "count": 22
   },
   {
-    "keyword": "earth",
-    "count": 15
+    "keyword": "nasa",
+    "count": 21
+  },
+  {
+    "keyword": "artemis",
+    "count": 20
+  },
+  {
+    "keyword": "launch",
+    "count": 18
+  },
+  {
+    "keyword": "satellite",
+    "count": 14
   }
 ]
