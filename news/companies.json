@@ -1,22 +1,22 @@
 [
   {
     "company": "SpaceX",
-    "mentions": 11
+    "mentions": 12
   },
   {
     "company": "NASA",
-    "mentions": 11
+    "mentions": 12
   },
   {
     "company": "ESA",
-    "mentions": 9
+    "mentions": 8
+  },
+  {
+    "company": "Japan Aerospace Exploration Agency (JAXA)",
+    "mentions": 3
   },
   {
     "company": "Not specified",
     "mentions": 3
-  },
-  {
-    "company": "Avanti Communications",
-    "mentions": 1
   }
 ]
