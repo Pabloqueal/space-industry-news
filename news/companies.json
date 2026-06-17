@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 15
+    "mentions": 24
   },
   {
     "company": "SpaceX",
-    "mentions": 9
-  },
-  {
-    "company": "ESA",
     "mentions": 7
   },
   {
-    "company": "PiLogic",
-    "mentions": 2
+    "company": "ESA",
+    "mentions": 5
   },
   {
-    "company": "Arianespace",
+    "company": "Not specified",
+    "mentions": 3
+  },
+  {
+    "company": "Dawn Aerospace",
     "mentions": 2
   }
 ]
