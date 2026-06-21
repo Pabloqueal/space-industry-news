@@ -1,7 +1,7 @@
 [
   {
     "keyword": "space",
-    "count": 59
+    "count": 51
   },
   {
     "keyword": "first",
@@ -17,14 +17,6 @@
   },
   {
     "keyword": "will",
-    "count": 19
-  },
-  {
-    "keyword": "mission",
-    "count": 18
-  },
-  {
-    "keyword": "nasa",
     "count": 16
   },
   {
@@ -32,11 +24,19 @@
     "count": 16
   },
   {
-    "keyword": "that",
+    "keyword": "mission",
     "count": 15
   },
   {
-    "keyword": "from",
-    "count": 14
+    "keyword": "that",
+    "count": 12
+  },
+  {
+    "keyword": "launch",
+    "count": 12
+  },
+  {
+    "keyword": "spacenews.",
+    "count": 10
   }
 ]
