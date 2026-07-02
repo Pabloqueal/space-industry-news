@@ -1,42 +1,42 @@
 [
   {
     "keyword": "first",
-    "count": 47
+    "count": 49
+  },
+  {
+    "keyword": "appeared",
+    "count": 42
   },
   {
     "keyword": "post",
     "count": 40
   },
   {
-    "keyword": "appeared",
-    "count": 40
-  },
-  {
     "keyword": "space",
-    "count": 32
-  },
-  {
-    "keyword": "launch",
     "count": 31
   },
   {
-    "keyword": "satellite",
-    "count": 23
+    "keyword": "launch",
+    "count": 30
   },
   {
     "keyword": "nasa",
-    "count": 23
+    "count": 26
   },
   {
     "keyword": "from",
+    "count": 23
+  },
+  {
+    "keyword": "satellite",
+    "count": 22
+  },
+  {
+    "keyword": "mission",
+    "count": 17
+  },
+  {
+    "keyword": "that",
     "count": 16
-  },
-  {
-    "keyword": "spacex",
-    "count": 12
-  },
-  {
-    "keyword": "lunar",
-    "count": 12
   }
 ]
