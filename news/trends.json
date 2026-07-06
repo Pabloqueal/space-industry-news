@@ -1,5 +1,9 @@
 [
   {
+    "keyword": "space",
+    "count": 46
+  },
+  {
     "keyword": "first",
     "count": 43
   },
@@ -12,31 +16,27 @@
     "count": 40
   },
   {
-    "keyword": "space",
+    "keyword": "launch",
     "count": 34
   },
   {
-    "keyword": "launch",
-    "count": 33
-  },
-  {
     "keyword": "satellite",
-    "count": 25
-  },
-  {
-    "keyword": "mission",
-    "count": 14
+    "count": 24
   },
   {
     "keyword": "nasa",
-    "count": 13
+    "count": 23
   },
   {
-    "keyword": "european",
-    "count": 11
+    "keyword": "mission",
+    "count": 20
   },
   {
-    "keyword": "payload.",
-    "count": 11
+    "keyword": "this",
+    "count": 18
+  },
+  {
+    "keyword": "that",
+    "count": 15
   }
 ]
