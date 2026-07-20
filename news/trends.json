@@ -1,11 +1,11 @@
 [
   {
     "keyword": "first",
-    "count": 53
+    "count": 54
   },
   {
     "keyword": "space",
-    "count": 50
+    "count": 48
   },
   {
     "keyword": "post",
@@ -17,14 +17,18 @@
   },
   {
     "keyword": "launch",
-    "count": 37
+    "count": 40
   },
   {
     "keyword": "nasa",
-    "count": 17
+    "count": 18
   },
   {
     "keyword": "from",
+    "count": 16
+  },
+  {
+    "keyword": "rocket",
     "count": 15
   },
   {
@@ -34,9 +38,5 @@
   {
     "keyword": "nasa\u2019s",
     "count": 15
-  },
-  {
-    "keyword": "artemis",
-    "count": 14
   }
 ]
