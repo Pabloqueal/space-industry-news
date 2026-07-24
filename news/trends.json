@@ -1,11 +1,11 @@
 [
   {
     "keyword": "first",
-    "count": 58
+    "count": 52
   },
   {
     "keyword": "space",
-    "count": 50
+    "count": 49
   },
   {
     "keyword": "post",
@@ -17,26 +17,26 @@
   },
   {
     "keyword": "launch",
-    "count": 35
+    "count": 24
+  },
+  {
+    "keyword": "satellite",
+    "count": 20
   },
   {
     "keyword": "that",
-    "count": 18
-  },
-  {
-    "keyword": "mission",
     "count": 17
   },
   {
     "keyword": "from",
-    "count": 16
-  },
-  {
-    "keyword": "will",
-    "count": 16
-  },
-  {
-    "keyword": "satellite",
     "count": 14
+  },
+  {
+    "keyword": "test",
+    "count": 13
+  },
+  {
+    "keyword": "rocket",
+    "count": 12
   }
 ]
