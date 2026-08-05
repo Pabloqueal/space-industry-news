@@ -1,10 +1,10 @@
 [
   {
-    "company": "SpaceX",
-    "mentions": 12
+    "company": "NASA",
+    "mentions": 13
   },
   {
-    "company": "NASA",
+    "company": "SpaceX",
     "mentions": 10
   },
   {
@@ -16,7 +16,7 @@
     "mentions": 3
   },
   {
-    "company": "Kreios Space",
+    "company": "Neuraspace",
     "mentions": 2
   }
 ]
