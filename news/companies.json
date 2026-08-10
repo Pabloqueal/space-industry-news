@@ -1,11 +1,15 @@
 [
   {
     "company": "NASA",
-    "mentions": 17
+    "mentions": 18
   },
   {
     "company": "SpaceX",
-    "mentions": 11
+    "mentions": 10
+  },
+  {
+    "company": "Not specified",
+    "mentions": 4
   },
   {
     "company": "ESA",
@@ -13,10 +17,6 @@
   },
   {
     "company": "U.S. Senate",
-    "mentions": 2
-  },
-  {
-    "company": "European Space Agency",
     "mentions": 2
   }
 ]
