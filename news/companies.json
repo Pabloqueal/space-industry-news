@@ -1,7 +1,11 @@
 [
   {
     "company": "NASA",
-    "mentions": 10
+    "mentions": 12
+  },
+  {
+    "company": "Rocket Lab",
+    "mentions": 6
   },
   {
     "company": "ESA",
@@ -12,11 +16,7 @@
     "mentions": 5
   },
   {
-    "company": "Rocket Lab",
-    "mentions": 4
-  },
-  {
-    "company": "China National Space Administration (CNSA)",
+    "company": "China",
     "mentions": 2
   }
 ]
