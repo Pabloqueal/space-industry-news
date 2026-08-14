@@ -1,11 +1,11 @@
 [
   {
-    "keyword": "first",
-    "count": 55
+    "keyword": "space",
+    "count": 78
   },
   {
-    "keyword": "space",
-    "count": 52
+    "keyword": "first",
+    "count": 49
   },
   {
     "keyword": "post",
@@ -16,27 +16,27 @@
     "count": 41
   },
   {
-    "keyword": "launch",
-    "count": 21
-  },
-  {
     "keyword": "will",
-    "count": 18
-  },
-  {
-    "keyword": "that",
     "count": 16
   },
   {
-    "keyword": "after",
+    "keyword": "launch",
+    "count": 16
+  },
+  {
+    "keyword": "satellite",
+    "count": 14
+  },
+  {
+    "keyword": "that",
+    "count": 14
+  },
+  {
+    "keyword": "force",
     "count": 11
   },
   {
-    "keyword": "lunar",
-    "count": 10
-  },
-  {
-    "keyword": "spacenews.",
-    "count": 10
+    "keyword": "satellite.",
+    "count": 11
   }
 ]
