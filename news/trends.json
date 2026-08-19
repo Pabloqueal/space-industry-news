@@ -1,42 +1,42 @@
 [
   {
     "keyword": "space",
-    "count": 65
+    "count": 58
   },
   {
     "keyword": "first",
-    "count": 46
+    "count": 42
   },
   {
     "keyword": "post",
-    "count": 41
+    "count": 40
   },
   {
     "keyword": "appeared",
-    "count": 41
+    "count": 40
   },
   {
     "keyword": "launch",
-    "count": 19
-  },
-  {
-    "keyword": "satellite",
-    "count": 13
+    "count": 26
   },
   {
     "keyword": "rocket",
+    "count": 13
+  },
+  {
+    "keyword": "mission",
+    "count": 13
+  },
+  {
+    "keyword": "from",
     "count": 12
   },
   {
-    "keyword": "spacenews.",
-    "count": 10
+    "keyword": "after",
+    "count": 11
   },
   {
-    "keyword": "european",
-    "count": 10
-  },
-  {
-    "keyword": "nasaspaceflight.com.",
-    "count": 10
+    "keyword": "nasa",
+    "count": 11
   }
 ]
