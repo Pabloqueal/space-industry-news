@@ -1,11 +1,11 @@
 [
   {
     "keyword": "space",
-    "count": 90
+    "count": 60
   },
   {
     "keyword": "first",
-    "count": 53
+    "count": 48
   },
   {
     "keyword": "post",
@@ -16,15 +16,11 @@
     "count": 40
   },
   {
-    "keyword": "roman",
-    "count": 32
-  },
-  {
     "keyword": "launch",
-    "count": 27
+    "count": 29
   },
   {
-    "keyword": "from",
+    "keyword": "roman",
     "count": 21
   },
   {
@@ -32,11 +28,15 @@
     "count": 19
   },
   {
-    "keyword": "nasa\u2019s",
-    "count": 16
+    "keyword": "european",
+    "count": 15
   },
   {
-    "keyword": "nancy",
-    "count": 15
+    "keyword": "from",
+    "count": 14
+  },
+  {
+    "keyword": "satellite",
+    "count": 13
   }
 ]
