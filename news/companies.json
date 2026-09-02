@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 19
+    "mentions": 16
   },
   {
     "company": "ESA",
-    "mentions": 10
-  },
-  {
-    "company": "SpaceX",
     "mentions": 9
   },
   {
-    "company": "Commercial Space Federation (CSF)",
-    "mentions": 1
+    "company": "SpaceX",
+    "mentions": 6
   },
   {
-    "company": "SpaceNews",
-    "mentions": 1
+    "company": "Via Satellite",
+    "mentions": 4
+  },
+  {
+    "company": "N/A",
+    "mentions": 2
   }
 ]
