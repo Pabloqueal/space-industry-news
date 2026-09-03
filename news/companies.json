@@ -1,22 +1,22 @@
 [
   {
     "company": "NASA",
-    "mentions": 9
-  },
-  {
-    "company": "SpaceX",
-    "mentions": 7
+    "mentions": 15
   },
   {
     "company": "ESA",
     "mentions": 7
   },
   {
-    "company": "Via Satellite",
-    "mentions": 3
+    "company": "SpaceX",
+    "mentions": 6
   },
   {
-    "company": "European Space Agency",
+    "company": "N/A",
+    "mentions": 2
+  },
+  {
+    "company": "APOD (Astronomy Picture of the Day)",
     "mentions": 2
   }
 ]
