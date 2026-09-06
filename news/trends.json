@@ -1,7 +1,7 @@
 [
   {
     "keyword": "space",
-    "count": 52
+    "count": 49
   },
   {
     "keyword": "first",
@@ -17,19 +17,15 @@
   },
   {
     "keyword": "this",
-    "count": 26
+    "count": 22
   },
   {
     "keyword": "launch",
-    "count": 25
+    "count": 22
   },
   {
     "keyword": "from",
-    "count": 21
-  },
-  {
-    "keyword": "nasa",
-    "count": 18
+    "count": 17
   },
   {
     "keyword": "european",
@@ -38,5 +34,9 @@
   {
     "keyword": "satellite",
     "count": 16
+  },
+  {
+    "keyword": "nasa",
+    "count": 14
   }
 ]
