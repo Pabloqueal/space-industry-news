@@ -1,27 +1,31 @@
 [
   {
-    "keyword": "space",
-    "count": 47
+    "keyword": "first",
+    "count": 46
   },
   {
-    "keyword": "first",
-    "count": 40
+    "keyword": "space",
+    "count": 43
   },
   {
     "keyword": "post",
-    "count": 34
+    "count": 39
   },
   {
     "keyword": "appeared",
-    "count": 34
+    "count": 39
   },
   {
     "keyword": "launch",
-    "count": 30
+    "count": 31
   },
   {
     "keyword": "from",
-    "count": 26
+    "count": 23
+  },
+  {
+    "keyword": "flight",
+    "count": 16
   },
   {
     "keyword": "european",
@@ -32,11 +36,7 @@
     "count": 13
   },
   {
-    "keyword": "nasa",
-    "count": 13
-  },
-  {
-    "keyword": "flight",
-    "count": 12
+    "keyword": "nasaspaceflight.com.",
+    "count": 10
   }
 ]
