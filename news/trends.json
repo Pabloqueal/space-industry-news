@@ -1,5 +1,9 @@
 [
   {
+    "keyword": "space",
+    "count": 46
+  },
+  {
     "keyword": "first",
     "count": 44
   },
@@ -12,16 +16,12 @@
     "count": 40
   },
   {
-    "keyword": "space",
-    "count": 39
-  },
-  {
     "keyword": "launch",
-    "count": 28
+    "count": 35
   },
   {
     "keyword": "from",
-    "count": 20
+    "count": 25
   },
   {
     "keyword": "european",
@@ -29,14 +29,14 @@
   },
   {
     "keyword": "satellite",
-    "count": 13
+    "count": 14
   },
   {
-    "keyword": "flight",
+    "keyword": "apod",
+    "count": 12
+  },
+  {
+    "keyword": "this",
     "count": 11
-  },
-  {
-    "keyword": "spacenews.",
-    "count": 10
   }
 ]
