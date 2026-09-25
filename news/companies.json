@@ -1,7 +1,7 @@
 [
   {
     "company": "NASA",
-    "mentions": 12
+    "mentions": 15
   },
   {
     "company": "SpaceX",
@@ -13,6 +13,10 @@
   },
   {
     "company": "Lockheed Martin",
+    "mentions": 1
+  },
+  {
+    "company": "Rocket Lab",
     "mentions": 1
   }
 ]
