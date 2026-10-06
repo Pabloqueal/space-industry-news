@@ -17,11 +17,15 @@
   },
   {
     "keyword": "launch",
-    "count": 17
+    "count": 19
   },
   {
     "keyword": "satellites",
     "count": 15
+  },
+  {
+    "keyword": "from",
+    "count": 12
   },
   {
     "keyword": "2026",
@@ -34,9 +38,5 @@
   {
     "keyword": "payload.",
     "count": 11
-  },
-  {
-    "keyword": "spacenews.",
-    "count": 10
   }
 ]
