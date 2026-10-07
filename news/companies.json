@@ -4,15 +4,19 @@
     "mentions": 10
   },
   {
-    "company": "SpaceX",
-    "mentions": 9
-  },
-  {
     "company": "ESA",
     "mentions": 7
   },
   {
+    "company": "SpaceX",
+    "mentions": 7
+  },
+  {
     "company": "Blue Origin",
+    "mentions": 1
+  },
+  {
+    "company": "Northrop Grumman",
     "mentions": 1
   }
 ]
