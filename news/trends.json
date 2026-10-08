@@ -1,11 +1,11 @@
 [
   {
     "keyword": "space",
-    "count": 64
+    "count": 73
   },
   {
     "keyword": "first",
-    "count": 48
+    "count": 49
   },
   {
     "keyword": "post",
@@ -17,26 +17,26 @@
   },
   {
     "keyword": "from",
-    "count": 18
+    "count": 16
   },
   {
     "keyword": "2026",
-    "count": 12
+    "count": 14
+  },
+  {
+    "keyword": "mission",
+    "count": 14
   },
   {
     "keyword": "launch",
+    "count": 13
+  },
+  {
+    "keyword": "nasa",
+    "count": 13
+  },
+  {
+    "keyword": "this",
     "count": 12
-  },
-  {
-    "keyword": "payload.",
-    "count": 12
-  },
-  {
-    "keyword": "industry",
-    "count": 10
-  },
-  {
-    "keyword": "spacenews.",
-    "count": 10
   }
 ]
