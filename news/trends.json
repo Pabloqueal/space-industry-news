@@ -1,11 +1,11 @@
 [
   {
     "keyword": "space",
-    "count": 68
+    "count": 71
   },
   {
     "keyword": "first",
-    "count": 46
+    "count": 45
   },
   {
     "keyword": "appeared",
@@ -17,18 +17,14 @@
   },
   {
     "keyword": "launch",
-    "count": 20
+    "count": 19
   },
   {
     "keyword": "satellite",
-    "count": 14
+    "count": 12
   },
   {
     "keyword": "from",
-    "count": 13
-  },
-  {
-    "keyword": "apod",
     "count": 12
   },
   {
@@ -36,7 +32,11 @@
     "count": 11
   },
   {
+    "keyword": "spacenews.",
+    "count": 10
+  },
+  {
     "keyword": "spacex",
-    "count": 11
+    "count": 10
   }
 ]
