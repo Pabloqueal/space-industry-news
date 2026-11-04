@@ -1,11 +1,7 @@
 [
   {
     "keyword": "space",
-    "count": 63
-  },
-  {
-    "keyword": "first",
-    "count": 42
+    "count": 61
   },
   {
     "keyword": "post",
@@ -16,20 +12,16 @@
     "count": 40
   },
   {
-    "keyword": "launch",
-    "count": 20
+    "keyword": "first",
+    "count": 40
   },
   {
     "keyword": "nasa",
+    "count": 21
+  },
+  {
+    "keyword": "launch",
     "count": 18
-  },
-  {
-    "keyword": "from",
-    "count": 13
-  },
-  {
-    "keyword": "spacex",
-    "count": 11
   },
   {
     "keyword": "spacenews.",
@@ -37,6 +29,14 @@
   },
   {
     "keyword": "nasaspaceflight.com.",
+    "count": 10
+  },
+  {
+    "keyword": "payload.",
+    "count": 10
+  },
+  {
+    "keyword": "satellite.",
     "count": 10
   }
 ]
