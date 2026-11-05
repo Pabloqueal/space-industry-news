@@ -1,9 +1,5 @@
 [
   {
-    "keyword": "space",
-    "count": 47
-  },
-  {
     "keyword": "post",
     "count": 40
   },
@@ -16,27 +12,31 @@
     "count": 40
   },
   {
+    "keyword": "space",
+    "count": 38
+  },
+  {
     "keyword": "nasa",
-    "count": 24
+    "count": 30
   },
   {
     "keyword": "launch",
-    "count": 20
+    "count": 16
+  },
+  {
+    "keyword": "this",
+    "count": 13
   },
   {
     "keyword": "that",
-    "count": 13
+    "count": 12
   },
   {
     "keyword": "spacex",
-    "count": 13
+    "count": 12
   },
   {
     "keyword": "communications",
-    "count": 11
-  },
-  {
-    "keyword": "artemis",
-    "count": 11
+    "count": 12
   }
 ]
