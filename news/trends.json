@@ -1,5 +1,9 @@
 [
   {
+    "keyword": "first",
+    "count": 43
+  },
+  {
     "keyword": "post",
     "count": 41
   },
@@ -8,35 +12,31 @@
     "count": 41
   },
   {
-    "keyword": "first",
-    "count": 41
-  },
-  {
     "keyword": "space",
-    "count": 39
-  },
-  {
-    "keyword": "nasa",
-    "count": 25
+    "count": 36
   },
   {
     "keyword": "launch",
-    "count": 16
-  },
-  {
-    "keyword": "blue",
-    "count": 12
-  },
-  {
-    "keyword": "that",
-    "count": 11
+    "count": 13
   },
   {
     "keyword": "solar",
+    "count": 13
+  },
+  {
+    "keyword": "mission",
+    "count": 12
+  },
+  {
+    "keyword": "spacex",
     "count": 11
   },
   {
     "keyword": "satellite.",
     "count": 11
+  },
+  {
+    "keyword": "spacenews.",
+    "count": 10
   }
 ]
