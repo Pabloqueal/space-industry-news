@@ -1,7 +1,11 @@
 [
   {
     "keyword": "first",
-    "count": 47
+    "count": 46
+  },
+  {
+    "keyword": "space",
+    "count": 43
   },
   {
     "keyword": "post",
@@ -12,31 +16,27 @@
     "count": 41
   },
   {
-    "keyword": "space",
-    "count": 38
-  },
-  {
     "keyword": "nasa",
-    "count": 23
-  },
-  {
-    "keyword": "mission",
-    "count": 21
+    "count": 29
   },
   {
     "keyword": "launch",
-    "count": 21
+    "count": 23
   },
   {
     "keyword": "moon",
-    "count": 16
+    "count": 15
   },
   {
-    "keyword": "this",
+    "keyword": "base",
+    "count": 15
+  },
+  {
+    "keyword": "that",
+    "count": 14
+  },
+  {
+    "keyword": "mission",
     "count": 13
-  },
-  {
-    "keyword": "apod",
-    "count": 12
   }
 ]
