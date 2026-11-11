@@ -4,6 +4,10 @@
     "count": 45
   },
   {
+    "keyword": "space",
+    "count": 40
+  },
+  {
     "keyword": "post",
     "count": 40
   },
@@ -12,31 +16,27 @@
     "count": 40
   },
   {
-    "keyword": "space",
-    "count": 37
-  },
-  {
     "keyword": "launch",
-    "count": 29
+    "count": 25
   },
   {
     "keyword": "nasa",
-    "count": 23
+    "count": 21
+  },
+  {
+    "keyword": "rocket",
+    "count": 13
+  },
+  {
+    "keyword": "satellite",
+    "count": 12
+  },
+  {
+    "keyword": "from",
+    "count": 12
   },
   {
     "keyword": "moon",
-    "count": 13
-  },
-  {
-    "keyword": "that",
-    "count": 13
-  },
-  {
-    "keyword": "mars",
-    "count": 12
-  },
-  {
-    "keyword": "mission",
-    "count": 12
+    "count": 11
   }
 ]
