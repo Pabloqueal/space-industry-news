@@ -1,42 +1,42 @@
 [
   {
-    "keyword": "first",
-    "count": 60
+    "keyword": "space",
+    "count": 65
   },
   {
-    "keyword": "space",
+    "keyword": "first",
     "count": 55
   },
   {
     "keyword": "post",
-    "count": 42
+    "count": 41
   },
   {
     "keyword": "appeared",
-    "count": 42
+    "count": 41
   },
   {
     "keyword": "launch",
-    "count": 32
-  },
-  {
-    "keyword": "flight",
-    "count": 17
-  },
-  {
-    "keyword": "nasa",
-    "count": 16
+    "count": 26
   },
   {
     "keyword": "from",
-    "count": 15
+    "count": 18
   },
   {
-    "keyword": "starship",
+    "keyword": "nasa",
+    "count": 17
+  },
+  {
+    "keyword": "flight",
     "count": 14
   },
   {
-    "keyword": "2026",
+    "keyword": "starship",
     "count": 12
+  },
+  {
+    "keyword": "nov.",
+    "count": 11
   }
 ]
