@@ -1,30 +1,34 @@
 [
   {
     "keyword": "space",
-    "count": 68
+    "count": 63
   },
   {
     "keyword": "first",
-    "count": 38
+    "count": 54
   },
   {
     "keyword": "post",
-    "count": 31
+    "count": 41
   },
   {
     "keyword": "appeared",
-    "count": 31
-  },
-  {
-    "keyword": "nasa",
-    "count": 18
-  },
-  {
-    "keyword": "from",
-    "count": 13
+    "count": 41
   },
   {
     "keyword": "launch",
+    "count": 19
+  },
+  {
+    "keyword": "nasa",
+    "count": 17
+  },
+  {
+    "keyword": "this",
+    "count": 11
+  },
+  {
+    "keyword": "that",
     "count": 11
   },
   {
@@ -32,11 +36,7 @@
     "count": 10
   },
   {
-    "keyword": "nov.",
-    "count": 10
-  },
-  {
-    "keyword": "that",
+    "keyword": "flight",
     "count": 10
   }
 ]
